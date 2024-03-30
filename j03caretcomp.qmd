@@ -1,0 +1,28 @@
+# Caractéristiques et compétences
+
+Tout d'abord il te faut répartir 50 points dans la 5 caractéristiques suivantes. Attention, aucune caractéristique ne peut être inférieure à 4 ni supérieure à 16.
+
+Voici les 5 caractéristiques :
+
+- Endurance
+- Dexterité
+- Force
+- Intelligence
+- Charisme
+
+Vos points de vie sont calculés en faisant END x 10.
+Votre Vitesse est calculée en faisant DEX/2 arrondi à l'entier supérieur.
+
+Ensuite il faut calculer la valeur de chacune des compétences ci-dessous. Il faut alors appliquer la formule suivante (CAR1+CAR2) x 2,5 arrondi à l'entier supérieur. CAR étant les caractéristiques entre parenthèses après le nom de la compétence.
+
+Voici les différentes compétences : 
+- Combat au corps à corps (FOR/END)
+- Combat à distance (FOR/DEX)
+- Utilisation de l'Ether (END/INT)
+- Connaissances (INT/CHA)
+- Perception (DEX/CHA)
+- Habileté (DEX/INT)
+- Artisanat (FOR/INT)
+- Discrétion (END/CHA)
+- Influence (FOR/CHA)
+- Athlétisme (END/DEX)
