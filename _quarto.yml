@@ -11,6 +11,9 @@ book:
     - j01Ednom.qmd
     - j02nom.qmd
     - j03caretcomp.qmd
+    - j04talent.qmd
+    - j05magie.qmd
+    - j06equipement.qmd
 
 #bibliography: references.bib
 

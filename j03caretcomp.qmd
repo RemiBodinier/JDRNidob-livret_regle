@@ -1,28 +1,29 @@
 # Caractéristiques et compétences
 
-Tout d'abord il te faut répartir 50 points dans la 5 caractéristiques suivantes. Attention, aucune caractéristique ne peut être inférieure à 4 ni supérieure à 16.
+Tout d'abord il vous faut répartir 50 points dans les cinq caractéristiques suivantes. Attention, aucune caractéristique ne peut être inférieure à 4 ni supérieure à 16.
 
 Voici les 5 caractéristiques :
 
-- Endurance
-- Dexterité
-- Force
-- Intelligence
-- Charisme
+- Endurance (END)
+- Dexterité (DEX)
+- Force (FOR)
+- Intelligence (INT)
+- Charisme (CHA)
 
 Vos points de vie sont calculés en faisant END x 10.
 Votre Vitesse est calculée en faisant DEX/2 arrondi à l'entier supérieur.
 
-Ensuite il faut calculer la valeur de chacune des compétences ci-dessous. Il faut alors appliquer la formule suivante (CAR1+CAR2) x 2,5 arrondi à l'entier supérieur. CAR étant les caractéristiques entre parenthèses après le nom de la compétence.
+Ensuite il faut calculer la valeur de chacune des compétences ci-dessous. Ce sont ces valeurs qui serviront pour la réalisation des divers actions que vous allez faire en jeu. Il faut alors appliquer la formule suivante (CAR1+CAR2) x 2,5 arrondi à l'entier supérieur. CAR étant les caractéristiques entre parenthèses après le nom de la compétence.
 
 Voici les différentes compétences : 
-- Combat au corps à corps (FOR/END)
-- Combat à distance (FOR/DEX)
-- Utilisation de l'Ether (END/INT)
-- Connaissances (INT/CHA)
-- Perception (DEX/CHA)
-- Habileté (DEX/INT)
-- Artisanat (FOR/INT)
-- Discrétion (END/CHA)
-- Influence (FOR/CHA)
-- Athlétisme (END/DEX)
+
+- Combat au corps à corps (FOR/END) : cette compétence correspond à votre capacité à vous battre, avec une arme ou à main nue, contre des adversaire qui vous font face directement. Cette compétence pourrait aussi vous servir dans des cas où la force doit être utilisé comme pousser un objet lour ou enfoncer une porte fermée.
+- Combat à distance (FOR/DEX) : cette compétence correspond à votre capacité à utiliser des armes de jet (javelot, sagaie, hache ou couteau de lancer...) ou des armes de tir (arc, fronde, arbalète,...). D'une manière générale, cette compétence vous servira pour jeter tout et n'importe quoi de léger. C'est grâce à cette compétence par exemple que vous allez lancer un lasso pour attrapper un aimal ou bien lancer un grappin pour escalader un mur.
+- Utilisation de l'Ether (END/INT) : l'Ether dans le monde d'Ednom correspond à la force produisant la magie. Cette compétence correspond donc à votre capacité à apprendre, comprendre et utiliser la magie. Vous pourrez par exemple apprendre à produire de la lumière, jeter une boule de feu ou identifier la présence d'une protection magique sur un objet. Cette compétence doit être au moins égale à 55% pour pouvoir prendre le talent "Initié à la magie"
+- Connaissances (INT/CHA) : cette compétence correspond à la culture générale de votre personnage. Elle pourra vous permettre de connaître le nom d'un animal, d'estimer les prix d'objets, de savoir comment quels sont les us et coutumes de la cour d'un noble.
+- Perception (DEX/CHA) : cette compétence correspond à votre acuité sensorielle qu'à votre intuition. C'est cette compétence qui vous utiliserez pour suivre les traces de quelqu'un, pour repérer la présence de danger et également pour détecter si une personne vous ment.
+- Habileté (DEX/INT) : cette compétence correspond à cotre capacité à utiliser vos deux mains dans des tâches recquérant un certain doigté. Il s'agira par exemple de subtiliser la bourse de quelqu'un, de crocheter une serrure, de se défaire de liens ou encore de désamorcer un piège. 
+- Artisanat (FOR/INT) : cette compétence correspond à votre capacité à construire, fabriquer ou réparer tout et n'importe quoi. Cette compétence va donc de faire un feu en pleine nature, à dresser des pièges, créer des armes de fortune, réparer un essieu cassé ou poser une atelle à un blessé.
+- Discrétion (END/CHA) : cette compétence correspond à votre capacité à ne pas vous faire remarquer. la Discrétion vous permettra de vous faufiler sans que personne ne vous remarque, de dissimuler la vérité à quelqu'un qui vous interroge ou bien de vous déguiser en une autre personne.
+- Influence (FOR/CHA) : cette compétence correspond à votre capacité user de votre réthorique pour obtenir ce que vous voulez. Cette compétence englobe la diplomatie, le bluff, l'intimidation ou encore le dressage. 
+- Athlétisme (END/DEX) : cette compétence correspond à vos capactés physiques et sportives. Cette compétence servira si vous devez fuir un danger, grimper un mur, nager dans un torrent, monter un animal ou bien donner une représentation de danse. 

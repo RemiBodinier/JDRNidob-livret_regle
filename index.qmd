@@ -1,22 +1,5 @@
 # Préface {.unnumbered}
 
-Bienvenu, chers voyageurs, dans le monde d'Ednom. 
+Bienvenu, cher voyageur, dans le monde d'Ednom. Je suis Pan et je serai votre guide tout au long de votre voyage. Ce voyage se fera dans un monde médiéval fantastique peuplé des créatures et races légendaires de tous les folklors mais également de créatures imaginaires originales. 
 
-Ednom est un monde médiéval fantastique dans lequel vous allez pouvoir évoluer en tant qu'aventuriers. 
-
-Ce mot a un sens tout particulier dans ce monde. Les acenturiers sont des personnes, de toutes races et de toutes origines, ayant choisi comme profession de ce mettre au service des autres. Que ce soit pour aider quelqu'un à s'occuper de sa demeure ou vaincre une menace pesant sur le monde, les tâches de l'aventurier sont aussi variées qu'il y a de commanditaires. 
-
-Ainsi, au fil des ans, les aventuriers se sont organisés. Une Guilde des Aventuriers s'est créée, établissant des comptoirs dans toutes les villes de tous les pays. Ces guildes servent d'intermédiaire entre un commanditaire et un aventurier. Elle récolte les demandes de la région qu'elle gère, et redistribue aux aventuriers qu'elle administre. Un client vient avec une demande, la guilde fixe la récompense selon la difficulté de la tâche et les moyens du demandeur puis, une fois la tâche accompli, paye le ou les aventuriers et se charge de récupérer la récompense auprès du client. 
-Comme il n'est pas rare que les aventuriers exercent dans une région précise, les comptoirs de la Guilde connaissent bien les capacités et spécificités des aventuriers qui viennent chercher de travail auprès d'elle. Afin d'assigner plus rapidement une tâche à une personne ou à un groupe, la Guilde est également chargée de donner un rang aux aventuriers. Il existe neuf rangs qui sont communs à toutes les guildes au monde. Voici ces neuf rangs : 
-1. Recrue
-2. Novice
-3. Apprenti
-4. Acolyte
-5. Adepte 
-6. Maître
-7. Champion
-8. Parangon
-9. Héros
-Cette classification permet surtout une sécurité pour les aventuriers. Selon la difficulté de la tâche demandée, l'offre de quête ne sera disponible qu'à partir d'un certain rang. De plus, un client peut toutà fait demander que les aventuriers s'occupant de la tâche pour laquelle il fait une demande aient un certain classement.  
-
-Maintenant que vous savez comment vous débrouillez en tant qu'aventurier, il vous faut construire, grâce aux pages à venir, l'avatar qui vous conviendra le mieux pour parcourir le monde extraordinaire d'Ednom.
+Au cours de votre découverte de ce monde merveilleux, vos aventures seront ponctués d'actions à réaliser. Dans ce jeu de rôle, la réalisation de ces actions sera déterminée par la hasard, sous le mode de jeu du D100. Pour savoir le résultat d'une action comme escalader un mur, convaincre une personne ou donner un coup d'épée, vous jeterrez un dé à 100 faces, et devrez faire moins qu'une certaine valeur pour que l'action soit réussie. Qui plus est, si le résultat du jeu de dé indique entre 1 et 5, votre réussie sera phénoménale et vous octroiera un bonus. A l'inverse, si le résultat du jet de dé indique entre 96 et 100, votre échec est catastrophique, ce qui aura de graves conséquences. Pour savoir à quelle valeur le jet de dé doit être inférieur pour que l'action soit réussie, rapportez vous à la page sur les caractéristiques et compétences. 
