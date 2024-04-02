@@ -1,6 +1,6 @@
 # Caractéristiques et compétences
 
-Tout d'abord il vous faut répartir 50 points dans les cinq caractéristiques suivantes. Attention, aucune caractéristique ne peut être inférieure à 4 ni supérieure à 16.
+Tout d'abord il vous faut répartir 45 points dans les cinq caractéristiques suivantes. Attention, aucune caractéristique ne peut être inférieure à 4 ni supérieure à 16.
 
 Voici les 5 caractéristiques :
 
@@ -13,7 +13,7 @@ Voici les 5 caractéristiques :
 Vos points de vie sont calculés en faisant END x 10.
 Votre Vitesse est calculée en faisant DEX/2 arrondi à l'entier supérieur.
 
-Ensuite il faut calculer la valeur de chacune des compétences ci-dessous. Ce sont ces valeurs qui serviront pour la réalisation des divers actions que vous allez faire en jeu. Il faut alors appliquer la formule suivante (CAR1+CAR2) x 2,5 arrondi à l'entier supérieur. CAR étant les caractéristiques entre parenthèses après le nom de la compétence.
+Ensuite il faut calculer la valeur de chacune des compétences ci-dessous. Ce sont ces valeurs qui serviront pour la réalisation des divers actions que vous allez faire en jeu. Il faut alors appliquer la formule suivante (CAR1+CAR2) x 2. CAR étant les caractéristiques entre parenthèses après le nom de la compétence.
 
 Voici les différentes compétences : 
 
