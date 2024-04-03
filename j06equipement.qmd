@@ -3,7 +3,7 @@
 Vous avez ainsi les valeurs de toutes les compétences qui vous serviront pour résoudre les situations que votre personnage est amené à vivre.
 Pour aider votre personnage, il lui faut également un équipement. Choisissez 3 groupes parmi les suivants et notez les dans votre inventaire : 
 
-1. Un paquetage d'aventurier comprenant un sac à dos de contenance 8(+2) objets, une gamelle, une boîte d’allume feu, une torche, 5 jours de rations (=1 objet), une gourde d’eau, un sac de couchage et une corde en chanvre de 15m.
+1. Un paquetage d'aventurier comprenant un sac à dos de contenance 8(+2) objets, un bol, une boîte d’allume feu, une torche, 5 jours de rations (=1 objet), une gourde d’eau, un sac de couchage et une corde en chanvre de 15m.
 2. Un arc long avec un carquois de contenance 20 flèches et les 20 flèches (nécessité combat a distance >= 50%)
 3. Une arme à deux mains (épée, hache, marteau, nécessité combat corps a corps >= 50%).
 4. Une arme à une main (épée, hache, fléau d’armes, masse d’armes, rapière, cimeterre, nécessité combat au corps a corps a 45%) et un bouclier réduisant les dégâts de 10 (nécessite FOR >= 9)
@@ -15,6 +15,6 @@ Pour aider votre personnage, il lui faut également un équipement. Choisissez 3
 10. Un kit de déguisement comprenant une sacoche de ceinture de contenance 3 objets avec du maquillage, de la teinture de cheveux et des postiches (barbe, moustache). Il est épuisé après 10 utilisations.
 11. Un kit d'écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.
 12. Une encyclopédie sur un sujet au choix parmi : nature, mythes, magie, gouvernement,...
-13. Un familier. ATtention un familier coûte deux groupes d'objets. Choisissez parmi la liste suivantes : 
+13. Un familier. Attention un familier coûte deux groupes d'objets. Choisissez parmi la liste suivantes : 
     - chien : 60PV; morsure = 45%; griffe = 50%; suivre une piste = 55%
     - faucon : serre = 55%; oeil perçant = 55%
