@@ -198,5 +198,95 @@
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Votre équipement</span>"
     ]
+  },
+  {
+    "objectID": "j07combat.html",
+    "href": "j07combat.html",
+    "title": "7  Le combat",
+    "section": "",
+    "text": "7.1 Début du combat\nL’ordre dans lequel les différents personnages vont jouer se détermine par rapport à leur vitesse. Le personnage à la vitesse la plus élevée commence puis les joueurs sont rangés en fonction de leur vitesse. Si deux personnages ont la même vitesse, l’ordre est déduit au hasard.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Le combat</span>"
+    ]
+  },
+  {
+    "objectID": "j07combat.html#début-du-combat",
+    "href": "j07combat.html#début-du-combat",
+    "title": "7  Le combat",
+    "section": "",
+    "text": "7.1.1 Embuscade\nLe principe d’une embuscade est justement d’agir avant les autres. Durant une embuscade, les personnages vont jouer les premiers, selon l’ordre de leur vitesse, puis les joueurs ayant subi l’embuscade vont jouer. Au prochain tour, c’est la méthode de jeu de base qui prévaudra, soit la vitesse comme ordre de passage.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Le combat</span>"
+    ]
+  },
+  {
+    "objectID": "j07combat.html#faire-des-dégâts",
+    "href": "j07combat.html#faire-des-dégâts",
+    "title": "7  Le combat",
+    "section": "7.2 Faire des dégâts",
+    "text": "7.2 Faire des dégâts\nPour faire des dégâts, un personnage doit d’abord jeter un jet de combat (au corps à corps, à distance, via un sort, …).",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Le combat</span>"
+    ]
+  },
+  {
+    "objectID": "j08archetype.html",
+    "href": "j08archetype.html",
+    "title": "8  Archétypes",
+    "section": "",
+    "text": "8.1 Guerrier",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Archétypes</span>"
+    ]
+  },
+  {
+    "objectID": "j08archetype.html#chasseur",
+    "href": "j08archetype.html#chasseur",
+    "title": "8  Archétypes",
+    "section": "8.2 Chasseur",
+    "text": "8.2 Chasseur",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Archétypes</span>"
+    ]
+  },
+  {
+    "objectID": "j08archetype.html#voleur",
+    "href": "j08archetype.html#voleur",
+    "title": "8  Archétypes",
+    "section": "8.3 Voleur",
+    "text": "8.3 Voleur",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Archétypes</span>"
+    ]
+  },
+  {
+    "objectID": "j08archetype.html#mage",
+    "href": "j08archetype.html#mage",
+    "title": "8  Archétypes",
+    "section": "8.4 Mage",
+    "text": "8.4 Mage",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Archétypes</span>"
+    ]
+  },
+  {
+    "objectID": "j08archetype.html#barde",
+    "href": "j08archetype.html#barde",
+    "title": "8  Archétypes",
+    "section": "8.5 Barde",
+    "text": "8.5 Barde",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Archétypes</span>"
+    ]
+  },
+  {
+    "objectID": "j08archetype.html#inventeur",
+    "href": "j08archetype.html#inventeur",
+    "title": "8  Archétypes",
+    "section": "8.6 Inventeur",
+    "text": "8.6 Inventeur",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Archétypes</span>"
+    ]
   }
 ]

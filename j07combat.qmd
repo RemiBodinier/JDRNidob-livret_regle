@@ -1,0 +1,13 @@
+# Le combat
+
+## Début du combat
+
+L'ordre dans lequel les différents personnages vont jouer se détermine par rapport à leur vitesse. Le personnage à la vitesse la plus élevée commence puis les joueurs sont rangés en fonction de leur vitesse. Si deux personnages ont la même vitesse, l'ordre est déduit au hasard. 
+
+### Embuscade
+
+Le principe d'une embuscade est justement d'agir avant les autres. Durant une embuscade, les personnages vont jouer les premiers, selon l'ordre de leur vitesse, puis les joueurs ayant subi l'embuscade vont jouer. Au prochain tour, c'est la méthode de jeu de base qui prévaudra, soit la vitesse comme ordre de passage. 
+
+## Faire des dégâts
+
+Pour faire des dégâts, un personnage doit d'abord jeter un jet de combat (au corps à corps, à distance, via un sort, ...).

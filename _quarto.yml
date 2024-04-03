@@ -14,6 +14,8 @@ book:
     - j04talent.qmd
     - j05magie.qmd
     - j06equipement.qmd
+    - j07combat.qmd
+    - j08archetype.qmd
 
 #bibliography: references.bib
 

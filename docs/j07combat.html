@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Voyage en Ednom : le livret de règles - 3&nbsp; Caractéristiques et compétences</title>
+<title>Voyage en Ednom : le livret de règles - 7&nbsp; Le combat</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./j04talent.html" rel="next">
-<link href="./j02nom.html" rel="prev">
+<link href="./j08archetype.html" rel="next">
+<link href="./j06equipement.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./j03caretcomp.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Caractéristiques et compétences</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./j07combat.html"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Le combat</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -126,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./j03caretcomp.html" class="sidebar-item-text sidebar-link active">
+  <a href="./j03caretcomp.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Caractéristiques et compétences</span></span></a>
   </div>
 </li>
@@ -150,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./j07combat.html" class="sidebar-item-text sidebar-link">
+  <a href="./j07combat.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Le combat</span></span></a>
   </div>
 </li>
@@ -166,14 +166,24 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#début-du-combat" id="toc-début-du-combat" class="nav-link active" data-scroll-target="#début-du-combat"><span class="header-section-number">7.1</span> Début du combat</a>
+  <ul class="collapse">
+  <li><a href="#embuscade" id="toc-embuscade" class="nav-link" data-scroll-target="#embuscade"><span class="header-section-number">7.1.1</span> Embuscade</a></li>
+  </ul></li>
+  <li><a href="#faire-des-dégâts" id="toc-faire-des-dégâts" class="nav-link" data-scroll-target="#faire-des-dégâts"><span class="header-section-number">7.2</span> Faire des dégâts</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Caractéristiques et compétences</span></h1>
+<h1 class="title"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Le combat</span></h1>
 </div>
 
 
@@ -190,32 +200,20 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Tout d’abord il vous faut répartir 45 points dans les cinq caractéristiques suivantes. Attention, aucune caractéristique ne peut être inférieure à 4 ni supérieure à 16.</p>
-<p>Voici les 5 caractéristiques :</p>
-<ul>
-<li>Endurance (END)</li>
-<li>Dexterité (DEX)</li>
-<li>Force (FOR)</li>
-<li>Intelligence (INT)</li>
-<li>Charisme (CHA)</li>
-</ul>
-<p>Vos points de vie sont calculés en faisant END x 10. Votre Vitesse est calculée en faisant DEX/2 arrondi à l’entier supérieur.</p>
-<p>Ensuite il faut calculer la valeur de chacune des compétences ci-dessous. Ce sont ces valeurs qui serviront pour la réalisation des divers actions que vous allez faire en jeu. Il faut alors appliquer la formule suivante (CAR1+CAR2) x 2. CAR étant les caractéristiques entre parenthèses après le nom de la compétence.</p>
-<p>Voici les différentes compétences :</p>
-<ul>
-<li>Combat au corps à corps (FOR/END) : cette compétence correspond à votre capacité à vous battre, avec une arme ou à main nue, contre des adversaire qui vous font face directement. Cette compétence pourrait aussi vous servir dans des cas où la force doit être utilisé comme pousser un objet lour ou enfoncer une porte fermée.</li>
-<li>Combat à distance (FOR/DEX) : cette compétence correspond à votre capacité à utiliser des armes de jet (javelot, sagaie, hache ou couteau de lancer…) ou des armes de tir (arc, fronde, arbalète,…). D’une manière générale, cette compétence vous servira pour jeter tout et n’importe quoi de léger. C’est grâce à cette compétence par exemple que vous allez lancer un lasso pour attrapper un aimal ou bien lancer un grappin pour escalader un mur.</li>
-<li>Utilisation de l’Ether (END/INT) : l’Ether dans le monde d’Ednom correspond à la force produisant la magie. Cette compétence correspond donc à votre capacité à apprendre, comprendre et utiliser la magie. Vous pourrez par exemple apprendre à produire de la lumière, jeter une boule de feu ou identifier la présence d’une protection magique sur un objet. Cette compétence doit être au moins égale à 55% pour pouvoir prendre le talent “Initié à la magie”</li>
-<li>Connaissances (INT/CHA) : cette compétence correspond à la culture générale de votre personnage. Elle pourra vous permettre de connaître le nom d’un animal, d’estimer les prix d’objets, de savoir comment quels sont les us et coutumes de la cour d’un noble.</li>
-<li>Perception (DEX/CHA) : cette compétence correspond à votre acuité sensorielle qu’à votre intuition. C’est cette compétence qui vous utiliserez pour suivre les traces de quelqu’un, pour repérer la présence de danger et également pour détecter si une personne vous ment.</li>
-<li>Habileté (DEX/INT) : cette compétence correspond à cotre capacité à utiliser vos deux mains dans des tâches recquérant un certain doigté. Il s’agira par exemple de subtiliser la bourse de quelqu’un, de crocheter une serrure, de se défaire de liens ou encore de désamorcer un piège.</li>
-<li>Artisanat (FOR/INT) : cette compétence correspond à votre capacité à construire, fabriquer ou réparer tout et n’importe quoi. Cette compétence va donc de faire un feu en pleine nature, à dresser des pièges, créer des armes de fortune, réparer un essieu cassé ou poser une atelle à un blessé.</li>
-<li>Discrétion (END/CHA) : cette compétence correspond à votre capacité à ne pas vous faire remarquer. la Discrétion vous permettra de vous faufiler sans que personne ne vous remarque, de dissimuler la vérité à quelqu’un qui vous interroge ou bien de vous déguiser en une autre personne.</li>
-<li>Influence (FOR/CHA) : cette compétence correspond à votre capacité user de votre réthorique pour obtenir ce que vous voulez. Cette compétence englobe la diplomatie, le bluff, l’intimidation ou encore le dressage.</li>
-<li>Athlétisme (END/DEX) : cette compétence correspond à vos capactés physiques et sportives. Cette compétence servira si vous devez fuir un danger, grimper un mur, nager dans un torrent, monter un animal ou bien donner une représentation de danse.</li>
-</ul>
+<section id="début-du-combat" class="level2" data-number="7.1">
+<h2 data-number="7.1" class="anchored" data-anchor-id="début-du-combat"><span class="header-section-number">7.1</span> Début du combat</h2>
+<p>L’ordre dans lequel les différents personnages vont jouer se détermine par rapport à leur vitesse. Le personnage à la vitesse la plus élevée commence puis les joueurs sont rangés en fonction de leur vitesse. Si deux personnages ont la même vitesse, l’ordre est déduit au hasard.</p>
+<section id="embuscade" class="level3" data-number="7.1.1">
+<h3 data-number="7.1.1" class="anchored" data-anchor-id="embuscade"><span class="header-section-number">7.1.1</span> Embuscade</h3>
+<p>Le principe d’une embuscade est justement d’agir avant les autres. Durant une embuscade, les personnages vont jouer les premiers, selon l’ordre de leur vitesse, puis les joueurs ayant subi l’embuscade vont jouer. Au prochain tour, c’est la méthode de jeu de base qui prévaudra, soit la vitesse comme ordre de passage.</p>
+</section>
+</section>
+<section id="faire-des-dégâts" class="level2" data-number="7.2">
+<h2 data-number="7.2" class="anchored" data-anchor-id="faire-des-dégâts"><span class="header-section-number">7.2</span> Faire des dégâts</h2>
+<p>Pour faire des dégâts, un personnage doit d’abord jeter un jet de combat (au corps à corps, à distance, via un sort, …).</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -629,13 +627,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./j02nom.html" class="pagination-link" aria-label="Choisir son nom">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Choisir son nom</span></span>
+      <a href="./j06equipement.html" class="pagination-link" aria-label="Votre équipement">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Votre équipement</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./j04talent.html" class="pagination-link" aria-label="Les talents">
-        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Les talents</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./j08archetype.html" class="pagination-link" aria-label="Archétypes">
+        <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Archétypes</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
