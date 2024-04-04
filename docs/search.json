@@ -214,7 +214,7 @@
     "href": "j06equipement.html#les-armes",
     "title": "6  L’équipement",
     "section": "6.2 Les armes",
-    "text": "6.2 Les armes\nIl existe trois types de dégâts pour toutes les armes :\n\ncontondant :\nperforant :\ntranchant :\n\nIl existe",
+    "text": "6.2 Les armes\nIl existe trois types de dégâts pour toutes les armes :\n\ncontondant : les armes infligeant des dégâts de type contondant ont un bonus de 20 aux dégâts, ce bonus montant à 40 en cas de réussite critique.\nperforant : les armes infligeant des dégâts de type perforant n’inflige pas de dégâts supplémentaire de base mais les dégâts sont doublés en cas de réussite critique.\ntranchant : les armes infligeant des dégâts de type tranchant ont un bonus de 10 aux dégâts, ce bnus monte à 50 en cas de réussite critique.\n\nIl existe",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>L'équipement</span>"
     ]
@@ -244,7 +244,7 @@
     "href": "j07combat.html#faire-des-dégâts",
     "title": "7  Le combat",
     "section": "7.2 Faire des dégâts",
-    "text": "7.2 Faire des dégâts\nPour faire des dégâts, un personnage doit d’abord jeter un jet de combat (au corps à corps, à distance, via un sort, …). Il réussi son action si le résultat du jet de dé est moins élevé que la valeur qu’il possède dans la compétence correspondante. Enfin, les dégâs qu’il inflige sont calculés selon la différence entre le résultat du dé et la valeur qu’il possède dans la conpétence (en y ajoutant de potentiels bonus inhérents aux armes ou à des talents particulier).",
+    "text": "7.2 Faire des dégâts\nPour faire des dégâts, un personnage doit d’abord jeter un jet de combat (au corps à corps, à distance, via un sort, …). Il réussi son action si le résultat du jet de dé est moins élevé que la valeur qu’il possède dans la compétence correspondante. Enfin, les dégâs qu’il inflige sont calculés selon la différence entre le résultat du dé et la valeur qu’il possède dans la compétence (en y ajoutant de potentiels bonus inhérents aux armes ou à des talents particulier).",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Le combat</span>"
     ]
