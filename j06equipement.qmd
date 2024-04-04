@@ -1,5 +1,6 @@
-# Votre équipement
+# L'équipement
 
+## L'équipement de base
 Vous avez ainsi les valeurs de toutes les compétences qui vous serviront pour résoudre les situations que votre personnage est amené à vivre.
 Pour aider votre personnage, il lui faut également un équipement. Choisissez 3 groupes parmi les suivants et notez les dans votre inventaire : 
 
@@ -18,3 +19,13 @@ Pour aider votre personnage, il lui faut également un équipement. Choisissez 3
 13. Un familier. Attention un familier coûte deux groupes d'objets. Choisissez parmi la liste suivantes : 
     - chien : 60PV; morsure = 45%; griffe = 50%; suivre une piste = 55%
     - faucon : serre = 55%; oeil perçant = 55%
+
+## Les armes
+
+Il existe trois types de dégâts pour toutes les armes : 
+
+- contondant :
+- perforant : 
+- tranchant : 
+
+Il existe 

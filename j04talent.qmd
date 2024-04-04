@@ -34,3 +34,5 @@ Chaque talent est associé à une compétence et vous allez pouvoir en choisir d
 ## Talent d'influence
 
 ## Talent d'athlétisme
+
+- Attaque en finesse : le personnage utilise sa valeur d'athlétisme plutôt que celle de combat au corps à corps pour attaquer avec des armes utilisable au corps à corps. 

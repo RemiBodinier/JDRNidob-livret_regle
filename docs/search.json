@@ -164,7 +164,7 @@
     "href": "j04talent.html#talent-dathlétisme",
     "title": "4  Les talents",
     "section": "4.10 Talent d’athlétisme",
-    "text": "4.10 Talent d’athlétisme",
+    "text": "4.10 Talent d’athlétisme\n\nAttaque en finesse : le personnage utilise sa valeur d’athlétisme plutôt que celle de combat au corps à corps pour attaquer avec des armes utilisable au corps à corps.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les talents</span>"
     ]
@@ -192,11 +192,31 @@
   {
     "objectID": "j06equipement.html",
     "href": "j06equipement.html",
-    "title": "6  Votre équipement",
+    "title": "6  L’équipement",
     "section": "",
-    "text": "Vous avez ainsi les valeurs de toutes les compétences qui vous serviront pour résoudre les situations que votre personnage est amené à vivre. Pour aider votre personnage, il lui faut également un équipement. Choisissez 3 groupes parmi les suivants et notez les dans votre inventaire :\n\nUn paquetage d’aventurier comprenant un sac à dos de contenance 8(+2) objets, une gamelle, une boîte d’allume feu, une torche, 5 jours de rations (=1 objet), une gourde d’eau, un sac de couchage et une corde en chanvre de 15m.\nUn arc long avec un carquois de contenance 20 flèches et les 20 flèches (nécessité combat a distance &gt;= 50%)\nUne arme à deux mains (épée, hache, marteau, nécessité combat corps a corps &gt;= 50%).\nUne arme à une main (épée, hache, fléau d’armes, masse d’armes, rapière, cimeterre, nécessité combat au corps a corps a 45%) et un bouclier réduisant les dégâts de 10 (nécessite FOR &gt;= 9)\nUn arme a une main (épée, hache, rapière, fléau d’armes, masse d’armes, rapière, cimeterre, nécessité combat au corps a corps &gt;= 45%) et deux armes de jet (couteau de lancer, hachette, nécessité combat a distance &gt;= 45%).\nUne armure réduisant les dégâts de 20 (nécessite FOR &gt;= 11)\nUn instrument enchanté (contient 3 sorts fonctionnant avec des jets d’Influence, nécessite Influence &gt;= 50%)\nUn kit de soins comprenant une sacoche de ceinture de contenance 3 objets avec des des bandages, un baume pour soulager la douleur et un nécessaire pour construire une attelle. Il est épuisé après 10 utilisations.\nUn kit de crochetage comprenant une sacoche de ceinture de contenance 3 objets avec des crochets de serrurier, un maillet et un burin. Il est épuisé après 10 utilisations.\nUn kit de déguisement comprenant une sacoche de ceinture de contenance 3 objets avec du maquillage, de la teinture de cheveux et des postiches (barbe, moustache). Il est épuisé après 10 utilisations.\nUn kit d’écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.\nUne encyclopédie sur un sujet au choix parmi : nature, mythes, magie, gouvernement,…\nUn familier. ATtention un familier coûte deux groupes d’objets. Choisissez parmi la liste suivantes :\n\nchien : 60PV; morsure = 45%; griffe = 50%; suivre une piste = 55%\nfaucon : serre = 55%; oeil perçant = 55%",
+    "text": "6.1 L’équipement de base\nVous avez ainsi les valeurs de toutes les compétences qui vous serviront pour résoudre les situations que votre personnage est amené à vivre. Pour aider votre personnage, il lui faut également un équipement. Choisissez 3 groupes parmi les suivants et notez les dans votre inventaire :",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Votre équipement</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>L'équipement</span>"
+    ]
+  },
+  {
+    "objectID": "j06equipement.html#léquipement-de-base",
+    "href": "j06equipement.html#léquipement-de-base",
+    "title": "6  L’équipement",
+    "section": "",
+    "text": "Un paquetage d’aventurier comprenant un sac à dos de contenance 8(+2) objets, un bol, une boîte d’allume feu, une torche, 5 jours de rations (=1 objet), une gourde d’eau, un sac de couchage et une corde en chanvre de 15m.\nUn arc long avec un carquois de contenance 20 flèches et les 20 flèches (nécessité combat a distance &gt;= 50%)\nUne arme à deux mains (épée, hache, marteau, nécessité combat corps a corps &gt;= 50%).\nUne arme à une main (épée, hache, fléau d’armes, masse d’armes, rapière, cimeterre, nécessité combat au corps a corps a 45%) et un bouclier réduisant les dégâts de 10 (nécessite FOR &gt;= 9)\nUn arme a une main (épée, hache, rapière, fléau d’armes, masse d’armes, rapière, cimeterre, nécessité combat au corps a corps &gt;= 45%) et deux armes de jet (couteau de lancer, hachette, nécessité combat a distance &gt;= 45%).\nUne armure réduisant les dégâts de 20 (nécessite FOR &gt;= 11)\nUn instrument enchanté (contient 3 sorts fonctionnant avec des jets d’Influence, nécessite Influence &gt;= 50%)\nUn kit de soins comprenant une sacoche de ceinture de contenance 3 objets avec des des bandages, un baume pour soulager la douleur et un nécessaire pour construire une attelle. Il est épuisé après 10 utilisations.\nUn kit de crochetage comprenant une sacoche de ceinture de contenance 3 objets avec des crochets de serrurier, un maillet et un burin. Il est épuisé après 10 utilisations.\nUn kit de déguisement comprenant une sacoche de ceinture de contenance 3 objets avec du maquillage, de la teinture de cheveux et des postiches (barbe, moustache). Il est épuisé après 10 utilisations.\nUn kit d’écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.\nUne encyclopédie sur un sujet au choix parmi : nature, mythes, magie, gouvernement,…\nUn familier. Attention un familier coûte deux groupes d’objets. Choisissez parmi la liste suivantes :\n\nchien : 60PV; morsure = 45%; griffe = 50%; suivre une piste = 55%\nfaucon : serre = 55%; oeil perçant = 55%",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>L'équipement</span>"
+    ]
+  },
+  {
+    "objectID": "j06equipement.html#les-armes",
+    "href": "j06equipement.html#les-armes",
+    "title": "6  L’équipement",
+    "section": "6.2 Les armes",
+    "text": "6.2 Les armes\nIl existe trois types de dégâts pour toutes les armes :\n\ncontondant :\nperforant :\ntranchant :\n\nIl existe",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>L'équipement</span>"
     ]
   },
   {
@@ -224,7 +244,7 @@
     "href": "j07combat.html#faire-des-dégâts",
     "title": "7  Le combat",
     "section": "7.2 Faire des dégâts",
-    "text": "7.2 Faire des dégâts\nPour faire des dégâts, un personnage doit d’abord jeter un jet de combat (au corps à corps, à distance, via un sort, …).",
+    "text": "7.2 Faire des dégâts\nPour faire des dégâts, un personnage doit d’abord jeter un jet de combat (au corps à corps, à distance, via un sort, …). Il réussi son action si le résultat du jet de dé est moins élevé que la valeur qu’il possède dans la compétence correspondante. Enfin, les dégâs qu’il inflige sont calculés selon la différence entre le résultat du dé et la valeur qu’il possède dans la conpétence (en y ajoutant de potentiels bonus inhérents aux armes ou à des talents particulier).",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Le combat</span>"
     ]

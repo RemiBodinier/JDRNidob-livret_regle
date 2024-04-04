@@ -10,4 +10,4 @@ Le principe d'une embuscade est justement d'agir avant les autres. Durant une em
 
 ## Faire des dégâts
 
-Pour faire des dégâts, un personnage doit d'abord jeter un jet de combat (au corps à corps, à distance, via un sort, ...).
+Pour faire des dégâts, un personnage doit d'abord jeter un jet de combat (au corps à corps, à distance, via un sort, ...). Il réussi son action si le résultat du jet de dé est moins élevé que la valeur qu'il possède dans la compétence correspondante. Enfin, les dégâs qu'il inflige sont calculés selon la différence entre le résultat du dé et la valeur qu'il possède dans la conpétence (en y ajoutant de potentiels bonus inhérents aux armes ou à des talents particulier).
