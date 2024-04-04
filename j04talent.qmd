@@ -6,15 +6,15 @@ Chaque talent est associé à une compétence et vous allez pouvoir en choisir d
 
 ## Talent de combat au corps à corps
 
-- Maître des [armes] : votre personnage sait très bien utiliser un type d'armes parmi ceux listés après. Il bénéficie d'un bonus de 10 points de dégâts quand il utilise une arme de ce type. Les types sont : dague, épée courte, épée, épée longue, hache, masse, bâton, armes d'hast. 
+- Maître des [armes] : votre personnage sait très bien utiliser un type d'armes parmi ceux listés après. Il augmente la valeur de "Combat au corps à corps" de 10% quand il utilise une arme de ce type. Les types sont : dague, épée courte, épée, épée longue, hache, masse, bâton, armes d'hast. 
 
 ## Talent de combat à distance
 
-- Maître des [armes] : votre personnage sait très bien utiliser un type d'armes parmi ceux listés après. Il bénéficie d'un bonus de 10 points de dégâts quand il utilise une arme de ce type. Les types sont : armes de jet, armes de lancer, arcs, fronde, arbalète.  
+- Maître des [armes] : votre personnage sait très bien utiliser un type d'armes parmi ceux listés après. Il augmente la valeur de "Combat à distance" de 10% quand il utilise une arme de ce type. Les types sont : armes de jet, armes de lancer, arcs, fronde, arbalète.  
 
 ## Talent d'utilisation de l'Ether
 
-- Initié à la magie (nécessite 55% en Utilisation de l'Ether) : le personnage a suivi un cursus lui permettant d'utiliser des sorts mineurs. Il peut choisir cinq sorts mineurs dans la liste présente dans la partie sur la magie.
+- Initié à la magie (nécessite 55% en Utilisation de l'Ether) : le personnage a suivi un cursus lui permettant d'utiliser des sorts mineurs. Il peut choisir trois sorts mineurs dans la liste présente dans la partie sur la magie.
 - Etudiant d'une école de magie : le personnage a étudié une des quatre grandes écoles de magie et peut lancer trois sorts parmi la liste proposé dans l'école à laquelle ils appartiennent. 
 
 ## Talent de connaissances

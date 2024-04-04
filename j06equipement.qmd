@@ -26,6 +26,6 @@ Il existe trois types de dégâts pour toutes les armes :
 
 - contondant : les armes infligeant des dégâts de type contondant ont un bonus de 20 aux dégâts, ce bonus montant à 40 en cas de réussite critique. 
 - perforant : les armes infligeant des dégâts de type perforant n'inflige pas de dégâts supplémentaire de base mais les dégâts sont doublés en cas de réussite critique. 
-- tranchant : les armes infligeant des dégâts de type tranchant ont un bonus de 10 aux dégâts, ce bnus monte à 50 en cas de réussite critique. 
+- tranchant : les armes infligeant des dégâts de type tranchant ont un bonus de 10 aux dégâts, ce bonus monte à 50 en cas de réussite critique. 
 
-Il existe 
+Il existe également trois 

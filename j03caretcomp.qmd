@@ -1,6 +1,6 @@
 # Caractéristiques et compétences
 
-Tout d'abord il vous faut répartir 45 points dans les cinq caractéristiques suivantes. Attention, aucune caractéristique ne peut être inférieure à 4 ni supérieure à 16.
+Tout d'abord il vous faut répartir 45 points dans les cinq caractéristiques suivantes. Attention, aucune caractéristique ne peut être inférieure à 5 ni supérieure à 15.
 
 Voici les 5 caractéristiques :
 

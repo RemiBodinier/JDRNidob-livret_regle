@@ -2,7 +2,9 @@
 
 ## Sorts mineurs
 
-Voici la liste des sorts mineurs disponibles à ceux qui ont pris le talent "Initié à la magie"
+Voici la liste des sorts mineurs disponibles à ceux qui ont pris le talent "Initié à la magie" :
+
+- Murmure : le vent emporte un murmure du mage vers une cible éloignée. 
 
 ## Ecole de magie
 
