@@ -22,10 +22,36 @@ Pour aider votre personnage, il lui faut également un équipement. Choisissez 3
 
 ## Les armes
 
+| Nom         | Type d'arme        | Type de dégâts | Particularités                |
+|-------------|--------------------|----------------|-------------------------------|
+| Ceste       | Arme légère        | Contondant     | Maniable                      |
+| Dague       | Arme légère        | Perforant      | Lancer, Maniable              |
+| Gourdin     | Arme légère        | Contondant     | Maniable                      |
+| Francisque  | Arme légère        | Tranchant      | Lancer, Maniable              |
+| Javeline    | Arme légère        | Perforant      | Lancer                        |
+| Faucille    | Arme légère        | Tranchant      | Maniable                      |
+| Bâton       | Arme légère        | Contondant     | A deux mains, Allonge         |
+| Fronde      | Arme légère        | Contondant     | Munitions                     |
+| Cimeterre   | Arme intermédiaire | Tranchant      |                               |
+| Hache       | Arme intermédiaire | Tranchant      |                               |
+| Rapière     | Arme intermédiaire | Perforant      |                               |
+| Marteau     | Arme intermédiaire | Contondant     |                               |
+| Barmace     | Arme intermédiaire | Contondant     |                               |
+| Lance       | Arme intermédiaire | Perforant      | A deux mains, Allonge, Lancer |
+| Glaive      | Arme intermédiaire | Perforant      |                               |
+| Arc         | Arme intermédiaire | Perforant      | A deux mains, Munitions       |
+| Claymore    | Arme lourde        | Tranchant      | A deux mains                  |
+| Labrys      | Arme lourde        | Tranchant      | A deux mains                  |
+| Morgenstern | Arme lourde        | Perforant      | A deux mains                  |
+| Corbin      | Arme lourde        | Contondant     | A deux mains                  |
+| Trident     | Arme lourde        | Perforant      | A deux mains, Allonge, Lancer |
+| Arbalète    | Arme lourde        | Perforant      | A deux mains, Munitions       |
+| Fléau       | Arme lourde        | Contondant     | A deux mains, Allonge         |
+
 Il existe trois types de dégâts pour toutes les armes : 
 
 - contondant : les armes infligeant des dégâts de type contondant ont un bonus de 20 aux dégâts, ce bonus montant à 40 en cas de réussite critique. 
-- perforant : les armes infligeant des dégâts de type perforant n'inflige pas de dégâts supplémentaire de base mais les dégâts sont doublés en cas de réussite critique. 
+- perforant : les armes infligeant des dégâts de type perforant n'inflige pas de dégâts supplémentaire de base mais les dégâts sont doublés en cas de réussite critique. v
 - tranchant : les armes infligeant des dégâts de type tranchant ont un bonus de 10 aux dégâts, ce bonus monte à 50 en cas de réussite critique. 
 
 Il existe également trois 
