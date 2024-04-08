@@ -224,10 +224,10 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-number="6.2" class="anchored" data-anchor-id="les-armes"><span class="header-section-number">6.2</span> Les armes</h2>
 <table class="table">
 <colgroup>
-<col style="width: 16%">
-<col style="width: 25%">
-<col style="width: 20%">
-<col style="width: 38%">
+<col style="width: 14%">
+<col style="width: 22%">
+<col style="width: 17%">
+<col style="width: 45%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -284,7 +284,7 @@ ul.task-list li input[type="checkbox"] {
 <td>Fronde</td>
 <td>Arme légère</td>
 <td>Contondant</td>
-<td>Munitions</td>
+<td>Munitions, Distance</td>
 </tr>
 <tr class="odd">
 <td>Cimeterre</td>
@@ -332,7 +332,7 @@ ul.task-list li input[type="checkbox"] {
 <td>Arc</td>
 <td>Arme intermédiaire</td>
 <td>Perforant</td>
-<td>A deux mains, Munitions</td>
+<td>A deux mains, Munitions, Distance</td>
 </tr>
 <tr class="odd">
 <td>Claymore</td>
@@ -368,7 +368,7 @@ ul.task-list li input[type="checkbox"] {
 <td>Arbalète</td>
 <td>Arme lourde</td>
 <td>Perforant</td>
-<td>A deux mains, Munitions</td>
+<td>A deux mains, Munitions, Distance</td>
 </tr>
 <tr class="odd">
 <td>Fléau</td>
@@ -378,13 +378,27 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<p>Il existe trois types de dégâts pour toutes les armes :</p>
+<p>Définition des types d’armes :</p>
 <ul>
-<li>contondant : les armes infligeant des dégâts de type contondant ont un bonus de 20 aux dégâts, ce bonus montant à 40 en cas de réussite critique.</li>
-<li>perforant : les armes infligeant des dégâts de type perforant n’inflige pas de dégâts supplémentaire de base mais les dégâts sont doublés en cas de réussite critique. v</li>
-<li>tranchant : les armes infligeant des dégâts de type tranchant ont un bonus de 10 aux dégâts, ce bonus monte à 50 en cas de réussite critique.</li>
+<li>Légère (Force nécessaire inférieure ou égale à 9) : ces armes ne bénéficient pas de bonus de dégâts.</li>
+<li>Intermédiaire (Force nécessaire compris entre 10 et 14) : ces armes bénéficient d’un bonus de 10 aux dégâts.</li>
+<li>Lourde (Force nécessaire supérieure ou égale à 15) : ces armes bénéfécient d’un bonus de 20 aux dégâts.</li>
 </ul>
-<p>Il existe également trois</p>
+<p>Définition des types de dégâts :</p>
+<ul>
+<li>contondant : ces armes bénéficient d’un bonus 30 aux dégâts mais ne bénéficient pas de dégâts supplémentaires en cas de réussite critique.</li>
+<li>perforant : ces armes ne bénéficient pas d’un bonus de base aux dégâts mais les dégâts sont doublés en cas de réussite critique.</li>
+<li>tranchant : ces armes bénéficient d’un bonus de 10 aux dégâts et ce bonus monte à 50 en cas de réussite critique.</li>
+</ul>
+<p>Définition des particularités :</p>
+<ul>
+<li>A deux mains : il est obligatoire d’utiliser ses deux mains pour utiliser ces armes.</li>
+<li>Allonge : ces armes permettent de toucher des ennemis qui sont “à proximité” (cf partie sur Le Combat)</li>
+<li>Distance : attaquer avec ces armes demande d’utilser la compétence “Combat à distance”. Les armes qui n’ont pas “Distance” demandent d’utiliser “Combat au corps à corps” pour attaquer.</li>
+<li>Lancer : une arme avec “Lancer” s’utilise normalement avec la compétence “Combat au corps à corps” mais peut être utilisé comme arme de jat avec la compétence “Combat à distance”. Lancer une arme qui n’a pas la particularité “Lancer” se fera avec un jet de “Combat à distance” affublé d’un malus de 30%.</li>
+<li>Maniable : attaquer avec une arme maniable peut se faire en tant qu’action de mouvement.</li>
+<li>Munitions : ces armes nécessitent des munitions pour fonctionner. Recharger une arme avec munitions prend une action de mouvement (cf partie sur Le Combat)</li>
+</ul>
 
 
 </section>
