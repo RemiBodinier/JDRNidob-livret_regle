@@ -1,0 +1,37 @@
+# La Magie
+
+## Sorts mineurs
+
+Voici la liste des sorts mineurs disponibles à ceux qui ont pris le talent *Initié à la magie* :
+
+- **Murmure** : le vent emporte un murmure du mage vers une cible éloignée. 
+
+## Ecole de magie
+
+Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvoir choisir une des quatres grandes écoles de la magie, chacune basée sur un des quates éléments primaires. UNe fois votre école choisie, vous pourrez choisir trois sorts parmi ceux proposés.
+
+### Ecole du feu
+
+#### Sorts disponibles
+
+- **Trait de feu** : un trait de feu vient brûler votre adversaire lui causant des dégâts.
+- **Balsamine** : trois flammèches sortent de vont main infligeant chacune un tiers des dégâts que vous pouvez occasionner.
+- **Cautérisation** : une flamme douce et chaude vient envelopper la blessure que vous voulez guérir afin de rendre des points de vie. 
+
+### Ecole de l'eau 
+
+#### Sorts disponibles
+
+- **Pistolet à eau** : et jet d'eau à haute pression heurte la cible du sort.
+
+### Ecole de l'air
+
+#### Sorts disponibles
+
+-
+
+### Ecole de la terre
+
+#### Sorts disponibles
+
+-

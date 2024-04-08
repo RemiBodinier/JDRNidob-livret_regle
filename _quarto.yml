@@ -12,8 +12,8 @@ book:
     - j02nom.qmd
     - j03caretcomp.qmd
     - j04talent.qmd
-    - j05magie.qmd
-    - j06equipement.qmd
+    - j05equipement.qmd 
+    - j06magie.qmd
     - j07combat.qmd
     - j08archetype.qmd
 
