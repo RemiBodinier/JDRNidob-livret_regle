@@ -5,7 +5,6 @@ project:
 book:
   title: "Voyage en Ednom : le Livret de Règles"
   subtitle : "Version 1.1"
-  downloads: [pdf,docx]
   author: "Rémi Bodinier"
   date: today
   chapters:
@@ -20,87 +19,12 @@ book:
     - j08archetype.qmd
 
 #bibliography: references.bib
-csl: ets
-citations-hover: true
-link-citations: true # pandoc setting
-latex-auto-mk: true
-link-external-icon: true
 
 format:
   html:
     theme: cosmo
   pdf:
-    # PRE quarto 1.3: has to be latexmk for .plantuml plugin to work (because it generates .svg files)
-    pdf-engine: pdflatex
-
-    # Metadata
-    subject: "Ce livret fixe les règles du jeu de rôle se situant dans l'univers fantastique d'Ednom"
-    keywords: "Jeu de rôle; Fantastique; Univers Inventé; D100"
-
-    template: partials/template.tex
-
-    colorlinks: true
-    documentclass: scrbook
-    classoption: 
-      # Remove odd-even page breaks (for printing PDF)
-      - open=any
-      - twoside=false # don't use even/odd pages, no blank pages
-      # pass french to book class (babel will see it automatically)
-      - french
-    toc: false
-    urlcolor: Green4
-    citecolor: violet
-    linkcolor: violet
-
-    hyperrefoptions: 
-      - pdfstartview={XYZ null null 0.75}
-      - pdfpagemode=UseOutlines
-      - pdfdisplaydoctitle=true
-      - pdfpagelayout=SinglePage
-      - pdfstartpage=1
-    highlight-style: github
-    geometry:
-      - top=30mm
-      - left=20mm
-      - heightrounded
-    fontfamily: libertinus
-    fontfamilyoptions: 
-      # causes numbers to drop below the line, and a 0 by itself looks like an o
-      # - osf
-      - p
-    fontsize: 12pt
-    include-in-header: 
-      - tex-hacks/color-tables.tex
-      - tex-hacks/code-font.tex
-      - tex-hacks/fix-unicode-chars.tex
-      - tex-hacks/image-on-title-page.tex
-
-    include-before-body: 
-      - tex-hacks/redefine-parts-layout.tex
-
-    # ragged2e is for the \justifying, see https://github.com/quarto-dev/quarto-cli/discussions/1534)
-    header-includes: |
-      \usepackage{ragged2e}
-      \usepackage[a-1b]{pdfx}
-      \begin{filecontents*}[overwrite]{\jobname.xmpdata}
-      \Title{Voyage en Ednom : le Livret de Règles}
-      \Subtitle{Version 1.1}
-      \Author{Rémi Bodinier}
-      \Language{fr-CA}
-      \Keywords{Jeu de rôle\sep Fantastique\sep Univers Inventé\sep D100}
-      \Subject{Ce livret fixe les règles du jeu de rôle se situant dans l'univers fantastique d'Ednom}
-      \CoverDate{2024-04-09}
-      \end{filecontents*}
-
-    # keep-tex: true
-
-# filters must be run in the proper order here
-filters:
-  - filters/diagram-generator.lua
-  - filters/fr-nbsp.lua
-  - quarto
-  - filters/inline-svg.lua
-  - filters/pandoc-quotes.lua
+    documentclass: scrreprt
 
 
 
