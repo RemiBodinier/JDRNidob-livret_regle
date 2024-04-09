@@ -1,4 +1,4 @@
-# Caractéristiques et compétences
+# Caractéristiques et Compétences
 
 Tout d'abord il vous faut répartir 55 points dans les cinq caractéristiques suivantes. Attention, aucune caractéristique ne peut être inférieure à 5 ni supérieure à 15.
 
@@ -25,7 +25,7 @@ Voici les différentes compétences :
 - **Combat au corps à corps** (FOR/END) : cette compétence correspond à votre capacité à vous battre, avec une arme ou à main nue, contre des adversaire qui vous font face directement. Cette compétence pourrait aussi vous servir dans des cas où la force doit être utilisé comme pousser un objet lour ou enfoncer une porte fermée.
 - **Culture générale** (INT/CHA) : cette compétence correspond à la culture générale de votre personnage. Elle pourra vous permettre de connaître la géographie d'une région, les us et coutumes auprès de nobles, la réligion d'une région, les activités à faire dans une nouvelle ville ou bien les tensions qu'ont les autres races à votre égard.
 - **Déguisement** (CHA/DEX) : cette compétence correspond à votre capacité à déguiser la réalité. Elle vous permet de vous camoufler en utilisant les éléments de votre environnement, de vous faire passer pour une autre personne ou encore de faire un gros mensonge. 
-- **Discrétion** (DEX/SAG) : cette compétence correspond à votre capacité à dissimuler quelque chose. la Discrétion vous permettra de vous faufiler sans que personne ne vous remarque, de subtiliser et faire disparaître un objet ou de dissimuler vos intentions.
+- **Discrétion** (DEX/SAG) : cette compétence correspond à votre capacité à dissimuler quelque chose. La Discrétion vous permettra de vous faufiler sans que personne ne vous remarque, de subtiliser et faire disparaître un objet ou de dissimuler vos intentions.
 - **Estimation** (INT/DEX) : cette compétence correspond à votre capacité à identifier les propriétés d'une matière ou d'un objet. Vous pourrez alors estimer le prix d'un objet, savoir si de la nourriture ou du liquide est comestible ou encore connaître les propriétés d'une plante ou d'un produit. 
 - **Habileté** (DEX/END) : cette compétence correspond à cotre capacité à utiliser vos deux mains dans des tâches recquérant un certain doigté. Il s'agira par exemple de crocheter une serrure, de se défaire de liens ou encore de désamorcer ou créer un piège. 
 - **Influence** (FOR/CHA) : cette compétence correspond à votre capacité à user de votre réthorique pour obtenir ce que vous voulez. Cette compétence englobe la diplomatie, l'intimidation ou encore le dressage.

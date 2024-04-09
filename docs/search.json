@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Voyage en Ednom : le livret de règles",
+    "title": "Voyage en Ednom : le Livret de Règles",
     "section": "",
     "text": "Préface\nBienvenu, cher voyageur, dans le monde d’Ednom. Je suis Pan et je serai votre guide tout au long de votre voyage. Ce voyage se fera dans un monde médiéval fantastique peuplé des créatures et races légendaires de tous les folklors mais également de créatures imaginaires originales.\nAu cours de votre découverte de ce monde merveilleux, vos aventures seront ponctués d’actions à réaliser. Dans ce jeu de rôle, la réalisation de ces actions sera déterminée par la hasard, sous le mode de jeu du D100. Pour savoir le résultat d’une action comme escalader un mur, convaincre une personne ou donner un coup d’épée, vous jeterrez un dé à 100 faces, et devrez faire moins qu’une certaine valeur pour que l’action soit réussie. Qui plus est, si le résultat du jeu de dé indique entre 1 et 5, votre réussite sera phénoménale et vous octroiera un bonus. A l’inverse, si le résultat du jet de dé indique entre 96 et 100, votre échec est catastrophique, ce qui aura de graves conséquences. Pour savoir à quelle valeur le jet de dé doit être inférieur pour que l’action soit réussie, rapportez vous à la page sur les caractéristiques et compétences.",
     "crumbs": [
@@ -23,8 +23,8 @@
     "objectID": "j01Ednom.html#les-aventuriers",
     "href": "j01Ednom.html#les-aventuriers",
     "title": "1  Le monde d’Ednom",
-    "section": "1.2 Les aventuriers",
-    "text": "1.2 Les aventuriers\nCe mot a un sens tout particulier dans ce monde. Les aventuriers sont des personnes, de toutes races et de toutes origines, ayant choisi comme profession de ce mettre au service des autres. Que ce soit pour aider quelqu’un à s’occuper de sa demeure ou vaincre une menace pesant sur le monde, les tâches de l’aventurier sont aussi variées qu’il y a de commanditaires.\nAinsi, au fil des ans, les aventuriers se sont organisés. Une Guilde des Aventuriers s’est créée, établissant des comptoirs dans toutes les villes de tous les pays. Ces guildes servent d’intermédiaire entre un commanditaire et un aventurier. Elle récolte les demandes de la région qu’elle gère, et redistribue aux aventuriers qu’elle administre. Un client vient avec une demande, la guilde fixe la récompense selon la difficulté de la tâche et les moyens du demandeur puis, une fois la tâche accompli, paye le ou les aventuriers et se charge de récupérer la récompense auprès du client.\nComme il n’est pas rare que les aventuriers exercent dans une région précise, les comptoirs de la Guilde connaissent bien les capacités et spécificités des aventuriers qui viennent chercher de travail auprès d’elle. Afin d’assigner plus rapidement une tâche à une personne ou à un groupe, la Guilde est également chargée de donner un rang aux aventuriers. Il existe neuf rangs qui sont communs à toutes les guildes au monde. Voici ces neuf rangs :\n\nRecrue\nNovice\nApprenti\nAcolyte\nAdepte\nMaître\nChampion\nParangon\nHéros\n\nCette classification permet surtout une sécurité pour les aventuriers. Selon la difficulté de la tâche demandée, l’offre de quête ne sera disponible qu’à partir d’un certain rang. De plus, un client peut toutà fait demander que les aventuriers s’occupant de la tâche pour laquelle il fait une demande aient un certain classement.",
+    "section": "1.2 Les Aventuriers",
+    "text": "1.2 Les Aventuriers\nCe mot a un sens tout particulier dans ce monde. Les aventuriers sont des personnes, de toutes races et de toutes origines, ayant choisi comme profession de ce mettre au service des autres. Que ce soit pour aider quelqu’un à s’occuper de sa demeure ou vaincre une menace pesant sur le monde, les tâches de l’aventurier sont aussi variées qu’il y a de commanditaires.\nAinsi, au fil des ans, les aventuriers se sont organisés. Une Guilde des Aventuriers s’est créée, établissant des comptoirs dans toutes les villes de tous les pays. Ces guildes servent d’intermédiaire entre un commanditaire et un aventurier. Elle récolte les demandes de la région qu’elle gère, et redistribue aux aventuriers qu’elle administre. Un client vient avec une demande, la guilde fixe la récompense selon la difficulté de la tâche et les moyens du demandeur puis, une fois la tâche accompli, paye le ou les aventuriers et se charge de récupérer la récompense auprès du client.\nComme il n’est pas rare que les aventuriers exercent dans une région précise, les comptoirs de la Guilde connaissent bien les capacités et spécificités des aventuriers qui viennent chercher de travail auprès d’elle. Afin d’assigner plus rapidement une tâche à une personne ou à un groupe, la Guilde est également chargée de donner un rang aux aventuriers. Il existe neuf rangs qui sont communs à toutes les guildes au monde. Voici ces neuf rangs :\n\nRecrue\nNovice\nApprenti\nAcolyte\nAdepte\nMaître\nChampion\nParangon\nHéros\n\nCette classification permet surtout une sécurité pour les aventuriers. Selon la difficulté de la tâche demandée, l’offre de quête ne sera disponible qu’à partir d’un certain rang. De plus, un client peut toutà fait demander que les aventuriers s’occupant de la tâche pour laquelle il fait une demande aient un certain classement.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Le monde d'Ednom</span>"
     ]
@@ -50,21 +50,51 @@
     ]
   },
   {
-    "objectID": "j02nom.html#liste-des-grandes-villes-de-chaque-région",
-    "href": "j02nom.html#liste-des-grandes-villes-de-chaque-région",
+    "objectID": "j02nom.html#cardia",
+    "href": "j02nom.html#cardia",
     "title": "2  Choisir son nom",
-    "section": "2.2 Liste des grandes villes de chaque région",
-    "text": "2.2 Liste des grandes villes de chaque région",
+    "section": "2.2 Cardia",
+    "text": "2.2 Cardia\n\n2.2.1 Liste des villes principales\n\n\n2.2.2 Liste des prénomes et noms communs",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Choisir son nom</span>"
     ]
   },
   {
-    "objectID": "j02nom.html#liste-des-prénomes-et-noms-communs-pour-chaque-région",
-    "href": "j02nom.html#liste-des-prénomes-et-noms-communs-pour-chaque-région",
+    "objectID": "j02nom.html#eguzkia",
+    "href": "j02nom.html#eguzkia",
     "title": "2  Choisir son nom",
-    "section": "2.3 Liste des prénomes et noms communs pour chaque région",
-    "text": "2.3 Liste des prénomes et noms communs pour chaque région\n\n2.3.1 Cardia\n\n\n2.3.2 Eguzkia\n\n\n2.3.3 Douar\n\n\n2.3.4 Mane\n\n\n2.3.5 Nebo",
+    "section": "2.3 Eguzkia",
+    "text": "2.3 Eguzkia\n\n2.3.1 Liste des villes principales\n\n\n2.3.2 Liste des prénomes et noms communs",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Choisir son nom</span>"
+    ]
+  },
+  {
+    "objectID": "j02nom.html#douar",
+    "href": "j02nom.html#douar",
+    "title": "2  Choisir son nom",
+    "section": "2.4 Douar",
+    "text": "2.4 Douar\n\n2.4.1 Liste des villes principales\n\n\n2.4.2 Liste des prénomes et noms communs",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Choisir son nom</span>"
+    ]
+  },
+  {
+    "objectID": "j02nom.html#mane",
+    "href": "j02nom.html#mane",
+    "title": "2  Choisir son nom",
+    "section": "2.5 Mane",
+    "text": "2.5 Mane\n\n2.5.1 Liste des villes principales\n\n\n2.5.2 Liste des prénomes et noms communs",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Choisir son nom</span>"
+    ]
+  },
+  {
+    "objectID": "j02nom.html#nebo",
+    "href": "j02nom.html#nebo",
+    "title": "2  Choisir son nom",
+    "section": "2.6 Nebo",
+    "text": "2.6 Nebo\n\n2.6.1 Liste des villes principales\n\n\n2.6.2 Liste des prénomes et noms communs",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Choisir son nom</span>"
     ]
@@ -72,161 +102,161 @@
   {
     "objectID": "j03caretcomp.html",
     "href": "j03caretcomp.html",
-    "title": "3  Caractéristiques et compétences",
+    "title": "3  Caractéristiques et Compétences",
     "section": "",
-    "text": "Tout d’abord il vous faut répartir 55 points dans les cinq caractéristiques suivantes. Attention, aucune caractéristique ne peut être inférieure à 5 ni supérieure à 15.\nVoici les 6 caractéristiques :\n\nEndurance (END)\nDexterité (DEX)\nForce (FOR)\nIntelligence (INT)\nCharisme (CHA)\nSagesse (SAG)\n\nVos points de vie sont calculés en faisant END x 10. Votre Vitesse est calculée en faisant DEX/2 arrondi à l’entier inférieur.\nEnsuite il faut calculer la valeur de chacune des compétences ci-dessous. Ce sont ces valeurs qui serviront pour la réalisation des divers actions que vous allez faire en jeu. Il faut alors appliquer la formule suivante (CAR1+CAR2) x 2. CAR étant les caractéristiques entre parenthèses après le nom de la compétence.\nVoici les différentes compétences :\n\nArtisanat (FOR/INT) : cette compétence correspond à votre capacité à construire, fabriquer ou réparer tout et n’importe quoi. Cette compétence va donc de forger une arme à réparer une armure, cuisiner un plat divin, concoter une potion.\nArts (CHAR/END) : cette compétence correspond à vos connaissances en musique, danse, peinture et autres domaines artistiques, ainsi que votre capacité à produire toute forme d’art.\nAthlétisme (DEX/FOR) : cette compétence correspond à vos capactés physiques et sportives. Cette compétence servira si vous devez fuir un danger, grimper un mur, nager dans un torrent ou bien faire de figures sur une monture.\nCombat à distance (FOR/SAG) : cette compétence correspond à votre capacité à utiliser des armes de jet (javelot, sagaie, hache ou couteau de lancer…) ou des armes de tir (arc, fronde, arbalète,…). Egalement, cette compétence vous servira pour jeter tout et n’importe quoi de léger. C’est grâce à cette compétence par exemple que vous allez lancer un lasso pour attrapper un aimal ou bien lancer un grappin pour escalader un mur.\nCombat au corps à corps (FOR/END) : cette compétence correspond à votre capacité à vous battre, avec une arme ou à main nue, contre des adversaire qui vous font face directement. Cette compétence pourrait aussi vous servir dans des cas où la force doit être utilisé comme pousser un objet lour ou enfoncer une porte fermée.\nCulture générale (INT/CHA) : cette compétence correspond à la culture générale de votre personnage. Elle pourra vous permettre de connaître la géographie d’une région, les us et coutumes auprès de nobles, la réligion d’une région, les activités à faire dans une nouvelle ville ou bien les tensions qu’ont les autres races à votre égard.\nDéguisement (CHA/DEX) : cette compétence correspond à votre capacité à déguiser la réalité. Elle vous permet de vous camoufler en utilisant les éléments de votre environnement, de vous faire passer pour une autre personne ou encore de faire un gros mensonge.\nDiscrétion (DEX/SAG) : cette compétence correspond à votre capacité à dissimuler quelque chose. la Discrétion vous permettra de vous faufiler sans que personne ne vous remarque, de subtiliser et faire disparaître un objet ou de dissimuler vos intentions.\nEstimation (INT/DEX) : cette compétence correspond à votre capacité à identifier les propriétés d’une matière ou d’un objet. Vous pourrez alors estimer le prix d’un objet, savoir si de la nourriture ou du liquide est comestible ou encore connaître les propriétés d’une plante ou d’un produit.\nHabileté (DEX/END) : cette compétence correspond à cotre capacité à utiliser vos deux mains dans des tâches recquérant un certain doigté. Il s’agira par exemple de crocheter une serrure, de se défaire de liens ou encore de désamorcer ou créer un piège.\nInfluence (FOR/CHA) : cette compétence correspond à votre capacité à user de votre réthorique pour obtenir ce que vous voulez. Cette compétence englobe la diplomatie, l’intimidation ou encore le dressage.\nInvestigation (SAG/END) : cette compétence correspond à votre capacité à faire des recherches. Cela comprend la recherche de traces pour suivre une piste, la recherche d’objet caché dans une pièce ou encore pour rechercher une matière d’intérêt dans votre environnement.\nPerception (SAG/CHA) : cette compétence correspond à votre acuité sensorielle autant qu’à votre intuition. C’est cette compétence que vous utiliserez pour repérer la présence de danger, pour voir arriver des ennemis de loin et également pour détecter si une personne vous ment.\nScience (INT/END) : cette compétence représente vos connaissances en science naturels ainsi que la pratique qui en découle. Cette compétence représente par exemple vos compétences en anatomie et donc à soigner une plaie ou une maladie. Egalement cette compétence vous permet de savoir si il va pleuvoir ou de déduire de la topographie du terrain où il peut y avoir de l’eau ou un abri.\nUtilisation de l’Ether (SAG/INT) : l’Ether dans le monde d’Ednom correspond à la force produisant la magie. Cette compétence correspond donc à votre capacité à apprendre, comprendre et utiliser la magie. Vous pourrez par exemple apprendre à produire de la lumière, jeter une boule de feu ou identifier la présence d’une protection magique sur un objet.",
+    "text": "Tout d’abord il vous faut répartir 55 points dans les cinq caractéristiques suivantes. Attention, aucune caractéristique ne peut être inférieure à 5 ni supérieure à 15.\nVoici les 6 caractéristiques :\n\nEndurance (END)\nDexterité (DEX)\nForce (FOR)\nIntelligence (INT)\nCharisme (CHA)\nSagesse (SAG)\n\nVos points de vie sont calculés en faisant END x 10. Votre Vitesse est calculée en faisant DEX/2 arrondi à l’entier inférieur.\nEnsuite il faut calculer la valeur de chacune des compétences ci-dessous. Ce sont ces valeurs qui serviront pour la réalisation des divers actions que vous allez faire en jeu. Il faut alors appliquer la formule suivante (CAR1+CAR2) x 2. CAR étant les caractéristiques entre parenthèses après le nom de la compétence.\nVoici les différentes compétences :\n\nArtisanat (FOR/INT) : cette compétence correspond à votre capacité à construire, fabriquer ou réparer tout et n’importe quoi. Cette compétence va donc de forger une arme à réparer une armure, cuisiner un plat divin, concoter une potion.\nArts (CHAR/END) : cette compétence correspond à vos connaissances en musique, danse, peinture et autres domaines artistiques, ainsi que votre capacité à produire toute forme d’art.\nAthlétisme (DEX/FOR) : cette compétence correspond à vos capactés physiques et sportives. Cette compétence servira si vous devez fuir un danger, grimper un mur, nager dans un torrent ou bien faire de figures sur une monture.\nCombat à distance (FOR/SAG) : cette compétence correspond à votre capacité à utiliser des armes de jet (javelot, sagaie, hache ou couteau de lancer…) ou des armes de tir (arc, fronde, arbalète,…). Egalement, cette compétence vous servira pour jeter tout et n’importe quoi de léger. C’est grâce à cette compétence par exemple que vous allez lancer un lasso pour attrapper un aimal ou bien lancer un grappin pour escalader un mur.\nCombat au corps à corps (FOR/END) : cette compétence correspond à votre capacité à vous battre, avec une arme ou à main nue, contre des adversaire qui vous font face directement. Cette compétence pourrait aussi vous servir dans des cas où la force doit être utilisé comme pousser un objet lour ou enfoncer une porte fermée.\nCulture générale (INT/CHA) : cette compétence correspond à la culture générale de votre personnage. Elle pourra vous permettre de connaître la géographie d’une région, les us et coutumes auprès de nobles, la réligion d’une région, les activités à faire dans une nouvelle ville ou bien les tensions qu’ont les autres races à votre égard.\nDéguisement (CHA/DEX) : cette compétence correspond à votre capacité à déguiser la réalité. Elle vous permet de vous camoufler en utilisant les éléments de votre environnement, de vous faire passer pour une autre personne ou encore de faire un gros mensonge.\nDiscrétion (DEX/SAG) : cette compétence correspond à votre capacité à dissimuler quelque chose. La Discrétion vous permettra de vous faufiler sans que personne ne vous remarque, de subtiliser et faire disparaître un objet ou de dissimuler vos intentions.\nEstimation (INT/DEX) : cette compétence correspond à votre capacité à identifier les propriétés d’une matière ou d’un objet. Vous pourrez alors estimer le prix d’un objet, savoir si de la nourriture ou du liquide est comestible ou encore connaître les propriétés d’une plante ou d’un produit.\nHabileté (DEX/END) : cette compétence correspond à cotre capacité à utiliser vos deux mains dans des tâches recquérant un certain doigté. Il s’agira par exemple de crocheter une serrure, de se défaire de liens ou encore de désamorcer ou créer un piège.\nInfluence (FOR/CHA) : cette compétence correspond à votre capacité à user de votre réthorique pour obtenir ce que vous voulez. Cette compétence englobe la diplomatie, l’intimidation ou encore le dressage.\nInvestigation (SAG/END) : cette compétence correspond à votre capacité à faire des recherches. Cela comprend la recherche de traces pour suivre une piste, la recherche d’objet caché dans une pièce ou encore pour rechercher une matière d’intérêt dans votre environnement.\nPerception (SAG/CHA) : cette compétence correspond à votre acuité sensorielle autant qu’à votre intuition. C’est cette compétence que vous utiliserez pour repérer la présence de danger, pour voir arriver des ennemis de loin et également pour détecter si une personne vous ment.\nScience (INT/END) : cette compétence représente vos connaissances en science naturels ainsi que la pratique qui en découle. Cette compétence représente par exemple vos compétences en anatomie et donc à soigner une plaie ou une maladie. Egalement cette compétence vous permet de savoir si il va pleuvoir ou de déduire de la topographie du terrain où il peut y avoir de l’eau ou un abri.\nUtilisation de l’Ether (SAG/INT) : l’Ether dans le monde d’Ednom correspond à la force produisant la magie. Cette compétence correspond donc à votre capacité à apprendre, comprendre et utiliser la magie. Vous pourrez par exemple apprendre à produire de la lumière, jeter une boule de feu ou identifier la présence d’une protection magique sur un objet.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Caractéristiques et compétences</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Caractéristiques et Compétences</span>"
     ]
   },
   {
     "objectID": "j04talent.html",
     "href": "j04talent.html",
-    "title": "4  Les talents",
+    "title": "4  Les Talents",
     "section": "",
     "text": "4.1 Talent de combat au corps à corps",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les talents</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
   },
   {
     "objectID": "j04talent.html#talent-de-combat-au-corps-à-corps",
     "href": "j04talent.html#talent-de-combat-au-corps-à-corps",
-    "title": "4  Les talents",
+    "title": "4  Les Talents",
     "section": "",
     "text": "Maître des [armes] : votre personnage sait très bien utiliser un type d’armes parmi ceux ne possédant pas les particularités Distance ni Lancer. Il augmente la valeur de Combat au corps à corps de 10% quand il utilise une arme de ce type.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les talents</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
   },
   {
     "objectID": "j04talent.html#talent-de-combat-à-distance",
     "href": "j04talent.html#talent-de-combat-à-distance",
-    "title": "4  Les talents",
+    "title": "4  Les Talents",
     "section": "4.2 Talent de combat à distance",
     "text": "4.2 Talent de combat à distance\n\nMaître des [armes] : votre personnage sait très bien utiliser un type d’armes parmi ceux possédant la particularité Distance. Il augmente la valeur de Combat à distance de 10% quand il utilise une arme de ce type.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les talents</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
   },
   {
     "objectID": "j04talent.html#talent-dutilisation-de-lether",
     "href": "j04talent.html#talent-dutilisation-de-lether",
-    "title": "4  Les talents",
+    "title": "4  Les Talents",
     "section": "4.3 Talent d’utilisation de l’Ether",
     "text": "4.3 Talent d’utilisation de l’Ether\n\nInitié à la magie (nécessite 55% en Utilisation de l’Ether) : le personnage a suivi un cursus lui permettant d’utiliser des sorts mineurs. Il peut choisir trois sorts mineurs dans la liste présente dans la partie sur la magie.\nEtudiant d’une école de magie : le personnage a étudié une des quatre grandes écoles de magie et peut lancer trois sorts parmi la liste proposé dans l’école à laquelle ils appartiennent.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les talents</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
   },
   {
     "objectID": "j04talent.html#talent-de-connaissances",
     "href": "j04talent.html#talent-de-connaissances",
-    "title": "4  Les talents",
+    "title": "4  Les Talents",
     "section": "4.4 Talent de connaissances",
     "text": "4.4 Talent de connaissances\n\nConnaissances de la nature : votre personnage à un bonus de 10% quand il utilise la compétence connaissances à propos de la nature soit pour connaître l’écologie d’une espèce animale, identifier si une plante est comestible ou non ou connaître la valeur d’une pierre.\nConnaissances de géographie : votre personnage à un bonus de 10% quand il utilise la compétence connaissances pour savoir où il se trouve, quelles sont les villes les plus proches, où trouver une rivière, une forêt, … dans les environs.\nConnaissances des coutumes : votre personnage à un bonus de 10% pour savoir comment se comporter avec les différentes races, avec les différentes classes sociales, dans les différentes régions du monde ou d’un pays.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les talents</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
   },
   {
     "objectID": "j04talent.html#talent-de-perception",
     "href": "j04talent.html#talent-de-perception",
-    "title": "4  Les talents",
+    "title": "4  Les Talents",
     "section": "4.5 Talent de perception",
     "text": "4.5 Talent de perception",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les talents</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
   },
   {
     "objectID": "j04talent.html#talent-dhabileté",
     "href": "j04talent.html#talent-dhabileté",
-    "title": "4  Les talents",
+    "title": "4  Les Talents",
     "section": "4.6 Talent d’habileté",
     "text": "4.6 Talent d’habileté",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les talents</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
   },
   {
     "objectID": "j04talent.html#talent-dartisanat",
     "href": "j04talent.html#talent-dartisanat",
-    "title": "4  Les talents",
+    "title": "4  Les Talents",
     "section": "4.7 Talent d’artisanat",
     "text": "4.7 Talent d’artisanat",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les talents</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
   },
   {
     "objectID": "j04talent.html#talent-de-discrétion",
     "href": "j04talent.html#talent-de-discrétion",
-    "title": "4  Les talents",
+    "title": "4  Les Talents",
     "section": "4.8 Talent de discrétion",
     "text": "4.8 Talent de discrétion",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les talents</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
   },
   {
     "objectID": "j04talent.html#talent-dinfluence",
     "href": "j04talent.html#talent-dinfluence",
-    "title": "4  Les talents",
+    "title": "4  Les Talents",
     "section": "4.9 Talent d’influence",
     "text": "4.9 Talent d’influence",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les talents</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
   },
   {
     "objectID": "j04talent.html#talent-dathlétisme",
     "href": "j04talent.html#talent-dathlétisme",
-    "title": "4  Les talents",
+    "title": "4  Les Talents",
     "section": "4.10 Talent d’athlétisme",
     "text": "4.10 Talent d’athlétisme\n\nAttaque en finesse : le personnage utilise sa valeur d’Athlétisme plutôt que celle de Combat au corps à corps pour attaquer avec des armes ne possédant pas la particularité Distance.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les talents</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
   },
   {
     "objectID": "j05equipement.html",
     "href": "j05equipement.html",
-    "title": "5  L’équipement",
+    "title": "5  L’Equipement",
     "section": "",
-    "text": "5.1 Les armes\nDéfinition des types d’armes :\nDéfinition des types de dégâts :\nDéfinition des particularités :",
+    "text": "5.1 Les Armes\nDéfinition des types d’armes :\nDéfinition des types de dégâts :\nDéfinition des particularités :",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>L'équipement</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>L'Equipement</span>"
     ]
   },
   {
     "objectID": "j05equipement.html#les-armes",
     "href": "j05equipement.html#les-armes",
-    "title": "5  L’équipement",
+    "title": "5  L’Equipement",
     "section": "",
     "text": "Nom\nType d’arme\nType de dégâts\nParticularités\n\n\n\n\nCeste\nArme légère\nContondant\nManiable\n\n\nDague\nArme légère\nPerforant\nLancer, Maniable\n\n\nGourdin\nArme légère\nContondant\nManiable\n\n\nFrancisque\nArme légère\nTranchant\nLancer, Maniable\n\n\nJaveline\nArme légère\nPerforant\nLancer\n\n\nFaucille\nArme légère\nTranchant\nManiable\n\n\nBâton\nArme légère\nContondant\nA deux mains, Allonge\n\n\nFronde\nArme légère\nContondant\nMunitions, Distance\n\n\nCimeterre\nArme intermédiaire\nTranchant\n\n\n\nHache\nArme intermédiaire\nTranchant\n\n\n\nRapière\nArme intermédiaire\nPerforant\n\n\n\nMarteau\nArme intermédiaire\nContondant\n\n\n\nBarmace\nArme intermédiaire\nContondant\n\n\n\nLance\nArme intermédiaire\nPerforant\nA deux mains, Allonge, Lancer\n\n\nGlaive\nArme intermédiaire\nPerforant\n\n\n\nArc\nArme intermédiaire\nPerforant\nA deux mains, Munitions, Distance\n\n\nClaymore\nArme lourde\nTranchant\nA deux mains\n\n\nLabrys\nArme lourde\nTranchant\nA deux mains\n\n\nMorgenstern\nArme lourde\nPerforant\nA deux mains\n\n\nCorbin\nArme lourde\nContondant\nA deux mains\n\n\nTrident\nArme lourde\nPerforant\nA deux mains, Allonge, Lancer\n\n\nArbalète\nArme lourde\nPerforant\nA deux mains, Munitions, Distance\n\n\nFléau\nArme lourde\nContondant\nA deux mains, Allonge\n\n\n\n\n\nLégère (Force nécessaire inférieure ou égale à 9) : ces armes ne bénéficient pas de bonus de dégâts.\nIntermédiaire (Force nécessaire compris entre 10 et 14) : ces armes bénéficient d’un bonus de 10 aux dégâts.\nLourde (Force nécessaire supérieure ou égale à 15) : ces armes bénéfécient d’un bonus de 20 aux dégâts.\n\n\n\nContondant : ces armes bénéficient d’un bonus 30 aux dégâts mais ne bénéficient pas de dégâts supplémentaires en cas de réussite critique.\nPerforant : ces armes ne bénéficient pas d’un bonus de base aux dégâts mais les dégâts sont doublés en cas de réussite critique.\nTranchant : ces armes bénéficient d’un bonus de 10 aux dégâts et ce bonus monte à 50 en cas de réussite critique.\n\n\n\nA deux mains : il est obligatoire d’utiliser ses deux mains pour utiliser ces armes.\nAllonge : ces armes permettent de toucher des ennemis qui sont à proximité (voir partie Le Combat)\nDistance : attaquer avec ces armes demande d’utilser la compétence Combat à distance. Les armes qui n’ont pas Distance demandent d’utiliser Combat au corps à corps pour attaquer.\nLancer : une arme avec Lancer s’utilise normalement avec la compétence Combat au corps à corps mais peut être utilisé comme arme de jet avec la compétence Combat à distance. Lancer une arme qui n’a pas la particularité Lancer se fera avec un jet de Combat à distance affublé d’un malus de 30%.\nManiable : attaquer avec une arme maniable peut se faire en tant qu’action de mouvement.\nMunitions : ces armes nécessitent des munitions pour fonctionner. Recharger une arme avec munitions prend une action de mouvement (voir partie Le Combat)",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>L'équipement</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>L'Equipement</span>"
     ]
   },
   {
-    "objectID": "j05equipement.html#léquipement-de-base",
-    "href": "j05equipement.html#léquipement-de-base",
-    "title": "5  L’équipement",
-    "section": "5.2 L’équipement de base",
-    "text": "5.2 L’équipement de base\nA la création de votre personnage, vous pouvez choisir 3 groupes parmi les suivants et les noter dans votre inventaire :\n\nUn paquetage d’aventurier comprenant un sac à dos de contenance 8(+2) objets, un bol, une boîte d’allume feu, une torche, 10 jours de rations (=1 objet), une gourde d’eau, un sac de couchage et une corde en chanvre de 15m.\nUne arme possédant la particularité Distance de type Légère ou Intermédiaire.\nUne arme à deux mains ne possédant pas la particularité Distance ou Allonge.\nUne arme de type Intermédiaire ne possédant pas la particularité Distance ou Allonge et un bouclier réduisant les dégâts de 10 (Force nécessaire supérieure ou égale à 10).\nUn arme de type Intermédiaire ne possédant pas la particularité Distance ou Allonge et deux armes de type Légère et possédant la particularité Lancer.\nUne armure réduisant les dégâts de 20 (Force nécessaire supérieure ou égale à 13)\nUn instrument enchanté (Charisme nécessaire supérieure ou égale à 13). Voir partie Enchantement dans la page La Magie.\nUn kit de soins comprenant une sacoche de ceinture de contenance 3 objets avec des des bandages, un baume pour soulager la douleur et un nécessaire pour construire une attelle. Il est épuisé après 10 utilisations. Fonctionne avec la compétence Science.\nUn kit de crochetage comprenant une sacoche de ceinture de contenance 3 objets avec des crochets de serrurier, un maillet et un burin. Il est épuisé après 10 utilisations. Fonctionne avec la compétence Habileté.\nUn kit de déguisement comprenant une sacoche de ceinture de contenance 3 objets avec du maquillage, de la teinture de cheveux et des postiches (barbe, moustache). Il est épuisé après 10 utilisations. Fonctionne avec la compétence Déguisement.\nUn kit d’alchimie comprenant une sacoche de ceinture de contenance 3 objets avec 5 fioles (= 1 objet), un pilon et un mortier, 5 réceptecle d’explosifs. Fonctionne avec la compétence Artisanat.\nUn kit d’écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.\nUn familier. Attention un familier coûte deux groupes d’objets.",
+    "objectID": "j05equipement.html#lequipement-de-base",
+    "href": "j05equipement.html#lequipement-de-base",
+    "title": "5  L’Equipement",
+    "section": "5.2 L’Equipement de base",
+    "text": "5.2 L’Equipement de base\nA la création de votre personnage, vous pouvez choisir 3 groupes parmi les suivants et les noter dans votre inventaire :\n\nUn paquetage d’aventurier comprenant un sac à dos de contenance 8(+2) objets, un bol, une boîte d’allume feu, une torche, 10 jours de rations (=1 objet), une gourde d’eau, un sac de couchage et une corde en chanvre de 15m.\nUne arme possédant la particularité Distance de type Légère ou Intermédiaire.\nUne arme à deux mains ne possédant pas la particularité Distance ou Allonge.\nUne arme de type Intermédiaire ne possédant pas la particularité Distance ou Allonge et un bouclier réduisant les dégâts de 10 (Force nécessaire supérieure ou égale à 10).\nUn arme de type Intermédiaire ne possédant pas la particularité Distance ou Allonge et deux armes de type Légère et possédant la particularité Lancer.\nUne armure réduisant les dégâts de 20 (Force nécessaire supérieure ou égale à 13)\nUn instrument enchanté (Charisme nécessaire supérieure ou égale à 13). Voir partie Enchantement dans la page La Magie.\nUn kit de soins comprenant une sacoche de ceinture de contenance 3 objets avec des des bandages, un baume pour soulager la douleur et un nécessaire pour construire une attelle. Il est épuisé après 10 utilisations. Fonctionne avec la compétence Science.\nUn kit de crochetage comprenant une sacoche de ceinture de contenance 3 objets avec des crochets de serrurier, un maillet et un burin. Il est épuisé après 10 utilisations. Fonctionne avec la compétence Habileté.\nUn kit de déguisement comprenant une sacoche de ceinture de contenance 3 objets avec du maquillage, de la teinture de cheveux et des postiches (barbe, moustache). Il est épuisé après 10 utilisations. Fonctionne avec la compétence Déguisement.\nUn kit d’alchimie comprenant une sacoche de ceinture de contenance 3 objets avec 5 fioles (= 1 objet), un pilon et un mortier, 5 réceptecle d’explosifs. Fonctionne avec la compétence Artisanat.\nUn kit d’écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.\nUn familier. Attention un familier coûte deux groupes d’objets.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>L'équipement</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>L'Equipement</span>"
     ]
   },
   {
     "objectID": "j05equipement.html#le-familier",
     "href": "j05equipement.html#le-familier",
-    "title": "5  L’équipement",
-    "section": "5.3 Le familier",
-    "text": "5.3 Le familier\nLe familier est un animal dressé qui accompagne le personnage et lui est fidèle, du moins tant que le personnage est juste avec l’animal.",
+    "title": "5  L’Equipement",
+    "section": "5.3 Le Familier",
+    "text": "5.3 Le Familier\nLe familier est un animal dressé qui accompagne le personnage et lui est fidèle, du moins tant que le personnage est juste avec l’animal.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>L'équipement</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>L'Equipement</span>"
     ]
   },
   {
@@ -260,23 +290,33 @@
     ]
   },
   {
+    "objectID": "j06magie.html#enchantement",
+    "href": "j06magie.html#enchantement",
+    "title": "6  La Magie",
+    "section": "6.3 Enchantement",
+    "text": "6.3 Enchantement\nIl peut arriver que des objets soit enchantés. En particulier les instruments de musique sont une bonne manière de faire de la magie.\n\n6.3.1 Enchantement de partition\nSi vous avez choisi l’instrument enchanté, vous pouvez choisir 3 partition parmi les suivantes :\n\nPartition de sommeil :",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>La Magie</span>"
+    ]
+  },
+  {
     "objectID": "j07combat.html",
     "href": "j07combat.html",
-    "title": "7  Le combat",
+    "title": "7  Le Combat",
     "section": "",
     "text": "7.1 Début du combat\nL’ordre dans lequel les différents personnages vont jouer se détermine par rapport à leur vitesse. Le personnage à la vitesse la plus élevée commence puis les joueurs sont rangés en fonction de leur vitesse. Si deux personnages ont la même vitesse, l’ordre est déduit au hasard.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Le combat</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Le Combat</span>"
     ]
   },
   {
     "objectID": "j07combat.html#faire-des-dégâts",
     "href": "j07combat.html#faire-des-dégâts",
-    "title": "7  Le combat",
+    "title": "7  Le Combat",
     "section": "7.2 Faire des dégâts",
     "text": "7.2 Faire des dégâts\nPour faire des dégâts, un personnage doit d’abord jeter un jet de combat (au corps à corps, à distance, via un sort, …). Il réussi son action si le résultat du jet de dé est moins élevé que la valeur qu’il possède dans la compétence correspondante. Enfin, les dégâs qu’il inflige sont calculés selon la différence entre le résultat du dé et la valeur qu’il possède dans la compétence (en y ajoutant de potentiels bonus inhérents aux armes ou à des talents particulier).\n\n7.2.1 Embuscade\nLe principe d’une embuscade est justement d’agir avant les autres. Durant une embuscade, les personnages vont jouer les premiers, selon l’ordre de leur vitesse, puis les joueurs ayant subi l’embuscade vont jouer. Au prochain tour, c’est la méthode de jeu de base qui prévaudra, soit la vitesse comme ordre de passage.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Le combat</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Le Combat</span>"
     ]
   },
   {

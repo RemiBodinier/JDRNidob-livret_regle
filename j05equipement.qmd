@@ -1,6 +1,6 @@
-# L'équipement
+# L'Equipement
 
-## Les armes
+## Les Armes
 
 | Nom         | Type d'arme        | Type de dégâts | Particularités                          |
 |-------------|--------------------|----------------|-----------------------------------------|
@@ -50,7 +50,7 @@ Définition des particularités :
 - **Maniable** : attaquer avec une arme maniable peut se faire en tant qu'*action de mouvement*. 
 - **Munitions** : ces armes nécessitent des munitions pour fonctionner. Recharger une arme avec munitions prend une *action de mouvement* (voir partie *Le Combat*)
 
-## L'équipement de base
+## L'Equipement de base
 A la création de votre personnage, vous pouvez choisir 3 groupes parmi les suivants et les noter dans votre inventaire : 
 
 1. Un paquetage d'aventurier comprenant un sac à dos de contenance 8(+2) objets, un bol, une boîte d’allume feu, une torche, 10 jours de rations (=1 objet), une gourde d’eau, un sac de couchage et une corde en chanvre de 15m.
@@ -67,6 +67,6 @@ A la création de votre personnage, vous pouvez choisir 3 groupes parmi les suiv
 11. Un kit d'écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.
 12. Un familier. Attention un familier coûte deux groupes d'objets.
 
-## Le familier
+## Le Familier
 
 Le familier est un animal dressé qui accompagne le personnage et lui est fidèle, du moins tant que le personnage est juste avec l'animal. 

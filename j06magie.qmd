@@ -35,3 +35,13 @@ Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvo
 #### Sorts disponibles
 
 -
+
+## Enchantement
+
+Il peut arriver que des objets soit enchantés. En particulier les instruments de musique sont une bonne manière de faire de la magie. 
+
+### Enchantement de partition
+
+Si vous avez choisi l'instrument enchanté, vous pouvez choisir 3 partition parmi les suivantes :
+
+- **Partition de sommeil** : 

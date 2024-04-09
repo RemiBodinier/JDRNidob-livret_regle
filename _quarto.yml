@@ -3,7 +3,9 @@ project:
   output-dir: docs
 
 book:
-  title: "Voyage en Ednom : le livret de règles"
+  title: "Voyage en Ednom : le Livret de Règles"
+  subtitle : "Version 1.1"
+  downloads: [pdf,docx]
   author: "Rémi Bodinier"
   date: today
   chapters:
