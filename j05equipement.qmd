@@ -69,4 +69,4 @@ A la création de votre personnage, vous pouvez choisir 3 groupes parmi les suiv
 
 ## Le familier
 
-Le familier est un animal dresser 
+Le familier est un animal dressé qui accompagne le personnage et lui est fidèle, du moins tant que le personnage est juste avec l'animal. 

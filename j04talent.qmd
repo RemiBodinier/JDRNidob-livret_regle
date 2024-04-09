@@ -6,11 +6,11 @@ Chaque talent est associé à une compétence et vous allez pouvoir en choisir d
 
 ## Talent de combat au corps à corps
 
-- **Maître des [armes]** : votre personnage sait très bien utiliser un type d'armes parmi ceux listés après. Il augmente la valeur de "Combat au corps à corps" de 10% quand il utilise une arme de ce type. Les types sont : dague, épée courte, épée, épée longue, hache, masse, bâton, armes d'hast. 
+- **Maître des [armes]** : votre personnage sait très bien utiliser un type d'armes parmi ceux ne possédant pas les particularités *Distance* ni *Lancer*. Il augmente la valeur de *Combat au corps à corps* de 10% quand il utilise une arme de ce type.
 
 ## Talent de combat à distance
 
-- **Maître des [armes]** : votre personnage sait très bien utiliser un type d'armes parmi ceux listés après. Il augmente la valeur de "Combat à distance" de 10% quand il utilise une arme de ce type. Les types sont : armes de jet, armes de lancer, arcs, fronde, arbalète.  
+- **Maître des [armes]** : votre personnage sait très bien utiliser un type d'armes parmi ceux possédant la particularité *Distance*. Il augmente la valeur de *Combat à distance* de 10% quand il utilise une arme de ce type.  
 
 ## Talent d'utilisation de l'Ether
 
