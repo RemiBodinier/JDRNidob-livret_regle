@@ -5,6 +5,8 @@
 Voici la liste des sorts mineurs disponibles à ceux qui ont pris le talent *Initié à la magie* :
 
 - **Murmure** : le vent emporte un murmure du mage vers une cible éloignée. 
+- **Follets** : des petits flammèches se crééent à quelques mètres devant le mage.
+- **Source** : une petite source pouvant remplir une gourde sort de la terre.  
 
 ## Ecole de magie
 
@@ -22,7 +24,8 @@ Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvo
 
 #### Sorts disponibles
 
-- **Pistolet à eau** : et jet d'eau à haute pression heurte la cible du sort.
+- **Jet d'eau** : un jet d'eau à haute pression heurte la cible du sort, lui infligeant des dégâts perforants.
+- **Lame d'eau** : une vague d'eau vient couper la cible, lui infligeant des dégâts tranchants. 
 
 ### Ecole de l'air
 

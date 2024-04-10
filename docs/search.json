@@ -244,17 +244,7 @@
     "href": "j05equipement.html#lequipement-de-base",
     "title": "5  L’Equipement",
     "section": "5.2 L’Equipement de base",
-    "text": "5.2 L’Equipement de base\nA la création de votre personnage, vous pouvez choisir 3 groupes parmi les suivants et les noter dans votre inventaire :\n\nUn paquetage d’aventurier comprenant un sac à dos de contenance 8(+2) objets, un bol, une boîte d’allume feu, une torche, 10 jours de rations (=1 objet), une gourde d’eau, un sac de couchage et une corde en chanvre de 15m.\nUne arme possédant la particularité Distance de type Légère ou Intermédiaire.\nUne arme à deux mains ne possédant pas la particularité Distance ou Allonge.\nUne arme de type Intermédiaire ne possédant pas la particularité Distance ou Allonge et un bouclier réduisant les dégâts de 10 (Force nécessaire supérieure ou égale à 10).\nUn arme de type Intermédiaire ne possédant pas la particularité Distance ou Allonge et deux armes de type Légère et possédant la particularité Lancer.\nUne armure réduisant les dégâts de 20 (Force nécessaire supérieure ou égale à 13)\nUn instrument enchanté (Charisme nécessaire supérieure ou égale à 13). Voir partie Enchantement dans la page La Magie.\nUn kit de soins comprenant une sacoche de ceinture de contenance 3 objets avec des des bandages, un baume pour soulager la douleur et un nécessaire pour construire une attelle. Il est épuisé après 10 utilisations. Fonctionne avec la compétence Science.\nUn kit de crochetage comprenant une sacoche de ceinture de contenance 3 objets avec des crochets de serrurier, un maillet et un burin. Il est épuisé après 10 utilisations. Fonctionne avec la compétence Habileté.\nUn kit de déguisement comprenant une sacoche de ceinture de contenance 3 objets avec du maquillage, de la teinture de cheveux et des postiches (barbe, moustache). Il est épuisé après 10 utilisations. Fonctionne avec la compétence Déguisement.\nUn kit d’alchimie comprenant une sacoche de ceinture de contenance 3 objets avec 5 fioles (= 1 objet), un pilon et un mortier, 5 réceptecle d’explosifs. Fonctionne avec la compétence Artisanat.\nUn kit d’écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.\nUn familier. Attention un familier coûte deux groupes d’objets.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>L'Equipement</span>"
-    ]
-  },
-  {
-    "objectID": "j05equipement.html#le-familier",
-    "href": "j05equipement.html#le-familier",
-    "title": "5  L’Equipement",
-    "section": "5.3 Le Familier",
-    "text": "5.3 Le Familier\nLe familier est un animal dressé qui accompagne le personnage et lui est fidèle, du moins tant que le personnage est juste avec l’animal.",
+    "text": "5.2 L’Equipement de base\nA la création de votre personnage, vous pouvez choisir 3 groupes parmi les suivants et les noter dans votre inventaire :\n\nUn paquetage d’aventurier comprenant un sac à dos de contenance 8(+2) objets, un bol, une boîte d’allume feu, une torche, 10 jours de rations (=1 objet), une gourde d’eau, un sac de couchage et une corde en chanvre de 15m.\nUne arme possédant la particularité Distance de type Légère ou Intermédiaire.\nUne arme à deux mains ne possédant pas la particularité Distance ou Allonge.\nUne arme de type Intermédiaire ne possédant pas la particularité Distance ou Allonge et un bouclier réduisant les dégâts de 10 (Force nécessaire supérieure ou égale à 10).\nUn arme de type Intermédiaire ne possédant pas la particularité Distance ou Allonge et deux armes de type Légère et possédant la particularité Lancer.\nUne armure réduisant les dégâts de 20 (Force nécessaire supérieure ou égale à 13)\nUn instrument enchanté (Charisme nécessaire supérieure ou égale à 13). Voir partie Enchantement dans la page La Magie.\nUn kit de soins comprenant une sacoche de ceinture de contenance 3 objets avec des des bandages, un baume pour soulager la douleur et un nécessaire pour construire une attelle. Il est épuisé après 10 utilisations. Fonctionne avec la compétence Science.\nUn kit de crochetage comprenant une sacoche de ceinture de contenance 3 objets avec des crochets de serrurier, un maillet et un burin. Il est épuisé après 10 utilisations. Fonctionne avec la compétence Habileté.\nUn kit de déguisement comprenant une sacoche de ceinture de contenance 3 objets avec du maquillage, de la teinture de cheveux et des postiches (barbe, moustache). Il est épuisé après 10 utilisations. Fonctionne avec la compétence Déguisement.\nUn kit d’alchimie comprenant une sacoche de ceinture de contenance 3 objets avec 5 fioles (= 1 objet), un pilon et un mortier, 5 réceptecle d’explosifs. Fonctionne avec la compétence Artisanat.\nUn kit d’écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.\nUn familier. Attention un familier coûte deux groupes d’objets (voir partie Faune - Familier dans le chapitre Nature)",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>L'Equipement</span>"
     ]
@@ -274,7 +264,7 @@
     "href": "j06magie.html#sorts-mineurs",
     "title": "6  La Magie",
     "section": "",
-    "text": "Murmure : le vent emporte un murmure du mage vers une cible éloignée.",
+    "text": "Murmure : le vent emporte un murmure du mage vers une cible éloignée.\nFollets : des petits flammèches se crééent à quelques mètres devant le mage.\nSource : une petite source pouvant remplir une gourde sort de la terre.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>La Magie</span>"
     ]
@@ -284,7 +274,7 @@
     "href": "j06magie.html#ecole-de-magie",
     "title": "6  La Magie",
     "section": "6.2 Ecole de magie",
-    "text": "6.2 Ecole de magie\nSi vous avez choisi le talent Etudiant d’une école de magie, vous allez pouvoir choisir une des quatres grandes écoles de la magie, chacune basée sur un des quates éléments primaires. UNe fois votre école choisie, vous pourrez choisir trois sorts parmi ceux proposés.\n\n6.2.1 Ecole du feu\n\n6.2.1.1 Sorts disponibles\n\nTrait de feu : un trait de feu vient brûler votre adversaire lui causant des dégâts.\nBalsamine : trois flammèches sortent de vont main infligeant chacune un tiers des dégâts que vous pouvez occasionner.\nCautérisation : une flamme douce et chaude vient envelopper la blessure que vous voulez guérir afin de rendre des points de vie.\n\n\n\n\n6.2.2 Ecole de l’eau\n\n6.2.2.1 Sorts disponibles\n\nPistolet à eau : et jet d’eau à haute pression heurte la cible du sort.\n\n\n\n\n6.2.3 Ecole de l’air\n\n6.2.3.1 Sorts disponibles\n\n\n\n\n\n\n6.2.4 Ecole de la terre\n\n6.2.4.1 Sorts disponibles",
+    "text": "6.2 Ecole de magie\nSi vous avez choisi le talent Etudiant d’une école de magie, vous allez pouvoir choisir une des quatres grandes écoles de la magie, chacune basée sur un des quates éléments primaires. UNe fois votre école choisie, vous pourrez choisir trois sorts parmi ceux proposés.\n\n6.2.1 Ecole du feu\n\n6.2.1.1 Sorts disponibles\n\nTrait de feu : un trait de feu vient brûler votre adversaire lui causant des dégâts.\nBalsamine : trois flammèches sortent de vont main infligeant chacune un tiers des dégâts que vous pouvez occasionner.\nCautérisation : une flamme douce et chaude vient envelopper la blessure que vous voulez guérir afin de rendre des points de vie.\n\n\n\n\n6.2.2 Ecole de l’eau\n\n6.2.2.1 Sorts disponibles\n\nJet d’eau : un jet d’eau à haute pression heurte la cible du sort, lui infligeant des dégâts perforants.\nLame d’eau : une vague d’eau vient couper la cible, lui infligeant des dégâts tranchants.\n\n\n\n\n6.2.3 Ecole de l’air\n\n6.2.3.1 Sorts disponibles\n\n\n\n\n\n\n6.2.4 Ecole de la terre\n\n6.2.4.1 Sorts disponibles",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>La Magie</span>"
     ]
@@ -320,63 +310,83 @@
     ]
   },
   {
-    "objectID": "j08archetype.html",
-    "href": "j08archetype.html",
-    "title": "8  Archétypes",
+    "objectID": "j08nature.html",
+    "href": "j08nature.html",
+    "title": "8  La Nature dans le monde d’Ednom",
     "section": "",
-    "text": "8.1 Guerrier",
+    "text": "8.1 La Faune",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Archétypes</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>La Nature dans le monde d'Ednom</span>"
     ]
   },
   {
-    "objectID": "j08archetype.html#chasseur",
-    "href": "j08archetype.html#chasseur",
-    "title": "8  Archétypes",
-    "section": "8.2 Chasseur",
-    "text": "8.2 Chasseur",
+    "objectID": "j08nature.html#familier",
+    "href": "j08nature.html#familier",
+    "title": "8  La Nature dans le monde d’Ednom",
+    "section": "8.2 Familier",
+    "text": "8.2 Familier\nLes familiers disponibles à la création du personnage sont le Digonyche, le Custal, la Capcèle et .\n\n8.2.1 Le Digonyche\nLe Digonyche est un animal fouisseur de la taille d’un sanglier et ayant une apparence physique à la jonction entre une taupe et un blaireau. Il possède un corps trappu et six grosses pattes robustes munies de griffes. Il a un pelage noir avec quelques zébrures un peu plus claires.\n\n\n8.2.2 Le Custal\nLe Custal est une espèce domestiqué qui sert à garder les troupeaux. De la taille d’un loup, il a cependant une gueule plus épaisse et aplatie, avec les canines sortant légèrement sur la lèvre inférieure. Il possède six pattes plus proches de celles des panthères et autres félins de moyenne taille, une queue également similaire à celle des félins mais plus pointue au bout, et des oreilles similaires à celles des chauve-souris oreillards.\n\n\n8.2.3 La Capcèle\nLa Capcèle est un oiseau de proie de taille moyenne, avec ces deux paries d’ailes étroites et longues et le bec recourbé et acéré. Il a un plumage châtain sur le dos, lui permettant de se fondre dans les hautes herbes de la savane où on le retrouve, et blanc moucheté de beige sur le ventre.\n\n\n8.2.4 Le Reptile\nLe Reptile est une sorte de croisement entre un gecko et un macaque. Il possède un corps écailleux et six pattes se terminant par des membres avec pouce opposable. Les écailles lamellaires au niveau des doigt lui permettent d’adhérer à un grand nombre de surface. Sa longue queue préhensile lui permet de s’accroche aux branches et lui sert également de balancier. Enfin le Reptile possède une langue protactile, à la manière des caméléons.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Archétypes</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>La Nature dans le monde d'Ednom</span>"
     ]
   },
   {
-    "objectID": "j08archetype.html#voleur",
-    "href": "j08archetype.html#voleur",
-    "title": "8  Archétypes",
-    "section": "8.3 Voleur",
-    "text": "8.3 Voleur",
+    "objectID": "j09archetype.html",
+    "href": "j09archetype.html",
+    "title": "9  Archétypes",
+    "section": "",
+    "text": "9.1 Guerrier",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Archétypes</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Archétypes</span>"
     ]
   },
   {
-    "objectID": "j08archetype.html#mage",
-    "href": "j08archetype.html#mage",
-    "title": "8  Archétypes",
-    "section": "8.4 Mage",
-    "text": "8.4 Mage",
+    "objectID": "j09archetype.html#chasseur",
+    "href": "j09archetype.html#chasseur",
+    "title": "9  Archétypes",
+    "section": "9.2 Chasseur",
+    "text": "9.2 Chasseur",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Archétypes</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Archétypes</span>"
     ]
   },
   {
-    "objectID": "j08archetype.html#barde",
-    "href": "j08archetype.html#barde",
-    "title": "8  Archétypes",
-    "section": "8.5 Barde",
-    "text": "8.5 Barde",
+    "objectID": "j09archetype.html#voleur",
+    "href": "j09archetype.html#voleur",
+    "title": "9  Archétypes",
+    "section": "9.3 Voleur",
+    "text": "9.3 Voleur",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Archétypes</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Archétypes</span>"
     ]
   },
   {
-    "objectID": "j08archetype.html#inventeur",
-    "href": "j08archetype.html#inventeur",
-    "title": "8  Archétypes",
-    "section": "8.6 Inventeur",
-    "text": "8.6 Inventeur",
+    "objectID": "j09archetype.html#mage",
+    "href": "j09archetype.html#mage",
+    "title": "9  Archétypes",
+    "section": "9.4 Mage",
+    "text": "9.4 Mage",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Archétypes</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Archétypes</span>"
+    ]
+  },
+  {
+    "objectID": "j09archetype.html#barde",
+    "href": "j09archetype.html#barde",
+    "title": "9  Archétypes",
+    "section": "9.5 Barde",
+    "text": "9.5 Barde",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Archétypes</span>"
+    ]
+  },
+  {
+    "objectID": "j09archetype.html#inventeur",
+    "href": "j09archetype.html#inventeur",
+    "title": "9  Archétypes",
+    "section": "9.6 Inventeur",
+    "text": "9.6 Inventeur",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Archétypes</span>"
     ]
   }
 ]

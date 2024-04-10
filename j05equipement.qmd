@@ -65,8 +65,4 @@ A la création de votre personnage, vous pouvez choisir 3 groupes parmi les suiv
 10. Un kit de déguisement comprenant une sacoche de ceinture de contenance 3 objets avec du maquillage, de la teinture de cheveux et des postiches (barbe, moustache). Il est épuisé après 10 utilisations. Fonctionne avec la compétence *Déguisement*. 
 11. Un kit d'alchimie comprenant une sacoche de ceinture de contenance 3 objets avec 5 fioles (= 1 objet), un pilon et un mortier, 5 réceptecle d'explosifs. Fonctionne avec la compétence *Artisanat*. 
 11. Un kit d'écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.
-12. Un familier. Attention un familier coûte deux groupes d'objets.
-
-## Le Familier
-
-Le familier est un animal dressé qui accompagne le personnage et lui est fidèle, du moins tant que le personnage est juste avec l'animal. 
+12. Un familier. Attention un familier coûte deux groupes d'objets (voir partie *Faune - Familier* dans le chapitre *Nature*)
