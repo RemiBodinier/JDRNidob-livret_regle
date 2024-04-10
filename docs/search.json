@@ -114,107 +114,27 @@
     "href": "j04talent.html",
     "title": "4  Les Talents",
     "section": "",
-    "text": "4.1 Talent de combat au corps à corps",
+    "text": "4.1 Talents de Compétences",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
   },
   {
-    "objectID": "j04talent.html#talent-de-combat-au-corps-à-corps",
-    "href": "j04talent.html#talent-de-combat-au-corps-à-corps",
+    "objectID": "j04talent.html#talents-de-compétences",
+    "href": "j04talent.html#talents-de-compétences",
     "title": "4  Les Talents",
     "section": "",
-    "text": "Maître des [armes] : votre personnage sait très bien utiliser un type d’armes parmi ceux ne possédant pas les particularités Distance ni Lancer. Il augmente la valeur de Combat au corps à corps de 10% quand il utilise une arme de ce type.",
+    "text": "4.1.1 Talents d’Artisanat\n\n\n\n\n\n4.1.2 Talents d’Arts\n\n\n\n\n\n4.1.3 Talents d’Athlétisme\n\nAttaquant en finesse : le personnage utilise sa valeur d’Athlétisme plutôt que celle de Combat au corps à corps pour attaquer avec des armes ne possédant pas la particularité Distance.\n\n\n\n4.1.4 Talents de Combat à distance\n\nMaître des [armes] : votre personnage sait très bien utiliser un type d’armes parmi ceux possédant la particularité Distance. Il augmente la valeur de Combat à distance de 10% quand il utilise une arme de ce type.\n\n\n\n4.1.5 Talents de Combat au corps à corps\n\nMaître des [armes] : votre personnage sait très bien utiliser un type d’armes parmi ceux ne possédant pas les particularités Distance ni Lancer. Il augmente la valeur de Combat au corps à corps de 10% quand il utilise une arme de ce type.\n\n\n\n4.1.6 Talents de Culture générale\n\n\n\n\n\n4.1.7 Talents de Dégguisement\n\n\n\n\n\n4.1.8 Talents de Discrétion\n\n\n\n\n\n4.1.9 Talents d’Estimation\n\n\n\n\n\n4.1.10 Talents d’Habilté\n\n\n\n\n\n4.1.11 Talents d’Influence\n\n\n\n\n\n4.1.12 Talents d’Investigation\n\n\n\n\n\n4.1.13 Talents de Perception\n\n\n\n\n\n4.1.14 Talents de Science\n\n\n\n\n\n4.1.15 Talents d’Utilisation de l’Ether\n\nInitié à la magie (nécessite 55% en Utilisation de l’Ether) : le personnage a suivi un cursus lui permettant d’utiliser des sorts mineurs. Il peut choisir trois sorts mineurs dans la liste présente dans la partie sur la magie.\nEtudiant d’une école de magie (nécessite le talent Initié à la magie): le personnage a étudié une des quatre grandes écoles de magie et peut lancer trois sorts parmi la liste proposé dans l’école à laquelle il appartient.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
   },
   {
-    "objectID": "j04talent.html#talent-de-combat-à-distance",
-    "href": "j04talent.html#talent-de-combat-à-distance",
+    "objectID": "j04talent.html#talents-de-familier",
+    "href": "j04talent.html#talents-de-familier",
     "title": "4  Les Talents",
-    "section": "4.2 Talent de combat à distance",
-    "text": "4.2 Talent de combat à distance\n\nMaître des [armes] : votre personnage sait très bien utiliser un type d’armes parmi ceux possédant la particularité Distance. Il augmente la valeur de Combat à distance de 10% quand il utilise une arme de ce type.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
-    ]
-  },
-  {
-    "objectID": "j04talent.html#talent-dutilisation-de-lether",
-    "href": "j04talent.html#talent-dutilisation-de-lether",
-    "title": "4  Les Talents",
-    "section": "4.3 Talent d’utilisation de l’Ether",
-    "text": "4.3 Talent d’utilisation de l’Ether\n\nInitié à la magie (nécessite 55% en Utilisation de l’Ether) : le personnage a suivi un cursus lui permettant d’utiliser des sorts mineurs. Il peut choisir trois sorts mineurs dans la liste présente dans la partie sur la magie.\nEtudiant d’une école de magie : le personnage a étudié une des quatre grandes écoles de magie et peut lancer trois sorts parmi la liste proposé dans l’école à laquelle ils appartiennent.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
-    ]
-  },
-  {
-    "objectID": "j04talent.html#talent-de-connaissances",
-    "href": "j04talent.html#talent-de-connaissances",
-    "title": "4  Les Talents",
-    "section": "4.4 Talent de connaissances",
-    "text": "4.4 Talent de connaissances\n\nConnaissances de la nature : votre personnage à un bonus de 10% quand il utilise la compétence connaissances à propos de la nature soit pour connaître l’écologie d’une espèce animale, identifier si une plante est comestible ou non ou connaître la valeur d’une pierre.\nConnaissances de géographie : votre personnage à un bonus de 10% quand il utilise la compétence connaissances pour savoir où il se trouve, quelles sont les villes les plus proches, où trouver une rivière, une forêt, … dans les environs.\nConnaissances des coutumes : votre personnage à un bonus de 10% pour savoir comment se comporter avec les différentes races, avec les différentes classes sociales, dans les différentes régions du monde ou d’un pays.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
-    ]
-  },
-  {
-    "objectID": "j04talent.html#talent-de-perception",
-    "href": "j04talent.html#talent-de-perception",
-    "title": "4  Les Talents",
-    "section": "4.5 Talent de perception",
-    "text": "4.5 Talent de perception",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
-    ]
-  },
-  {
-    "objectID": "j04talent.html#talent-dhabileté",
-    "href": "j04talent.html#talent-dhabileté",
-    "title": "4  Les Talents",
-    "section": "4.6 Talent d’habileté",
-    "text": "4.6 Talent d’habileté",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
-    ]
-  },
-  {
-    "objectID": "j04talent.html#talent-dartisanat",
-    "href": "j04talent.html#talent-dartisanat",
-    "title": "4  Les Talents",
-    "section": "4.7 Talent d’artisanat",
-    "text": "4.7 Talent d’artisanat",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
-    ]
-  },
-  {
-    "objectID": "j04talent.html#talent-de-discrétion",
-    "href": "j04talent.html#talent-de-discrétion",
-    "title": "4  Les Talents",
-    "section": "4.8 Talent de discrétion",
-    "text": "4.8 Talent de discrétion",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
-    ]
-  },
-  {
-    "objectID": "j04talent.html#talent-dinfluence",
-    "href": "j04talent.html#talent-dinfluence",
-    "title": "4  Les Talents",
-    "section": "4.9 Talent d’influence",
-    "text": "4.9 Talent d’influence",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
-    ]
-  },
-  {
-    "objectID": "j04talent.html#talent-dathlétisme",
-    "href": "j04talent.html#talent-dathlétisme",
-    "title": "4  Les Talents",
-    "section": "4.10 Talent d’athlétisme",
-    "text": "4.10 Talent d’athlétisme\n\nAttaque en finesse : le personnage utilise sa valeur d’Athlétisme plutôt que celle de Combat au corps à corps pour attaquer avec des armes ne possédant pas la particularité Distance.",
+    "section": "4.2 Talents de familier",
+    "text": "4.2 Talents de familier\n\nVol : l’animal est capable de voler. Pour faire des figures aériennes complexes comme un piquer ou une poursuite il faudra qu’il réussisse un jet d’Athlétisme.\nLimier : l’animal bénéficie d’un bonus de 10% quand il fait des jets d’Investigation pour suivre une piste olfactive, auditive ou visuelle.\nFouisseur : l’animal bénéficie d’un bonus de 10% quand il fait des jets d’Atlétisme pour creuser un trou.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les Talents</span>"
     ]
@@ -244,7 +164,7 @@
     "href": "j05equipement.html#lequipement-de-base",
     "title": "5  L’Equipement",
     "section": "5.2 L’Equipement de base",
-    "text": "5.2 L’Equipement de base\nA la création de votre personnage, vous pouvez choisir 3 groupes parmi les suivants et les noter dans votre inventaire :\n\nUn paquetage d’aventurier comprenant un sac à dos de contenance 8(+2) objets, un bol, une boîte d’allume feu, une torche, 10 jours de rations (=1 objet), une gourde d’eau, un sac de couchage et une corde en chanvre de 15m.\nUne arme possédant la particularité Distance de type Légère ou Intermédiaire.\nUne arme à deux mains ne possédant pas la particularité Distance ou Allonge.\nUne arme de type Intermédiaire ne possédant pas la particularité Distance ou Allonge et un bouclier réduisant les dégâts de 10 (Force nécessaire supérieure ou égale à 10).\nUn arme de type Intermédiaire ne possédant pas la particularité Distance ou Allonge et deux armes de type Légère et possédant la particularité Lancer.\nUne armure réduisant les dégâts de 20 (Force nécessaire supérieure ou égale à 13)\nUn instrument enchanté (Charisme nécessaire supérieure ou égale à 13). Voir partie Enchantement dans la page La Magie.\nUn kit de soins comprenant une sacoche de ceinture de contenance 3 objets avec des des bandages, un baume pour soulager la douleur et un nécessaire pour construire une attelle. Il est épuisé après 10 utilisations. Fonctionne avec la compétence Science.\nUn kit de crochetage comprenant une sacoche de ceinture de contenance 3 objets avec des crochets de serrurier, un maillet et un burin. Il est épuisé après 10 utilisations. Fonctionne avec la compétence Habileté.\nUn kit de déguisement comprenant une sacoche de ceinture de contenance 3 objets avec du maquillage, de la teinture de cheveux et des postiches (barbe, moustache). Il est épuisé après 10 utilisations. Fonctionne avec la compétence Déguisement.\nUn kit d’alchimie comprenant une sacoche de ceinture de contenance 3 objets avec 5 fioles (= 1 objet), un pilon et un mortier, 5 réceptecle d’explosifs. Fonctionne avec la compétence Artisanat.\nUn kit d’écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.\nUn familier. Attention un familier coûte deux groupes d’objets (voir partie Faune - Familier dans le chapitre Nature)",
+    "text": "5.2 L’Equipement de base\nA la création de votre personnage, vous pouvez choisir 3 groupes parmi les suivants et les noter dans votre inventaire :\n\nUn paquetage d’aventurier comprenant un sac à dos de contenance 8(+2) objets, un bol, une boîte d’allume feu, une torche, 10 jours de rations (=1 objet), une gourde d’eau, un sac de couchage et une corde en chanvre de 15m.\nUne arme possédant la particularité Distance de type Légère ou Intermédiaire.\nUne arme à deux mains ne possédant pas la particularité Distance ou Allonge.\nUne arme de type Intermédiaire ne possédant pas la particularité Distance ou Allonge et un bouclier réduisant les dégâts de 10 (Force nécessaire supérieure ou égale à 10).\nUn arme de type Intermédiaire ne possédant pas la particularité Distance ou Allonge et deux armes de type Légère et possédant la particularité Lancer.\nUne armure réduisant les dégâts de 20 (Force nécessaire supérieure ou égale à 13)\nUn instrument enchanté (Charisme nécessaire supérieure ou égale à 13). Voir partie Enchantement dans la page La Magie.\nUn kit de soins comprenant une sacoche de ceinture de contenance 3 objets avec des des bandages, un baume pour soulager la douleur et un nécessaire pour construire une attelle. Il est épuisé après 10 utilisations. Fonctionne avec la compétence Science.\nUn kit de crochetage comprenant une sacoche de ceinture de contenance 3 objets avec des crochets de serrurier, un maillet et un burin. Il est épuisé après 10 utilisations. Fonctionne avec la compétence Habileté.\nUn kit de déguisement comprenant une sacoche de ceinture de contenance 3 objets avec du maquillage, de la teinture de cheveux et des postiches (barbe, moustache). Il est épuisé après 10 utilisations. Fonctionne avec la compétence Déguisement.\nUn kit d’alchimie comprenant une sacoche de ceinture de contenance 3 objets avec 5 fioles (= 1 objet), un pilon et un mortier, 5 réceptecle d’explosifs (= 1 objet). Fonctionne avec la compétence Artisanat.\nUn kit d’écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.\nAttention un familier coûte deux groupes d’objets. Un familier (voir partie Faune - Familier dans le chapitre Nature) a des valeurs de caractéristiques et de compétences propre, et un talent de familier propre. Vous pouvez lui choisir un autre talent de familier parmi ceux disponibles (voir partie Talents de familier dans le chapitre Talents). De plus, vous devez choisir 3 ordres connus par votre familier parmi ceux dans la liste suivante. Vous n’avez pas de jets à faire pour que votre familier réalise un ordre connu. Cependant, pour donner un ordre non connu à votre familier, vous devrez faire un jet d’Influence avec un bonus de 10%.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>L'Equipement</span>"
     ]
@@ -324,7 +244,7 @@
     "href": "j08nature.html#familier",
     "title": "8  La Nature dans le monde d’Ednom",
     "section": "8.2 Familier",
-    "text": "8.2 Familier\nLes familiers disponibles à la création du personnage sont le Digonyche, le Custal, la Capcèle et .\n\n8.2.1 Le Digonyche\nLe Digonyche est un animal fouisseur de la taille d’un sanglier et ayant une apparence physique à la jonction entre une taupe et un blaireau. Il possède un corps trappu et six grosses pattes robustes munies de griffes. Il a un pelage noir avec quelques zébrures un peu plus claires.\n\n\n8.2.2 Le Custal\nLe Custal est une espèce domestiqué qui sert à garder les troupeaux. De la taille d’un loup, il a cependant une gueule plus épaisse et aplatie, avec les canines sortant légèrement sur la lèvre inférieure. Il possède six pattes plus proches de celles des panthères et autres félins de moyenne taille, une queue également similaire à celle des félins mais plus pointue au bout, et des oreilles similaires à celles des chauve-souris oreillards.\n\n\n8.2.3 La Capcèle\nLa Capcèle est un oiseau de proie de taille moyenne, avec ces deux paries d’ailes étroites et longues et le bec recourbé et acéré. Il a un plumage châtain sur le dos, lui permettant de se fondre dans les hautes herbes de la savane où on le retrouve, et blanc moucheté de beige sur le ventre.\n\n\n8.2.4 Le Reptile\nLe Reptile est une sorte de croisement entre un gecko et un macaque. Il possède un corps écailleux et six pattes se terminant par des membres avec pouce opposable. Les écailles lamellaires au niveau des doigt lui permettent d’adhérer à un grand nombre de surface. Sa longue queue préhensile lui permet de s’accroche aux branches et lui sert également de balancier. Enfin le Reptile possède une langue protactile, à la manière des caméléons.",
+    "text": "8.2 Familier\nLes familiers disponibles à la création du personnage sont l’Oryctongue, le Custal, la Capcèle et .\n\n8.2.1 L’Oryctongue\nl’Oryctongue est un animal fouisseur de la taille d’un sanglier et ayant une apparence physique à la jonction entre une taupe et un blaireau. Il possède un corps trappu et six grosses pattes robustes munies de griffes. Il a un pelage noir avec quelques zébrures un peu plus claires.\n\n\n8.2.2 Le Custal\nLe Custal est une espèce domestiqué qui sert à garder les troupeaux. De la taille d’un loup, il a cependant une gueule plus épaisse et aplatie, avec les canines sortant légèrement sur la lèvre inférieure. Il possède six pattes plus proches de celles des panthères et autres félins de moyenne taille, une queue également similaire à celle des félins mais plus pointue au bout, et des oreilles similaires à celles des chauve-souris oreillards.\n\n\n8.2.3 La Capcèle\nLa Capcèle est un oiseau de proie de taille moyenne, avec ces deux paries d’ailes étroites et longues et le bec recourbé et acéré. Il a un plumage châtain sur le dos, lui permettant de se fondre dans les hautes herbes de la savane où on le retrouve, et blanc moucheté de beige sur le ventre.\n\n\n8.2.4 Le Reptile\nLe Reptile est une sorte de croisement entre un gecko et un macaque. Il possède un corps écailleux et six pattes se terminant par des membres avec pouce opposable. Les écailles lamellaires au niveau des doigt lui permettent d’adhérer à un grand nombre de surface. Sa longue queue préhensile lui permet de s’accroche aux branches et lui sert également de balancier. Enfin le Reptile possède une langue protactile, à la manière des caméléons.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>La Nature dans le monde d'Ednom</span>"
     ]
