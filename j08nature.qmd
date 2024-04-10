@@ -4,11 +4,11 @@
 
 ## Familier
 
-Les familiers disponibles à la création du personnage sont le Digonyche, le Custal, la Capcèle et .
+Les familiers disponibles à la création du personnage sont l'Oryctongue, le Custal, la Capcèle et .
 
-### Le Digonyche
+### L'Oryctongue
 
-Le Digonyche est un animal fouisseur de la taille d'un sanglier et ayant une apparence physique à la jonction entre une taupe et un blaireau. Il possède un corps trappu et six grosses pattes robustes munies de griffes. Il a un pelage noir avec quelques zébrures un peu plus claires. 
+l'Oryctongue est un animal fouisseur de la taille d'un sanglier et ayant une apparence physique à la jonction entre une taupe et un blaireau. Il possède un corps trappu et six grosses pattes robustes munies de griffes. Il a un pelage noir avec quelques zébrures un peu plus claires. 
 
 ### Le Custal
 
