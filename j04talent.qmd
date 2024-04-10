@@ -1,38 +1,72 @@
 # Les Talents
 
-Bien que vos compétences donne une première vision des actions dans lesquelles vous allez exceller et celles qui vous donneront du fil à retordre, les talents sont un autre aspect de votre personnage lui apportant de la nuance. 
+Bien que vos compétences donne une première vision des actions dans lesquelles vous allez exceller et celles qui vous donneront du fil à retordre, les talents sont un autre aspect de votre personnage lui apportant de la nuance. Vous allez pouvoir en choisir deux en tout et pour tout, à la création de votre personnage. 
 
-Chaque talent est associé à une compétence et vous allez pouvoir en choisir deux en tout et pour tout. 
+## Talents de Compétences
 
-## Talent de combat au corps à corps
+### Talents d'Artisanat
 
-- **Maître des [armes]** : votre personnage sait très bien utiliser un type d'armes parmi ceux ne possédant pas les particularités *Distance* ni *Lancer*. Il augmente la valeur de *Combat au corps à corps* de 10% quand il utilise une arme de ce type.
+- 
 
-## Talent de combat à distance
+### Talents d'Arts
 
-- **Maître des [armes]** : votre personnage sait très bien utiliser un type d'armes parmi ceux possédant la particularité *Distance*. Il augmente la valeur de *Combat à distance* de 10% quand il utilise une arme de ce type.  
+- 
 
-## Talent d'utilisation de l'Ether
-
-- **Initié à la magie** (nécessite 55% en Utilisation de l'Ether) : le personnage a suivi un cursus lui permettant d'utiliser des sorts mineurs. Il peut choisir trois sorts mineurs dans la liste présente dans la partie sur la magie.
-- **Etudiant d'une école de magie** : le personnage a étudié une des quatre grandes écoles de magie et peut lancer trois sorts parmi la liste proposé dans l'école à laquelle ils appartiennent. 
-
-## Talent de connaissances
-
-- **Connaissances de la nature** : votre personnage à un bonus de 10% quand il utilise la compétence connaissances à propos de la nature soit pour connaître l'écologie d'une espèce animale, identifier si une plante est comestible ou non ou connaître la valeur d'une pierre.
-- **Connaissances de géographie** : votre personnage à un bonus de 10% quand il utilise la compétence connaissances pour savoir où il se trouve, quelles sont les villes les plus proches, où trouver une rivière, une forêt, ... dans les environs.
-- **Connaissances des coutumes** : votre personnage à un bonus de 10% pour savoir comment se comporter avec les différentes races, avec les différentes classes sociales, dans les différentes régions du monde ou d'un pays. 
-
-## Talent de perception
-
-## Talent d'habileté
-
-## Talent d'artisanat
-
-## Talent de discrétion
-
-## Talent d'influence
-
-## Talent d'athlétisme
+### Talents d'Athlétisme
 
 - **Attaque en finesse** : le personnage utilise sa valeur d'*Athlétisme* plutôt que celle de *Combat au corps à corps* pour attaquer avec des armes ne possédant pas la particularité *Distance*. 
+
+### Talents de Combat à distance
+
+- **Maître des [armes]** : votre personnage sait très bien utiliser un type d'armes parmi ceux possédant la particularité *Distance*. Il augmente la valeur de *Combat à distance* de 10% quand il utilise une arme de ce type. 
+
+### Talents de Combat au corps à corps
+
+- **Maître des [armes]** : votre personnage sait très bien utiliser un type d'armes parmi ceux ne possédant pas les particularités *Distance* ni *Lancer*. Il augmente la valeur de *Combat au corps à corps* de 10% quand il utilise une arme de ce type. 
+
+### Talents de Culture générale
+
+- 
+
+### Talents de Dégguisement
+
+-
+
+### Talents de Discrétion
+
+-
+
+### Talents d'Estimation
+
+-
+
+### Talents d'Habilté
+
+-
+
+### Talents d'Influence
+
+-
+
+### Talents d'Investigation
+
+-
+
+### Talents de Perception
+
+-
+
+### Talents de Science
+
+-
+
+### Talent d'Utilisation de l'Ether
+
+- **Initié à la magie** (nécessite 55% en *Utilisation de l'Ether*) : le personnage a suivi un cursus lui permettant d'utiliser des sorts mineurs. Il peut choisir trois sorts mineurs dans la liste présente dans la partie sur la magie.
+- **Etudiant d'une école de magie** (nécessite le talent *Initié à la magie*): le personnage a étudié une des quatre grandes écoles de magie et peut lancer trois sorts parmi la liste proposé dans l'école à laquelle il appartient. 
+
+## Talents de familier
+
+- **Vol** : l'animal est capable de voler. Pour faire des figures aériennes complexes comme un piquer ou une poursuite il faudra qu'il réussisse un jet d'*Athlétisme*.
+- **Suivre une piste** : l'animal bénéficie d'un bonus de 10% quand il fait des jets d'*Investigation* pour suivre une piste olfactive, auditive ou visuelle. 
+- **Creuse** : l'animal bénéficie 
