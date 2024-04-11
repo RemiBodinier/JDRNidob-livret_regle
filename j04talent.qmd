@@ -67,6 +67,6 @@ Bien que vos compétences donne une première vision des actions dans lesquelles
 
 ## Talents de familier
 
-- **Vol** : l'animal est capable de voler. Pour faire des figures aériennes complexes comme un piquer ou une poursuite il faudra qu'il réussisse un jet d'*Athlétisme*.
+- **Piqué** : l'animal pique sur sa cible (jet d'*Athlétisme*) pour le griffer et remonte immédiatement en l'air. Le piqué donne un bonus de 15 au dégâts.
 - **Limier** : l'animal bénéficie d'un bonus de 10% quand il fait des jets d'*Investigation* pour suivre une piste olfactive, auditive ou visuelle. 
 - **Fouisseur** : l'animal bénéficie d'un bonus de 10% quand il fait des jets d'*Atlétisme* pour creuser un trou.

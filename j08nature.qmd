@@ -2,9 +2,11 @@
 
 ## La Faune
 
+Les animaux dans ce jeu de rôle sont des personnages comme les autres. SOnt donc renseignées leurs valeurs de caractéristiques ainsi que de compétences. Toutefois les compétences *Artisanat*, *Culture générale*, *Estimation*, *Habileté*, *Science* et *Utilisation de l'éther* ne sont pas disponibles pour les animaux. Toutes les espèces animales présentent des particularités qui leurs sont propres et qui leur accordent des bonus divers. De plus chaque animal possède directement un talent mais d'autres sont disponibles, en particulier le Familier à qui le personnage doit donner un talent supplémentaire à la création (voir partie *Talents de familier* dans le chapitre *Talents*). Enfin un animal ne possède pas d'équipement de base, mais les ressources disponibles sur le corps d'un animal sont toutes considérés comme des objets pouvant être récoltés (griffe et crocs, viande, peau, ...).
+
 ## Familier
 
-Les familiers disponibles à la création du personnage sont l'Oryctongue, le Custal, la Capcèle et .
+Les familiers disponibles à la création du personnage sont l'Oryctongue, le Custal, la Capcèle et la Lingue.
 
 ### L'Oryctongue
 
@@ -18,7 +20,7 @@ Le Custal est une espèce domestiqué qui sert à garder les troupeaux. De la ta
 
 La Capcèle est un oiseau de proie de taille moyenne, avec ces deux paries d'ailes étroites et longues et le bec recourbé et acéré. Il a un plumage châtain sur le dos, lui permettant de se fondre dans les hautes herbes de la savane où on le retrouve, et blanc moucheté de beige sur le ventre. 
 
-### Le Reptile
+### La Lingue
 
-Le Reptile est une sorte de croisement entre un gecko et un macaque. Il possède un corps écailleux et six pattes se terminant par des membres avec pouce opposable. Les écailles lamellaires au niveau des doigt lui permettent d'adhérer à un grand nombre de surface. Sa longue queue préhensile lui permet de s'accroche aux branches et lui sert également de balancier. Enfin le Reptile possède une langue protactile, à la manière des caméléons. 
+La Lingue est une sorte de croisement entre un gecko et un macaque. Il possède un corps écailleux et six pattes se terminant par des membres avec pouce opposable. Les écailles lamellaires au niveau des doigt lui permettent d'adhérer à un grand nombre de surface. Sa longue queue préhensile lui permet de s'accroche aux branches et lui sert également de balancier. Enfin la Lingue possède une langue protactile, à la manière des caméléons. 
 
