@@ -70,3 +70,5 @@ Bien que vos compétences donne une première vision des actions dans lesquelles
 - **Piqué** : l'animal pique sur sa cible (jet d'*Athlétisme*) pour le griffer et remonte immédiatement en l'air. Le piqué donne un bonus de 15 au dégâts.
 - **Limier** : l'animal bénéficie d'un bonus de 10% quand il fait des jets d'*Investigation* pour suivre une piste olfactive, auditive ou visuelle. 
 - **Fouisseur** : l'animal bénéficie d'un bonus de 10% quand il fait des jets d'*Atlétisme* pour creuser un trou.
+- **Maître des crocs** : votre familier sait très bien utiliser ses crocs. Il augmente la valeur de *Combat au corps à corps* de 10% quand il attaque en utilisant ses crocs.
+- **Maître des griffes** : votre familier sait très bien utiliser ses griffes ou ses serres. Il augmente la valeur de *Combat au corps à corps* de 10% quand il attaque en utilisant ses griffes ou ses serres.
