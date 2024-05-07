@@ -5,7 +5,7 @@
 Voici la liste des sorts mineurs disponibles à ceux qui ont pris le talent *Initié à la magie* :
 
 - **Murmure** : le vent emporte un murmure du mage vers une cible éloignée. 
-- **Follets** : des petits flammèches se crééent à quelques mètres devant le mage.
+- **Follets** : des petits flammèches se crééent à quelques mètres devant le mage, produisant de la lumière mais très peu de chaleur.
 - **Source** : une petite source pouvant remplir une gourde sort de la terre.  
 
 ## Ecole de magie
@@ -17,8 +17,9 @@ Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvo
 #### Sorts disponibles
 
 - **Trait de feu** : un trait de feu vient brûler votre adversaire lui causant des dégâts.
-- **Balsamine** : trois flammèches sortent de vont main infligeant chacune un tiers des dégâts que vous pouvez occasionner.
-- **Cautérisation** : une flamme douce et chaude vient envelopper la blessure que vous voulez guérir afin de rendre des points de vie. 
+- **Balsamine** : trois flammèches sortent de vos main infligeant chacune un tiers des dégâts que vous pouvez occasionner.
+- **Cautérisation** : une flamme douce et chaude vient envelopper la blessure que vous voulez guérir afin de rendre des points de vie. Ne fonctionne que pour des dégâts tranchants.
+- **Barrière de fau** : une barrière de feu se dresse devant le lanceur du sort, afin d'encaisser des dégâts.
 
 ### Ecole de l'eau 
 
@@ -26,18 +27,30 @@ Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvo
 
 - **Jet d'eau** : un jet d'eau à haute pression heurte la cible du sort, lui infligeant des dégâts perforants.
 - **Lame d'eau** : une vague d'eau vient couper la cible, lui infligeant des dégâts tranchants. 
+- **Eau de vie** : une eau pure vient envelopper la blessure que vous voulez guérir afin de rendre des points de vie. Ne fonctionne que pour des dégâts liés à des brulures ou à des poisons.
+- **Barrière d'eau** : une barière d'eau se dresse devantt le lanceur du sort, afin d'encaisser des dégâts.
 
 ### Ecole de l'air
 
 #### Sorts disponibles
 
--
+- **Souffle revigorant** : une souffle léger court sur la blessure que vous voulez guérir afin de rendre des points de vie. Ne fonctionne que pour des dégâts contondants. 
+- **Lame d'air** : une lame d'air vient trancher la cible du sort, lui infligeant des dégâts tranchants.
+- **Onde de choc** : un impact de vet vient bousculer la cible, lui ingfligeant des dégâts contondant et la faisant tomber à terre.
+- **Barrière d'air** : une barrière d'air se dresse devant le lanceur de sort, afin d'encaisser des dégâts. 
 
 ### Ecole de la terre
 
 #### Sorts disponibles
 
--
+- **Cataplasme** : une boue à la capacité curative vient remplir la blessure que vous voulez guérir afin de rendre des points de vie. Ne fonctionne que pour des dégâts perforants.
+- **Mare de chaux** : une mare de chaux s'étale au sol et se solidifie aux pieds des cibles, les empêchant de bouger. 
+- **Poing de pierre** : un bloc de pierre vient se fracasser contre la cible, lui infligeant des dégâts contondants.
+- **Barrière de terre** : une barrière de terre se dresse devant le lanceur, afin d'encaisser des dégâts. 
+- **Disques de pierre** : trois disques de pierre sortent de vos mains, infligeant chacun le tiers des dégâts que vous pouvez occasionner.
+- **Jet de sable** : un jet de sable vient infliger un cinquième des dégâts et aveugle la cible pendant un certain nombre de tour.
+- **Météores** : une pluie de pierre jaillit de vos mains, infligeant la moitié des dégâts que vous pouvez occasionner sur une case et celles à proximité.
+ 
 
 ## Enchantement
 

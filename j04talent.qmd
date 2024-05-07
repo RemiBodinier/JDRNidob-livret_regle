@@ -6,47 +6,62 @@ Bien que vos compétences donne une première vision des actions dans lesquelles
 
 ### Talents d'Artisanat
 
-- 
+- **Armurier** : le personnage bénéficie d'un bonus  de 10% quand il forge une armure. 
+- **Joaillier** : le personnage bénéficie d'un bonus de 10% quand il cisèle un talisman.
+- **Forgeron d'armes** : le personnage bénéficie d'un bonus de 10% quand il forge une arme.
+- **Cuisinier** : le personnage bénéficie d'un bonus de 10% quad il cuisine.
+- **Maître des potions** : le personnage bénéficie d'un bonus de 10% quand il fabrique une potion
+- **Artificier** : le personnage bénéficie d'un bonus de 10% quand il fabrique une bombe.
 
 ### Talents d'Arts
 
+- **Chanteur** : le personnage bénéficie d'un bonus de 10% quand il chante.
+- **Danseur** : le personnage bénéficie d'un bonus de 10% quand il danse.
 - 
 
 ### Talents d'Athlétisme
 
-- **Attaquant en finesse** : le personnage utilise sa valeur d'*Athlétisme* plutôt que celle de *Combat au corps à corps* pour attaquer avec des armes ne possédant pas la particularité *Distance*. 
+- **Attaque en finesse** : le personnage utilise sa valeur d'*Athlétisme* plutôt que celle de *Combat au corps à corps* pour attaquer avec des armes ne possédant pas la particularité *Distance*. 
+- **Grimpeur** : le personnage béénficie d'un bonus de 10% quand il escalade.
+- **Nageur** : le personnage bénéficie d'un bonus de 10% quand il nage.
 
 ### Talents de Combat à distance
 
-- **Maître des [armes]** : votre personnage sait très bien utiliser un type d'armes parmi ceux possédant la particularité *Distance*. Il augmente la valeur de *Combat à distance* de 10% quand il utilise une arme de ce type. 
+- **Maîtrise des [armes]** : le personnage sait très bien utiliser un type d'armes parmi ceux possédant la particularité *Distance*. Il augmente la valeur de *Combat à distance* de 10% quand il utilise une arme de ce type. 
 
 ### Talents de Combat au corps à corps
 
-- **Maître des [armes]** : votre personnage sait très bien utiliser un type d'armes parmi ceux ne possédant pas les particularités *Distance* ni *Lancer*. Il augmente la valeur de *Combat au corps à corps* de 10% quand il utilise une arme de ce type. 
+- **Maîtrise des [armes]** : le personnage sait très bien utiliser un type d'armes parmi ceux ne possédant pas les particularités *Distance* ni *Lancer*. Il augmente la valeur de *Combat au corps à corps* de 10% quand il utilise une arme de ce type. 
 
 ### Talents de Culture générale
 
-- 
+- **Théologiste** : le personnage bénéficie d'un bonus de 10% en ce qui concerne les connaissances sur les religions.
+- **Historien** : le personnage bénéficie d'un bonus de 10% en ce qui concerne les connaissances sur l'histoire.
+- **Généalogiste** : le personnage bénéficie d'un bonus de 10% en ce qui concerne les lignées de la noblesse. 
 
-### Talents de Dégguisement
+### Talents de Déguisement
 
--
+- **Imitateur** : le personnage bénéficie d'un bonus de 10% lorsqu'il se fait passer pour quelqu'un d'autre.
+- **Profesionnel du camouflage** : le personnage bénéficie d'un bonus de 10% lorsqu'il utilise des éléments de l'environnement pour se camoufler.
+- **Affabulateur** : le personnage bénéficie d'un bonus de 10% losqu'il ment.
 
 ### Talents de Discrétion
 
--
+- **Voleur à la tire** : le personnage bénéficie d'un bonus de 10% pour voler des objets dans les poches.
 
 ### Talents d'Estimation
 
--
+- **Connaisseur du marché** : le personnage bénéficie d'un bonus de 10% lorsqu'il estime le prix d'un objet.
+- **Fin gourmet** : le personnage bénéficie d'un bonus de 10% lorsqu'il identifie si un aliment est comestible ou non.
 
 ### Talents d'Habilté
 
--
+- **Crocheteur** : le personnage bénéficie d'un bonus de 10% lorsqu'il corchète une serrure. 
 
 ### Talents d'Influence
 
--
+- **Intimidant** : le personnage bénéficie d'un bonus de 10% lorsqu'il intimide.
+- **Ami des bêtes** : le peronnages bénéficie d'un bonus de 10% lorsqu'il amadoue une bête.
 
 ### Talents d'Investigation
 
@@ -54,16 +69,20 @@ Bien que vos compétences donne une première vision des actions dans lesquelles
 
 ### Talents de Perception
 
--
+- **Vue perçante** : le personnage bénéficie d'un bonus de 10% lorsqu'il observe son environnement.
+- **Ouïe fine** : le personnage bénéficie d'un bonus de 10% lorsqu'il écoute son environneemnt.
 
 ### Talents de Science
 
--
+- **Médecin** : le personnage bénéficie d'un bonus de 10% lorsqu'il soigne quelqu'un
+- **Géographe** : le personnage bénéficie d'un bonus de 10% pour savoir où il se trouve dans l'environnement.
+
 
 ### Talents d'Utilisation de l'Ether
 
 - **Initié à la magie** (nécessite 55% en *Utilisation de l'Ether*) : le personnage a suivi un cursus lui permettant d'utiliser des sorts mineurs. Il peut choisir trois sorts mineurs dans la liste présente dans la partie sur la magie.
 - **Etudiant d'une école de magie** (nécessite le talent *Initié à la magie*): le personnage a étudié une des quatre grandes écoles de magie et peut lancer trois sorts parmi la liste proposé dans l'école à laquelle il appartient. 
+- **Connaisseur de sort** : le personnage connaît un sort d'une des écoles de magie.
 
 ## Talents de familier
 
