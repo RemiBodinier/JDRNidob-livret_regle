@@ -12,7 +12,7 @@ Voici les 6 caractéristiques :
 - **Sagesse** (SAG)
 
 Vos points de vie sont calculés en faisant **END x 10**.
-Votre Vitesse est calculée en faisant **DEX/2** arrondi à l'entier inférieur.
+Votre Vitesse est calculée en faisant **DEX/2** arrondi à l'entier supérieur.
 
 Ensuite il faut calculer la valeur de chacune des compétences ci-dessous. Ce sont ces valeurs qui serviront pour la réalisation des divers actions que vous allez faire en jeu. Il faut alors appliquer la formule suivante **(CAR1+CAR2) x 2**. **CAR** étant les caractéristiques entre parenthèses après le nom de la compétence.
 

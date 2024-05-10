@@ -47,8 +47,8 @@ Définition des particularités :
 - **Allonge** : ces armes permettent de toucher des ennemis qui sont *à proximité* (voir partie *Le Combat*)
 - **Distance** : attaquer avec ces armes demande d'utilser la compétence *Combat à distance*. Les armes qui n'ont pas *Distance* demandent d'utiliser *Combat au corps à corps* pour attaquer.
 - **Lancer** : une arme avec *Lancer* s'utilise normalement avec la compétence *Combat au corps à corps* mais peut être utilisé comme arme de jet avec la compétence *Combat à distance*. Lancer une arme qui n'a pas la particularité *Lancer* se fera avec un jet de *Combat à distance* affublé d'un malus de 30%. 
-- **Maniable** : attaquer avec une arme maniable peut se faire en tant qu'*action de mouvement*. 
-- **Munitions** : ces armes nécessitent des munitions pour fonctionner. Recharger une arme avec munitions prend une *action de mouvement* (voir partie *Le Combat*)
+- **Maniable** : attaquer avec une arme maniable peut se faire en tant qu'*action courte*. 
+- **Munitions** : ces armes nécessitent des munitions pour fonctionner. Recharger une arme avec munitions prend une *action courte* (voir partie *Le Combat*)
 
 ## L'Equipement de base
 A la création de votre personnage, vous pouvez choisir 3 groupes parmi les suivants et les noter dans votre inventaire : 
