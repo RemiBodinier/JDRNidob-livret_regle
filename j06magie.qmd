@@ -60,4 +60,4 @@ Il peut arriver que des objets soit enchantés. En particulier les instruments d
 
 Si vous avez choisi l'instrument enchanté, vous pouvez choisir 3 partition parmi les suivantes :
 
-- **Partition de sommeil** : 
+- **Partition de sommeil** : la cible tombe dans un état de somnolence
