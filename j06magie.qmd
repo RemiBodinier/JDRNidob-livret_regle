@@ -10,7 +10,7 @@ Voici la liste des sorts mineurs disponibles à ceux qui ont pris le talent *Ini
 
 ## Ecole de magie
 
-Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvoir choisir une des quatres grandes écoles de la magie, chacune basée sur un des quates éléments primaires. UNe fois votre école choisie, vous pourrez choisir trois sorts parmi ceux proposés.
+Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvoir choisir une des quatres grandes écoles de la magie, chacune basée sur un des quates éléments primaires. Une fois votre école choisie, vous pourrez choisir trois sorts parmi ceux proposés.
 
 ### Ecole du feu
 
@@ -19,7 +19,7 @@ Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvo
 - **Trait de feu** : un trait de feu vient brûler votre adversaire lui causant des dégâts.
 - **Balsamine** : trois flammèches sortent de vos main infligeant chacune un tiers des dégâts que vous pouvez occasionner.
 - **Cautérisation** : une flamme douce et chaude vient envelopper la blessure que vous voulez guérir afin de rendre des points de vie. Ne fonctionne que pour des dégâts tranchants.
-- **Barrière de fau** : une barrière de feu se dresse devant le lanceur du sort, afin d'encaisser des dégâts.
+- **Barrière de feu** : une barrière de feu se dresse devant le lanceur du sort, afin d'encaisser des dégâts.
 
 ### Ecole de l'eau 
 
@@ -28,7 +28,7 @@ Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvo
 - **Jet d'eau** : un jet d'eau à haute pression heurte la cible du sort, lui infligeant des dégâts perforants.
 - **Lame d'eau** : une vague d'eau vient couper la cible, lui infligeant des dégâts tranchants. 
 - **Eau de vie** : une eau pure vient envelopper la blessure que vous voulez guérir afin de rendre des points de vie. Ne fonctionne que pour des dégâts liés à des brulures ou à des poisons.
-- **Barrière d'eau** : une barière d'eau se dresse devantt le lanceur du sort, afin d'encaisser des dégâts.
+- **Barrière d'eau** : une barière d'eau se dresse devant le lanceur du sort, afin d'encaisser des dégâts.
 
 ### Ecole de l'air
 

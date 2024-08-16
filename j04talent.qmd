@@ -21,8 +21,8 @@ Bien que vos compétences donne une première vision des actions dans lesquelles
 
 ### Talents d'Athlétisme
 
-- **Attaque en finesse** : le personnage utilise sa valeur d'*Athlétisme* plutôt que celle de *Combat au corps à corps* pour attaquer avec des armes ne possédant pas la particularité *Distance*. 
-- **Grimpeur** : le personnage béénficie d'un bonus de 10% quand il escalade.
+- **Attaque en finesse** : le personnage utilise sa valeur d'*Athlétisme* plutôt que celle de *Combat au corps à corps* pour attaquer avec des armes légères ou intnermédiaires ne possédant pas la particularité *Distance*. 
+- **Grimpeur** : le personnage bénéficie d'un bonus de 10% quand il escalade.
 - **Nageur** : le personnage bénéficie d'un bonus de 10% quand il nage.
 - **Esquive** : lorsqu'il est attaqué, le personnage peut faire un jet d'*Athlétisme* avec un malus de 25% pour éviter d'être touché.
 - **Réflexe de combat** : le personnage possède 2 points de vitesse supplémentaire.
@@ -35,7 +35,7 @@ Bien que vos compétences donne une première vision des actions dans lesquelles
 
 - **Maîtrise des [armes]** : le personnage sait très bien utiliser un type d'armes parmi ceux ne possédant pas les particularités *Distance* ni *Lancer*. Il augmente la valeur de *Combat au corps à corps* de 10% quand il utilise une arme de ce type. 
 - **Force intimidante** : le personnage peut utiliser un jet de *Combat au corps à corps* plutôt qu'un jet d'*Influence* pour intimider une cible.
-- **Robuste** : le personnage possède gagne 20 points de vie supplémentaire.
+- **Robuste** : le personnage gagne 20 points de vie supplémentaire.
 - **Bousculade** : le personnage peut faire un test de *Combat au corps à corps* pour infliger la moitié des dégâts et faire tomber son adversaire. Celui-ci doit prendre une *action pleine* pour se lever et ses attaquants bénéficie d'un bonus de 10% pour le toucher.
 - **Berserker** : le personnage rentre en rage pendant
 
@@ -101,8 +101,8 @@ Bien que vos compétences donne une première vision des actions dans lesquelles
 - **Crocs aiguisés** (nécessite d'avoir des dents ou des crocs) : l'animal possède des crocs aiguisés ayant un bonus de 10 points de dégâts.
 - **Griffes aiguisées** (nécessite d'avoir des dents ou des crocs) : l'animal possède des griffes ou des serres aiguisées ayant un bonus de 10 points de dégâts.
 - **Armure naturelle** : l'animal possède un corps robuste et réduit de 10 les dégâts reçus. 
-- **Robuste** : l'animal possède gagne 20 points de vie supplémentaire.
-- **Grimpeur** : l'animal béénficie d'un bonus de 10% quand il escalade.
+- **Robuste** : l'animal gagne 20 points de vie supplémentaire.
+- **Grimpeur** : l'animal bénéficie d'un bonus de 10% quand il escalade.
 - **Nageur** : l'animal bénéficie d'un bonus de 10% quand il nage.
 - **Attaque en finesse** : l'animal' utilise sa valeur d'*Athlétisme* plutôt que celle de *Combat au corps à corps* pour attaquer avec ses griffes/serres ou ses crocs/dents. 
 - **Discret** : l'animal bénéficie d'un bonus de 10% lorsqu'il tente de passer inaperçu ou se cache.

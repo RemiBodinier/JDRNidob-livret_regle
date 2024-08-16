@@ -37,7 +37,7 @@ Définition des types d'armes :
 
 Définition des types de dégâts :
 
-- **Contondant** : ces armes bénéficient d'un bonus 30 aux dégâts mais ne bénéficient pas de dégâts supplémentaires en cas de réussite critique. 
+- **Contondant** : ces armes bénéficient d'un bonus de 30 aux dégâts mais ne bénéficient pas de dégâts supplémentaires en cas de réussite critique. 
 - **Perforant** : ces armes ne bénéficient pas d'un bonus de base aux dégâts mais les dégâts sont doublés en cas de réussite critique.
 - **Tranchant** : ces armes bénéficient d'un bonus de 10 aux dégâts et ce bonus monte à 50 en cas de réussite critique. 
 
@@ -63,7 +63,7 @@ A la création de votre personnage, vous pouvez choisir 3 groupes parmi les suiv
 8. Un kit de soins comprenant une sacoche de ceinture de contenance 3 objets avec des des bandages, un baume pour soulager la douleur et un nécessaire pour construire une attelle. Il est épuisé après 10 utilisations. Fonctionne avec la compétence *Science*.
 9. Un kit de crochetage comprenant une sacoche de ceinture de contenance 3 objets avec des crochets de serrurier, un maillet et un burin. Il est épuisé après 10 utilisations. Fonctionne avec la compétence *Habileté*.
 10. Un kit de déguisement comprenant une sacoche de ceinture de contenance 3 objets avec du maquillage, de la teinture de cheveux et des postiches (barbe, moustache). Il est épuisé après 10 utilisations. Fonctionne avec la compétence *Déguisement*. 
-11. Un kit d'alchimie comprenant une sacoche de ceinture de contenance 3 objets avec 5 fioles (= 1 objet), un pilon et un mortier, 5 réceptecle d'explosifs (= 1 objet). Fonctionne avec la compétence *Artisanat*. 
+11. Un kit d'alchimie comprenant une sacoche de ceinture de contenance 3 objets avec 5 fioles (= 1 objet), un pilon et un mortier, 5 récepteales d'explosifs (= 1 objet). Fonctionne avec la compétence *Artisanat*. 
 11. Un kit d'écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.
 12. Un familier (voir partie sur le familier dans la suite de ce chapitre). Attention un familier coûte deux groupes d'objets. 
 
