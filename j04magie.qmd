@@ -4,9 +4,14 @@
 
 Voici la liste des sorts mineurs disponibles à ceux qui ont pris le talent *Initié à la magie* :
 
-- **Murmure** : le vent emporte un murmure du mage vers une cible éloignée. 
+- **Appel de la source** : le lanceur pose sa main au sol et chaange localement la nature du sol afin que l'eau présente remonte en surface. Ne fonctionne que si 
+- **Brise** : un vent entoure le lanceur, augmentant la difficulté de le toucher de 5% par des attaques de souffle ou de gaz. 
+- **Bruine** : Une légère averse vient tremper la cible. Tout feu égal ou plus petit qu'un feu de camp s'éteint.
+- **Etincelles** : Met automatiquement feu à un objet inflammable. Fonctionne comme un silex en plus rapide et quelles que soient les conditions météorologiques
 - **Follets** : des petits flammèches se crééent à quelques mètres devant le mage, produisant de la lumière mais très peu de chaleur.
-- **Source** : une petite source pouvant remplir une gourde sort de la terre.  
+- **Limon fertile** : le lanceur crée une faible quantité de boue riche en nutriments. Une plante au contact de cette boue éclot et produit son fruit. 
+- **Main de vent** : un souffle de vent vient soulever un objet aussi ou moins lourd qu'une choppe (2kg). 
+- **Main glacée** : une couche de givre entoure la main du lanceur, permettant de geler tout ce qu'il touche. Les mécanismes d'un objet se paralyse et tout être vivant de la taille ou plus petit qu'une fleur meure d'un contact prolongé.
 
 ## Ecole de magie
 
