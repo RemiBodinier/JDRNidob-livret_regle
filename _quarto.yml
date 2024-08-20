@@ -9,15 +9,18 @@ book:
   date: today
   chapters:
     - index.qmd
-    - j01Ednom.qmd
-    - j02nom.qmd
-    - j03caretcomp.qmd
-    - j04talent.qmd
-    - j05equipement.qmd 
-    - j06magie.qmd
-    - j07combat.qmd
-    - j08nature.qmd
-    - j09archetype.qmd
+    - aide_jeu.qmd
+      - j01nom.qmd
+      - j02caretcomp.qmd
+      - j03talent.qmd
+      - j04magie.qmd
+      - j05equipement.qmd
+      - j06archetype.qmd
+      - j07jet_combat.qmd
+    - ednom.qmd
+      - j04Ednom.qmd
+      - j05nature.qmd
+
 
 #bibliography: references.bib
 

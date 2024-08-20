@@ -1,10 +1,16 @@
-# Le Combat
+# Jets et combats
 
-## Début du combat
+## Système de jeu
+
+Au cours de votre découverte de ce monde merveilleux, vos aventures seront ponctués d'actions à réaliser. Dans ce jeu de rôle, la réalisation de ces actions sera déterminée par le hasard, selon le résultat d'un jet d'un dé à 100 faces. Pour savoir si une action comme escalader un mur, convaincre une personne ou donner un coup d'épée réussie, vous jeterrez un dé à 100 faces et devrez faire moins qu'une certaine valeur. Dans le cas contraire vous aurez échoué votre action. Qui plus est, si le résultat du jeu de dé indique entre 1 et 5, votre réussite sera phénoménale et vous octroiera un bonus. A l'inverse, si le résultat du jet de dé indique entre 96 et 100, votre échec est catastrophique, ce qui aura de graves conséquences. Pour savoir à quelle valeur le jet de dé doit être inférieur pour que l'action soit réussie, rapportez vous à la page sur les caractéristiques et compétences. 
+
+## Le Combat
+
+### Début du combat
 
 L'ordre dans lequel les différents personnages vont jouer se détermine par rapport à leur vitesse. Le personnage à la vitesse la plus élevée commence puis les joueurs sont rangés en fonction de leur vitesse. Si deux personnages ont la même vitesse, l'ordre est déduit au hasard. 
 
-## Faire des dégâts
+### Faire des dégâts
 
 Pour faire des dégâts, un personnage doit d'abord jeter un jet de combat (au corps à corps, à distance, via un sort, ...). Il réussi son action si le résultat du jet de dé est moins élevé que la valeur qu'il possède dans la compétence correspondante. Enfin, les dégâs qu'il inflige sont calculés selon la différence entre le résultat du dé et la valeur qu'il possède dans la compétence (en y ajoutant de potentiels bonus inhérents aux armes ou à des talents particulier).
 
