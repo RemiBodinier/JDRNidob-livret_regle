@@ -2,28 +2,27 @@
 
 ## Les Armes de base
 
-| Nom         | Type d'arme        | Type de dégâts | Particularités                          |
-|-------------|--------------------|----------------|-----------------------------------------|
-| Dague       | Arme légère        | Perforant      | Lancer, Maniable                        |
-| Gourdin     | Arme légère        | Contondant     |                                         |
-| Francisque  | Arme légère        | Tranchant      | Lancer, Maniable                        |
-| Bâton       | Arme légère        | Contondant     | A deux mains, Allonge                   |
-| Fronde      | Arme légère        | Contondant     | Munitions, Distance                     |
-| Cimeterre   | Arme intermédiaire | Tranchant      |                                         |
-| Hache       | Arme intermédiaire | Tranchant      |                                         |
-| Rapière     | Arme intermédiaire | Perforant      |                                         |
-| Marteau     | Arme intermédiaire | Contondant     |                                         |
-| Barmace     | Arme intermédiaire | Contondant     |                                         |
-| Lance       | Arme intermédiaire | Perforant      | A deux mains, Allonge, Lancer           |
-| Glaive      | Arme intermédiaire | Perforant      |                                         |
-| Arc         | Arme intermédiaire | Perforant      | A deux mains, Munitions, Distance       |
-| Claymore    | Arme lourde        | Tranchant      | A deux mains                            |
-| Labrys      | Arme lourde        | Tranchant      | A deux mains                            |
-| Morgenstern | Arme lourde        | Perforant      | A deux mains                            |
-| Corbin      | Arme lourde        | Contondant     | A deux mains                            |
-| Trident     | Arme lourde        | Perforant      | A deux mains, Allonge, Lancer           |
-| Arbalète    | Arme lourde        | Perforant      | A deux mains, Munitions, Distance       |
-| Fléau       | Arme lourde        | Contondant     | A deux mains, Allonge                   |
+| Nom         | Type d'arme        | Type de dégâts       | Particularités                          |
+|-------------|--------------------|----------------------|-----------------------------------------|
+| Dague       | Arme légère        | Perforant            | Lancer, Maniable                        |
+| Gourdin     | Arme légère        | Contondant           |                                         |
+| Francisque  | Arme légère        | Tranchant            | Lancer                                  |
+| Bâton       | Arme légère        | Contondant           | A deux mains, Allonge                   |
+| Fronde      | Arme légère        | Contondant           | Munitions, Distance                     |
+| Sarbacane   | Arme légère        | Perforant            | Munitions, Distance                     |
+| Hache       | Arme intermédiaire | Tranchant            |                                         |
+| Rapière     | Arme intermédiaire | Perforant            |                                         |
+| Masse       | Arme intermédiaire | Contondant           |                                         |
+| Lance       | Arme intermédiaire | Perforant            | A deux mains, Allonge, Lancer           |
+| Glaive      | Arme intermédiaire | Perforant, Tranchant |                                         |
+| Arc         | Arme intermédiaire | Perforant            | A deux mains, Munitions, Distance       |
+| Claymore    | Arme lourde        | Perforant, Tranchant | A deux mains                            |
+| Labrys      | Arme lourde        | Tranchant            | A deux mains                            |
+| Corbin      | Arme lourde        | Perforant            | A deux mains                            |
+| Marteau     | Arme lourde        | Contondant           | A deux mains                            | 
+| Trident     | Arme lourde        | Perforant            | A deux mains, Allonge, Lancer           |
+| Arbalète    | Arme lourde        | Perforant            | A deux mains, Munitions, Distance       |
+| Fléau       | Arme lourde        | Contondant           | A deux mains, Allonge                   |
 
 
 Définition des types d'armes : 
