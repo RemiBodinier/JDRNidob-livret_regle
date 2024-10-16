@@ -36,6 +36,7 @@ Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvo
 - **Lame d'eau** : une vague d'eau vient couper la cible, lui infligeant des dégâts tranchants. 
 - **Eau de vie** : une eau pure vient envelopper la blessure que vous voulez guérir afin de rendre des points de vie. Ne fonctionne que pour des dégâts liés à des brulures ou à des poisons.
 - **Barrière d'eau** : une barière d'eau se dresse devant le lanceur du sort, afin d'encaisser des dégâts.
+- **Prison d'eau** : le lanceur enferme une cible dans une bulle d'eau. La bulle ne peut être détruite tant que le lanceur reste concentré sur le sort.
 
 ### Ecole de l'air
 
