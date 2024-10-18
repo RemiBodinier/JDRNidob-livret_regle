@@ -38,6 +38,7 @@ Bien que vos compétences donne une première vision des actions dans lesquelles
 - **Robuste** : le personnage gagne 20 points de vie supplémentaire.
 - **Bousculade** : le personnage peut faire un test de *Combat au corps à corps* pour infliger la moitié des dégâts et faire tomber son adversaire. Celui-ci doit prendre une *action pleine* pour se lever et ses attaquants bénéficie d'un bonus de 10% pour le toucher.
 - **Berserker** : le personnage rentre en rage pendant
+- **Parade**  : à partir du moment où ce talent est activé, le personnage bénéficie d'un malus de 10% pour toucher ses adversais mais ses adversaires ont également 10% de malus pour le toucher.
 
 ### Talents de Culture générale
 
