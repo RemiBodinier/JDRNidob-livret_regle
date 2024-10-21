@@ -2,19 +2,45 @@
 
 ## Système de jeu
 
-Au cours de votre découverte de ce monde merveilleux, vos aventures seront ponctués d'actions à réaliser. Dans ce jeu de rôle, la réalisation de ces actions sera déterminée par le hasard, selon le résultat d'un jet d'un dé à 100 faces. Pour savoir si une action comme escalader un mur, convaincre une personne ou donner un coup d'épée réussie, vous jeterrez un dé à 100 faces et devrez faire moins qu'une certaine valeur. Dans le cas contraire vous aurez échoué votre action. Qui plus est, si le résultat du jeu de dé indique entre 1 et 5, votre réussite sera phénoménale et vous octroiera un bonus. A l'inverse, si le résultat du jet de dé indique entre 96 et 100, votre échec est catastrophique, ce qui aura de graves conséquences. Pour savoir à quelle valeur le jet de dé doit être inférieur pour que l'action soit réussie, rapportez vous à la page sur les caractéristiques et compétences. 
+Au cours de votre découverte de ce monde merveilleux, vos aventures seront ponctués d'actions à réaliser. Dans ce jeu de rôle, la réalisation de ces actions sera déterminée par le hasard, selon le résultat d'un jet d'un dé à 100 faces. Pour savoir si une action comme escalader un mur, convaincre une personne ou donner un coup d'épée réussit, vous jetterez un dé à 100 faces et devrez faire moins qu'une certaine valeur. Dans le cas contraire vous aurez échoué votre action. Qui plus est, si le résultat du jet de dé indique entre 1 et 5, votre réussite sera phénoménale et vous octroiera un bonus. A l'inverse, si le résultat du jet de dé indique entre 96 et 100, votre échec est catastrophique, ce qui aura de graves conséquences. Pour savoir à quelle valeur le jet de dé doit être inférieur pour que l'action soit réussie, rapportez vous à la page sur les caractéristiques et compétences. 
 
 ## Le Combat
 
 ### Début du combat
 
-L'ordre dans lequel les différents personnages vont jouer se détermine par rapport à leur vitesse. Le personnage à la vitesse la plus élevée commence puis les joueurs sont rangés en fonction de leur vitesse. Si deux personnages ont la même vitesse, l'ordre est déduit au hasard. 
+L'ordre dans lequel les différents personnages vont jouer se détermine par rapport à leur vitesse. Le personnage à la vitesse la plus élevée commence puis les joueurs sont rangés en fonction de leur vitesse. Si deux personnages ont la même vitesse, l'ordre est déduit au hasard grâce à un jet d'*Athlétisme*.  
 
-### Faire des dégâts
+#### Embuscade
 
-Pour faire des dégâts, un personnage doit d'abord jeter un jet de combat (au corps à corps, à distance, via un sort, ...). Il réussi son action si le résultat du jet de dé est moins élevé que la valeur qu'il possède dans la compétence correspondante. Enfin, les dégâs qu'il inflige sont calculés selon la différence entre le résultat du dé et la valeur qu'il possède dans la compétence (en y ajoutant de potentiels bonus inhérents aux armes ou à des talents particulier).
+Le principe d'une embuscade est d'être préparé avant d'attaquer un ennemi, et de pouvoir attaquer avant qu'il ne réagisse. Les personnages embusqués vont donc jouer les premiers, selon l'ordre de leur vitesse, puis les joueurs ayant subi l'embuscade vont jouer. Au prochain tour, c'est la méthode de jeu de base qui prévaudra, soit la vitesse comme ordre de passage. De plus, les personnages embusqués bénéficie d'un bonus de 5% à leur jet d'attaque pour touche la/les cible.s de l'embuscade.
 
-### Embuscade
+### Infliger des dégâts
 
-Le principe d'une embuscade est justement d'agir avant les autres. Durant une embuscade, les personnages vont jouer les premiers, selon l'ordre de leur vitesse, puis les joueurs ayant subi l'embuscade vont jouer. Au prochain tour, c'est la méthode de jeu de base qui prévaudra, soit la vitesse comme ordre de passage. 
+Il existe trois manières d'infliger des attaques : 
+
+- Attaquer au corps à corps, à mains nues ou avec une arme. L'efficacité de cette action se détermine avec un jet de *Puissance*.  
+
+- Attaquer à distance avec une arme. L'efficacité de cette action se détermine avec un jet de *Précision*. 
+
+- Attaquer, au corps à corps ou à distance, avec de la magie. L'efficacité de cette action se détermine avec un jet d'*Utilisation de l'Ether*. 
+
+Une fois le jet d'attaque fait, les dégâts occasionnés sont déterminés en additionnant les dégâts de base de chaque attaque avec la différence entre la valeur pour réussir le jet et le résultat du jet. 
+
+#### Infliger des afflictions. 
+
+En plus d'infliger des dégâts, certaines attaques peuvent aussi infliger des afflictions. Ces afflictions ont différents effets : 
+
+- **A terre** : Un personnage à terre reçoit un malus de 10% pour toucher une personne relevée, si le personnage à terre attque avec une arme à une main et 30% avec une arme à deux mains. Les personnages relevés le ciblant ont un bonus de 10% pour le toucher. Se relever demande une action complète.
+
+- **Aveuglé** : Un personnage aveuglé à un malus de 40% pour toucher une cible. Un jet d'habileté peut faire descendre ce malus à 10% mais il ne pourra être totalement retiré que si le personnage se lave les yeux.
+
+- **Sonné** : un personnage sonné ne fera pas d'actions à son prochain tour, mais reprendra ses esprits à la fin de son tour. Un personnage sonné plus de fois que sa valeur en endurance tombe dans les pommes. 
+
+- **Apeuré** : un personnage apeuré tentera tout pour fuir l'origine de sa peur. Il n'attaquera cette chose que s'il n'a pas d'autres solutions. 
+
+- **Immobilisé** : un personnage immobilisé ne peut plus se déplacer et ne peut pas utiliser ses bras pour effectuer une action. Un jet de *Puissance* avec un malus de 20% ou d'*Habileté* permet de sortir d'une immobilisation. 
+
+- **Agrippé** : Un personnage agrippé ne peut utiliser qu'une seule main et à un malus de 10% à tous ses jets. Un personnage agrippé peut attaquer normalement la chose qui l'agrippe mais en cas d'échec, même non critique, le personnage se blesse lui-même. Un jet de *Puissance* aec un malus de 20% permet de se libérer d'un agrippement. 
+
+
 
