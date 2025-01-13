@@ -30,6 +30,7 @@ Bien que vos compétences donne une première vision des actions dans lesquelles
 ### Talents de Combat à distance
 
 - **Maîtrise des [armes]** : le personnage sait très bien utiliser un type d'armes parmi ceux possédant la particularité *Distance*. Il augmente la valeur de *Combat à distance* de 10% quand il utilise une arme de ce type. 
+- **Enragé** : le personnage peut rentrer en état de rage pendant 3 tours. Durant ce laps de temps, le personnage obtient +X% à ces jets de combat et occasionne +Y dégâts. Cependant, ses ennemis bénéficie d'un bonus de Z% pour les jets de combat contre lui.
 
 ### Talents de Combat au corps à corps
 
