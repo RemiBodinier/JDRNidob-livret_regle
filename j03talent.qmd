@@ -10,42 +10,31 @@ Bien que vos compétences donne une première vision des actions dans lesquelles
 - **Joaillier** : le personnage bénéficie d'un bonus de 10% quand il cisèle un talisman.
 - **Forgeron d'armes** : le personnage bénéficie d'un bonus de 10% quand il forge une arme.
 - **Cuisinier** : le personnage bénéficie d'un bonus de 10% quad il cuisine.
-- **Maître des potions** : le personnage bénéficie d'un bonus de 10% quand il fabrique une potion
+- **Alchimiste** : le personnage bénéficie d'un bonus de 10% quand il fabrique une potion
 - **Artificier** : le personnage bénéficie d'un bonus de 10% quand il fabrique une bombe.
 
 ### Talents d'Arts
 
 - **Chanteur** : le personnage bénéficie d'un bonus de 10% quand il chante.
 - **Danseur** : le personnage bénéficie d'un bonus de 10% quand il danse.
-- 
+- **Peintre** : le personnage bénéficie d'un bonus de 10% quand il dessine ou peint. 
+- **Charmeur de foules** : Si un jet d'Arts est réussit pour charmer un groupe de personne, vous bénéficiez d'un bonus de 10% en *Influence* pour influencer la foule. 
+- **Oeil d'Artiste** : le personnage bénéficie d'un bonus de 10% lors d'un jet de *Culture générale* lorsqu'il étudie une oeuvre.  
 
 ### Talents d'Athlétisme
 
-- **Attaque en finesse** : le personnage utilise sa valeur d'*Athlétisme* plutôt que celle de *Combat au corps à corps* pour attaquer avec des armes légères ou intnermédiaires ne possédant pas la particularité *Distance*. 
+- **Attaque en finesse** : le personnage utilise sa valeur d'*Athlétisme* plutôt que celle de *Puissance* pour attaquer avec des armes intermédiaires ne possédant pas la particularité *Distance*. 
 - **Grimpeur** : le personnage bénéficie d'un bonus de 10% quand il escalade.
 - **Nageur** : le personnage bénéficie d'un bonus de 10% quand il nage.
 - **Esquive** : lorsqu'il est attaqué, le personnage peut faire un jet d'*Athlétisme* avec un malus de 25% pour éviter d'être touché.
 - **Réflexe de combat** : le personnage possède 2 points de vitesse supplémentaire.
-
-### Talents de Combat à distance
-
-- **Maîtrise des [armes]** : le personnage sait très bien utiliser un type d'armes parmi ceux possédant la particularité *Distance*. Il augmente la valeur de *Combat à distance* de 10% quand il utilise une arme de ce type. 
-- **Enragé** : le personnage peut rentrer en état de rage pendant 3 tours. Durant ce laps de temps, le personnage obtient +X% à ces jets de combat et occasionne +Y dégâts. Cependant, ses ennemis bénéficie d'un bonus de Z% pour les jets de combat contre lui.
-
-### Talents de Combat au corps à corps
-
-- **Maîtrise des [armes]** : le personnage sait très bien utiliser un type d'armes parmi ceux ne possédant pas les particularités *Distance* ni *Lancer*. Il augmente la valeur de *Combat au corps à corps* de 10% quand il utilise une arme de ce type. 
-- **Force intimidante** : le personnage peut utiliser un jet de *Combat au corps à corps* plutôt qu'un jet d'*Influence* pour intimider une cible.
-- **Robuste** : le personnage gagne 20 points de vie supplémentaire.
-- **Bousculade** : le personnage peut faire un test de *Combat au corps à corps* pour infliger la moitié des dégâts et faire tomber son adversaire. Celui-ci doit prendre une *action pleine* pour se lever et ses attaquants bénéficie d'un bonus de 10% pour le toucher.
-- **Berserker** : le personnage rentre en rage pendant
-- **Parade**  : à partir du moment où ce talent est activé, le personnage bénéficie d'un malus de 10% pour toucher ses adversais mais ses adversaires ont également 10% de malus pour le toucher.
 
 ### Talents de Culture générale
 
 - **Théologiste** : le personnage bénéficie d'un bonus de 10% en ce qui concerne les connaissances sur les religions.
 - **Historien** : le personnage bénéficie d'un bonus de 10% en ce qui concerne les connaissances sur l'histoire.
 - **Généalogiste** : le personnage bénéficie d'un bonus de 10% en ce qui concerne les lignées de la noblesse. 
+- **Linguiste** : le personnage bénéficie d'un bonus de 10% quand il doit lire ou comprendre une langue autre que la sienne.
 
 ### Talents de Déguisement
 
@@ -57,29 +46,57 @@ Bien que vos compétences donne une première vision des actions dans lesquelles
 
 - **Voleur à la tire** : le personnage bénéficie d'un bonus de 10% pour voler des objets dans les poches.
 - **Discret** : le personnage bénéficie d'un bonus de 10% lorsqu'il tente de passer inaperçu ou se cache.
+- **Pas de loup** : vos pas ne font aucun bruit et un personnage ne peut pas vous surprendre en utilisant son ouïe. 
 
 ### Talents d'Estimation
 
 - **Connaisseur du marché** : le personnage bénéficie d'un bonus de 10% lorsqu'il estime le prix d'un objet.
 - **Fin gourmet** : le personnage bénéficie d'un bonus de 10% lorsqu'il identifie si un aliment est comestible ou non.
+- **Herboriste** : le personnage bénéficie d'un bonus de 10% lorsqu'il identifie si un aliment est comestible ou non. 
+- **Négociateur** : si vous réussissez un jet d'*Estimation* pour le prix d'un objet, vous bénéficiez d'un bonus de 10% sur un jet d'*Influence* pour faire diminuer le prix de l'objet.
 
 ### Talents d'Habilté
 
 - **Crocheteur** : le personnage bénéficie d'un bonus de 10% lorsqu'il corchète une serrure. 
+- **Piégeur** : le personnage bénéficie d'un bonus de 10% lorsqu'il amorce ou désamorce un piège.
+- **Professionnel de l'évasion** : vous pouvez vous défaire automatiquement de liens au bout d'une minute.
 
 ### Talents d'Influence
 
 - **Intimidant** : le personnage bénéficie d'un bonus de 10% lorsqu'il intimide.
-- **Ami des bêtes** : le peronnages bénéficie d'un bonus de 10% lorsqu'il amadoue une bête.
+- **Dresseur** : le peronnages bénéficie d'un bonus de 10% lorsqu'il amadoue une bête.
+- **Diplomate** : le personnage bénéficie d'un bonus de 10% lorsqu'il doit calmer les tensions entre des personnes.
+- **Commandant** : en combat, un test d'*Influence* réussit peut donner un bonus de 10% à son prochain jet.
 
 ### Talents d'Investigation
 
--
+- **Traqueur** : le personnage bénéficie d'un bonus de 10% pour suivre des traces ou une piste.
+- **Récolteur aguerri** : le personnage bénéficie d'un bonus de 10% pour chercher des ressources voulues dans la nature. 
 
 ### Talents de Perception
 
 - **Vue perçante** : le personnage bénéficie d'un bonus de 10% lorsqu'il observe son environnement.
 - **Ouïe fine** : le personnage bénéficie d'un bonus de 10% lorsqu'il écoute son environneemnt.
+- **Guetteur** : le personnage bénéficie d'un bonus de 10% pour repérer des mouvements. 
+- **Empathe** : le personnage bénéficie d'un bonus de 10% pour savoir si son interlocuteur ment ou non.
+- **Communicateur non verbal** :  vous êtes capable de comprendre une personne sans qu'elle ne parle sans malus. 
+
+### Talents de Précision
+
+- **Maîtrise des [armes possédant le trait *Distance* ou *Lancer*]** : le personnage sait très bien utiliser les [armes possédant le trait *Distance* ou *Lancer*]. Il augmente la valeur de *Précision* de 10% quand il utilise une arme de ce type. 
+- **Lanceur** : le personnage bénéficie d'un bonus de 10% pour lancer un petit objet avec précision. 
+- **Ricochet** : vous pouvez viser une surface pour faire ricocher un projectile et atteindre une cible impossiuble à toucher autrement.
+
+### Talents de Puissance
+- **Maîtrise des [armes ne possédant pas le trait *Distance* ni *Lancer*]** : le personnage sait très bien utiliser les [armes ne possédant pas le trait *Distance* ni *Lancer*]. Il bénéficie d'un bonus de 10% quand il utilise une arme de ce type. 
+- **Force intimidante** : le personnage peut utiliser un jet de *Puissance* plutôt qu'un jet d'*Influence* pour intimider une cible.
+- **Robuste** : le personnage gagne 20 points de vie supplémentaire.
+- **Bousculade** : le personnage peut faire un test de *Puissance* pour infliger la moitié des dégâts et faire tomber son adversaire. Celui-ci doit prendre une *action pleine* pour se lever et ses attaquants bénéficie d'un bonus de 10% pour le toucher.
+- **Enragé** : le personnage peut rentrer en état de rage pendant 3 tours. Durant ce laps de temps, le personnage obtient +X% à ces jets de combat et occasionne +Y dégâts. Cependant, ses ennemis bénéficie d'un bonus de Z% pour les jets de combat contre lui.
+- **Parade**  : à partir du moment où ce talent est activé, le personnage bénéficie d'un malus de 10% pour toucher ses adversais mais ses adversaires ont également 10% de malus pour le toucher.
+- **Boxeur** : le personnage infliuge de base 20 dégâts quand il attaque à main nue.
+- **Briseur** : le personnage bénificie d'un bonus de 10% pour enfoncer une porte ou un autre obstacle physique.
+- **Implacable** : si vous portez un coup fatal à l'ennemi vous pouvez enchaîner directement une attaque sur un autre ennemi à portée.
 
 ### Talents de Science
 
@@ -89,9 +106,10 @@ Bien que vos compétences donne une première vision des actions dans lesquelles
 
 ### Talents d'Utilisation de l'Ether
 
-- **Initié à la magie** (nécessite 55% en *Utilisation de l'Ether*) : le personnage a suivi un cursus lui permettant d'utiliser des sorts mineurs. Il peut choisir trois sorts mineurs dans la liste présente dans la partie sur la magie.
+- **Initié à la magie** (nécessite 50% en *Utilisation de l'Ether*) : le personnage a suivi un cursus lui permettant d'utiliser des sorts mineurs. Il peut choisir trois sorts mineurs dans la liste présente dans la partie sur la magie.
 - **Etudiant d'une école de magie** (nécessite le talent *Initié à la magie*): le personnage a étudié une des quatre grandes écoles de magie et peut lancer trois sorts parmi la liste proposé dans l'école à laquelle il appartient. 
 - **Connaisseur de sort** : le personnage connaît un sort d'une des écoles de magie.
+- **Canalisation d'énergie** : vous pouvez augmenter de 10 les dégâts occasionnés par un sort en échange d'un malus de 10% au jet d'*Utilisation de l'Ether*.
 
 ## Talents de familier
 
