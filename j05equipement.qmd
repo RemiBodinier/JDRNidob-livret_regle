@@ -29,7 +29,7 @@ Définition des types d'armes :
 
 - **Légère** (Force nécessaire inférieure ou égale à 9) : ces armes ne bénéficient pas de bonus de dégâts.
 - **Intermédiaire** (Force nécessaire compris entre 10 et 14) : ces armes bénéficient d'un bonus de 10 aux dégâts. 
-- **Lourde** (Force nécessaire supérieure ou égale à 15) : ces armes bénéfécient d'un bonus de 20 aux dégâts. 
+- **Lourde** (Force nécessaire supérieure ou égale à 15) : ces armes bénéficient d'un bonus de 20 aux dégâts. 
 
 Définition des types de dégâts :
 
@@ -41,8 +41,8 @@ Définition des particularités :
 
 - **A deux mains** : il est obligatoire d'utiliser ses deux mains pour utiliser ces armes.
 - **Allonge** : ces armes permettent de toucher des ennemis qui sont *à proximité* (voir partie *Le Combat*)
-- **Distance** : attaquer avec ces armes demande d'utilser la compétence *Précision*. Les armes qui n'ont pas *Distance* demandent d'utiliser *Puissance* pour attaquer.
-- **Lancer** : une arme avec *Lancer* s'utilise normalement avec la compétence *Puissance* mais peut être utilisé comme arme de jet avec la compétence *Précision*. Lancer une arme qui n'a pas la particularité *Lancer* se fera avec un jet de *Puissance* affublé d'un malus de 0% si c'est une arme léfère, de 10% si c'est une arme intermédiaire et de 20% si c'est une arme lourde. 
+- **Distance** : attaquer avec ces armes demande d'utiliser la compétence *Précision*. Les armes qui n'ont pas *Distance* demandent d'utiliser *Puissance* pour attaquer.
+- **Lancer** : une arme avec *Lancer* s'utilise normalement avec la compétence *Puissance* mais peut être utilisé comme arme de jet avec la compétence *Précision*. Lancer une arme qui n'a pas la particularité *Lancer* se fera avec un jet de *Puissance* affublé d'un malus de 0% si c'est une arme légère, de 10% si c'est une arme intermédiaire et de 20% si c'est une arme lourde. 
 - **Maniable** : attaquer avec une arme maniable peut se faire en tant qu'*action courte*. 
 - **Munitions** : ces armes nécessitent des munitions pour fonctionner. Recharger une arme avec munitions prend une *action courte* (voir partie *Le Combat*)
 
@@ -53,15 +53,15 @@ A la création de votre personnage, vous pouvez choisir 3 groupes parmi les suiv
 2. Une arme possédant la particularité *Distance* de type *Légère* ou *Intermédiaire*.
 3. Une arme à deux mains ne possédant pas la particularité *Distance* ou *Allonge*.
 4. Une arme de type *Intermédiaire* ne possédant pas la particularité *Distance* ou *Allonge* et un bouclier réduisant les dégâts de 10 (Force nécessaire supérieure ou égale à 10).
-5. Un arme de type *Intermédiaire* ne possédant pas la particularité *Distance* ou *Allonge*  et deux armes de type *Légère* et possédant la particularité *Lancer*.
+5. Une arme de type *Intermédiaire* ne possédant pas la particularité *Distance* ou *Allonge*  et deux armes de type *Légère* et possédant la particularité *Lancer*.
 6. Une armure réduisant les dégâts de 20 (Force nécessaire supérieure ou égale à 13)
 7. Un instrument enchanté (Charisme nécessaire supérieure ou égale à 13). Voir partie *Enchantement* dans la page *La Magie*.
-8. Un kit de soins comprenant une sacoche de ceinture de contenance 3 objets avec des des bandages, un baume pour soulager la douleur et un nécessaire pour construire une attelle. Il est épuisé après 10 utilisations. Fonctionne avec la compétence *Science*.
+8. Un kit de soins comprenant une sacoche de ceinture de contenance 3 objets avec des bandages, un baume pour soulager la douleur et un nécessaire pour construire une attelle. Il est épuisé après 10 utilisations. Fonctionne avec la compétence *Science*.
 9. Un kit de crochetage comprenant une sacoche de ceinture de contenance 3 objets avec des crochets de serrurier, un maillet et un burin. Il est épuisé après 10 utilisations. Fonctionne avec la compétence *Habileté*.
 10. Un kit de déguisement comprenant une sacoche de ceinture de contenance 3 objets avec du maquillage, de la teinture de cheveux et des postiches (barbe, moustache). Il est épuisé après 10 utilisations. Fonctionne avec la compétence *Déguisement*. 
-11. Un kit d'alchimie comprenant une sacoche de ceinture de contenance 3 objets avec 5 fioles (= 1 objet), un pilon et un mortier, 5 récepteales d'explosifs (= 1 objet). Fonctionne avec la compétence *Artisanat*. 
-11. Un kit d'écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.
-12. Un familier (voir partie sur le familier dans la suite de ce chapitre). Attention un familier coûte deux groupes d'objets. 
+11. Un kit d'alchimie comprenant une sacoche de ceinture de contenance 3 objets avec 5 fioles (= 1 objet), un pilon et un mortier, 5 réceptacles d'explosifs (= 1 objet). Fonctionne avec la compétence *Artisanat*. 
+12. Un kit d'écriture comprenant une sacoche de ceinture de contenance 3 objets avec une plume d’écriture, une bouteille d’encre et 10 feuilles de papier. Il est épuisé après 10 utilisations.
+13. Un familier (voir partie sur le familier dans la suite de ce chapitre). Attention un familier coûte deux groupes d'objets. 
 
 ## Le Familier
 
@@ -71,11 +71,11 @@ De plus, vous devez choisir 3 ordres connus par votre familier parmi ceux dans l
 ### Ordre de base 
 
 - **Attaque** : l'animal attaque une cible désignée par son maître. 
-- **Au pied** : l'animal rejoint son maître quelque soit la situation dans laquelle il est.
+- **Au pied** : l'animal rejoint son maître quel que soit la situation dans laquelle il est.
 - **Chasse** : l'animal va chercher une proie pour son maître et ne revient que s'il en a trouvé une.
 - **Garde** : l'animal protège une cible désignée par son maître contre quiconque voudrait la toucher, et prévient lorsque cette cible est attaquée. 
-- **Joue** : l'animal effectue des tours basiques comme s'asseoir, donner la pate, faire le beau, ...
-- **Pas bouger** : l'animal reste immobile quelque soit la situation sauf si quelque chose l'attaque. 
-- **Suit** : l'animal suit une piste (ordeur, traces, ...) désignée par son maître.
+- **Joue** : l'animal effectue des tours basiques comme s'asseoir, donner la patte, faire le beau, ...
+- **Pas bouger** : l'animal reste immobile quel que soit la situation sauf si quelque chose l'attaque. 
+- **Suit** : l'animal suit une piste (odeur, traces, ...) désignée par son maître.
 - **Travaille** : l'animal effectue une tâche physique comme tracter un chariot ou pousser une charge.
 - **Va chercher** : : l'animal va chercher la cible désignée par son maître.

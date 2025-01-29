@@ -2,7 +2,7 @@
 
 ## Système de jeu
 
-Au cours de votre découverte de ce monde merveilleux, vos aventures seront ponctués d'actions à réaliser. Dans ce jeu de rôle, la réalisation de ces actions sera déterminée par le hasard, selon le résultat d'un jet d'un dé à 100 faces. Pour savoir si une action comme escalader un mur, convaincre une personne ou donner un coup d'épée réussit, vous jetterez un dé à 100 faces et devrez faire moins qu'une certaine valeur. Dans le cas contraire vous aurez échoué votre action. Qui plus est, si le résultat du jet de dé indique entre 1 et 5, votre réussite sera phénoménale et vous octroiera un bonus. A l'inverse, si le résultat du jet de dé indique entre 96 et 100, votre échec est catastrophique, ce qui aura de graves conséquences. Pour savoir à quelle valeur le jet de dé doit être inférieur pour que l'action soit réussie, rapportez vous à la page sur les caractéristiques et compétences. 
+Au cours de votre découverte de ce monde merveilleux, vos aventures seront ponctuées d'actions à réaliser. Dans ce jeu de rôle, la réalisation de ces actions sera déterminée par le hasard, selon le résultat d'un jet d'un dé à 100 faces. Pour savoir si une action comme escalader un mur, convaincre une personne ou donner un coup d'épée réussit, vous jetterez un dé à 100 faces et devrez faire moins qu'une certaine valeur. Dans le cas contraire vous aurez échoué votre action. Qui plus est, si le résultat du jet de dé indique entre 1 et 5, votre réussite sera phénoménale et vous octroiera un bonus. A l'inverse, si le résultat du jet de dé indique entre 96 et 100, votre échec est catastrophique, ce qui aura de graves conséquences. Pour savoir à quelle valeur le jet de dé doit être inférieur pour que l'action soit réussie, rapportez-vous à la page sur les caractéristiques et compétences. 
 
 ## Le Combat
 
@@ -30,7 +30,7 @@ Une fois le jet d'attaque fait, les dégâts occasionnés sont déterminés en a
 
 En plus d'infliger des dégâts, certaines attaques peuvent aussi infliger des afflictions. Ces afflictions ont différents effets : 
 
-- **A terre** : Un personnage à terre reçoit un malus de 10% pour toucher une personne relevée, si le personnage à terre attque avec une arme à une main et 30% avec une arme à deux mains. Les personnages relevés le ciblant ont un bonus de 10% pour le toucher. Se relever demande une action complète.
+- **A terre** : Un personnage à terre reçoit un malus de 10% pour toucher une personne relevée, si le personnage à terre attaque avec une arme à une main et 30% avec une arme à deux mains. Les personnages relevés le ciblant ont un bonus de 10% pour le toucher. Se relever demande une action complète.
 
 - **Aveuglé** : Un personnage aveuglé à un malus de 40% pour toucher une cible. Un jet d'habileté peut faire descendre ce malus à 10% mais il ne pourra être totalement retiré que si le personnage se lave les yeux.
 
@@ -40,7 +40,7 @@ En plus d'infliger des dégâts, certaines attaques peuvent aussi infliger des a
 
 - **Immobilisé** : un personnage immobilisé ne peut plus se déplacer et ne peut pas utiliser ses bras pour effectuer une action. Un jet de *Puissance* avec un malus de 20% ou d'*Habileté* permet de sortir d'une immobilisation. 
 
-- **Agrippé** : Un personnage agrippé ne peut utiliser qu'une seule main et à un malus de 10% à tous ses jets. Un personnage agrippé peut attaquer normalement la chose qui l'agrippe mais en cas d'échec, même non critique, le personnage se blesse lui-même. Un jet de *Puissance* aec un malus de 20% permet de se libérer d'un agrippement. 
+- **Agrippé** : Un personnage agrippé ne peut utiliser qu'une seule main et à un malus de 10% à tous ses jets. Un personnage agrippé peut attaquer normalement la chose qui l'agrippe mais en cas d'échec, même non critique, le personnage se blesse lui-même. Un jet de *Puissance* avec un malus de 20% permet de se libérer d'un agrippement. 
 
 
 

@@ -18,7 +18,7 @@ Voici la liste des sorts mineurs disponibles à ceux qui ont pris le talent *Ini
 - **Bruine** : Une légère averse vient tremper la cible. Tout feu égal ou plus petit qu'un feu de camp s'éteint.
 - **Etincelles** : Met automatiquement feu à un objet inflammable. Fonctionne comme un silex en plus rapide et quelles que soient les conditions météorologiques
 - **Façonnage de la terre** : creuse un trou de 1 mètre de côté ou crée un bloc de terre de 1 mètre de côté.
-- **Follets** : des petits flammèches se crééent à quelques mètres devant le mage, produisant de la lumière mais très peu de chaleur.
+- **Follets** : des petites flammèches se créent à quelques mètres devant le mage, produisant de la lumière mais très peu de chaleur.
 - **Limon fertile** : le lanceur crée une faible quantité de boue riche en nutriments. Une plante au contact de cette boue éclot et produit son fruit. 
 - **Main de vent** : un souffle de vent vient soulever un objet aussi ou moins lourd qu'une choppe pleine (2kg). 
 - **Main glacée** : une couche de givre entoure la main du lanceur, permettant de geler tout ce qu'il touche. Les mécanismes d'un objet se paralyse et tout être vivant de la taille ou plus petit qu'une fleur meure d'un contact prolongé.
@@ -26,7 +26,7 @@ Voici la liste des sorts mineurs disponibles à ceux qui ont pris le talent *Ini
 
 #### Ecole de magie
 
-Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvoir choisir une des quatres grandes écoles de la magie, chacune basée sur un des quates éléments primaires. Une fois votre école choisie, vous pourrez choisir trois sorts parmi ceux proposés.
+Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvoir choisir une des quatre grandes écoles de la magie, chacune basée sur un des quatre éléments primaires. Une fois votre école choisie, vous pourrez choisir trois sorts parmi ceux proposés.
 
 ##### Ecole du feu
 
@@ -34,7 +34,7 @@ Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvo
 - **Balsamine** : trois flammèches sortent de vos main infligeant chacune un tiers des dégâts que vous pouvez occasionner.
 - **Cautérisation** : une flamme douce et chaude vient envelopper la blessure que vous voulez guérir afin de rendre des points de vie. Ne fonctionne que pour soigner des dégâts tranchants.
 - **Barrière de feu** : une barrière de feu de 2 mètres de largeur se dresse devant le lanceur du sort, qui protège des dégâts magiques 
-- **Main brûlantes** : tout ce que le lanceru touche brûle ou fond, tout ce qui est en contact avec le matériau en train de brûler reçoit X dégâts.
+- **Main brûlantes** : tout ce que le lanceur touche brûle ou fond, tout ce qui est en contact avec le matériau en train de brûler reçoit X dégâts.
 - **Boule de feu** : lance une boule de feu infligeant X points de dégâts.
 - **Mur de feu** : dresse un mur de feu infranchissable.
 
@@ -54,7 +54,7 @@ Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvo
 
 - **Souffle revigorant** : une souffle léger court sur la blessure que vous voulez guérir afin de rendre des points de vie. Ne fonctionne que pour des dégâts contondants. 
 - **Lame d'air** : une lame d'air vient trancher la cible du sort, lui infligeant des dégâts tranchants.
-- **Onde de choc** : un impact de vet vient bousculer la cible, lui ingfligeant des dégâts contondant et la faisant tomber à terre.
+- **Onde de choc** : un impact de vent vient bousculer la cible, lui infligeant des dégâts contondants et la faisant tomber à terre.
 - **Bouclier d'air** : un disque se crée devant le lanceur, qui repousse les attaques.  
 - **Lévitation** : crée un courant ascendant sous une cible ce qui permet de ralentir une chute ou bien de l'envoyer dans les airs. 
 - **Brume** : entoure le lanceur de brume ce qui donne aux personnes le ciblant un malus de X pour le toucher.
@@ -80,7 +80,7 @@ Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvo
 
  ### Les Elfes
 
- Les Elfes utilisent l'Ether directement comme énergie pour leur magie. Ils sont ainsi capables de lancer des rayons d'Ether, ils peuvent faire léviter des objets ou des choses vivantes, ils peuvent se rendre invisibe, ...
+ Les Elfes utilisent l'Ether directement comme énergie pour leur magie. Ils sont ainsi capables de lancer des rayons d'Ether, ils peuvent faire léviter des objets ou des choses vivantes, ils peuvent se rendre invisible, ...
 
  ### Les Nains
 
@@ -90,9 +90,9 @@ Si vous avez choisi le talent *Etudiant d'une école de magie*, vous allez pouvo
 
  Le Petit Peuple affecte la réalité. Les mages du petit peuple jette des illusions et s'ils sont assez convaincants, les illusions peuvent même devenir réalité.
 
- ### Les Therianthropes
+ ### Les Thérianthropes
 
- Les Therianthropes font des prières à leurs dieux pour que ceux-ci influent sur le cours des choses.   
+ Les Thérianthropes font des prières à leurs dieux pour que ceux-ci influent sur le cours des choses.   
 
 ## Enchantement
 
@@ -100,6 +100,6 @@ Il peut arriver que des objets soit enchantés. En particulier les instruments d
 
 ### Notes magiques
 
-Si vous avez choisi l'instrument enchanté, vous pouvez choisir 3 partition parmi les suivantes :
+Si vous avez choisi l'instrument enchanté, vous pouvez choisir 3 partitions parmi les suivantes :
 
 - **Partition de sommeil** : la cible tombe dans un état de somnolence pendant X tours.
