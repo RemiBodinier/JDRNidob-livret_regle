@@ -33,7 +33,8 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 
 - **Théologiste** : le personnage bénéficie d'un bonus de 10% en ce qui concerne les connaissances sur les religions.
 - **Historien** : le personnage bénéficie d'un bonus de 10% en ce qui concerne les connaissances sur l'histoire.
-- **Généalogiste** : le personnage bénéficie d'un bonus de 10% en ce qui concerne les lignées de la noblesse. 
+- **Généalogiste** : le personnage bénéficie d'un bonus de 10% en ce qui concerne les lignées de la noblesse.
+- **Géographe** : le personnage bénéficie d'un bonus de 10% pour savoir dans quelle ville, région ou quel pays il se trouve et identifier ainsi des directions. 
 - **Linguiste** : le personnage bénéficie d'un bonus de 10% quand il doit lire ou comprendre une langue autre que la sienne.
 
 ### Talents de Déguisement
@@ -52,8 +53,10 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 
 - **Connaisseur du marché** : le personnage bénéficie d'un bonus de 10% lorsqu'il estime le prix d'un objet.
 - **Fin gourmet** : le personnage bénéficie d'un bonus de 10% lorsqu'il identifie si un aliment est comestible ou non.
-- **Herboriste** : le personnage bénéficie d'un bonus de 10% lorsqu'il identifie si un aliment est comestible ou non. 
+- **Herboriste** : le personnage bénéficie d'un bonus de 10% lorsqu'il identifie une plante et ses propriétés.
+- **Minéralogiste** : le personnage bénéficie d'un bonus de 10% lorsuq'il identifie un minerai, ainsi que ses propriétés. 
 - **Négociateur** : si vous réussissez un jet d'*Estimation* pour le prix d'un objet, vous bénéficiez d'un bonus de 10% sur un jet d'*Influence* pour faire diminuer le prix de l'objet.
+- **Zoologue** : le personnage bénéficie d'un bonus de 10% quand il identifie une partie d'un animal, ainsi que ses propriétés.
 
 ### Talents d'Habileté
 
@@ -66,7 +69,7 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 - **Intimidant** : le personnage bénéficie d'un bonus de 10% lorsqu'il intimide.
 - **Dresseur** : le personnage bénéficie d'un bonus de 10% lorsqu'il amadoue une bête.
 - **Diplomate** : le personnage bénéficie d'un bonus de 10% lorsqu'il doit calmer les tensions entre des personnes.
-- **Commandant** : en combat, un test d'*Influence* réussit peut donner un bonus de 10% à son prochain jet.
+- **Commandant** : en combat, un test d'*Influence* réussit peut donner un bonus de 10% au prochain jet d'un allié.
 
 ### Talents d'Investigation
 
@@ -101,7 +104,9 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 ### Talents de Science
 
 - **Médecin** : le personnage bénéficie d'un bonus de 10% lorsqu'il soigne quelqu'un
-- **Géographe** : le personnage bénéficie d'un bonus de 10% pour savoir où il se trouve dans l'environnement.
+- **Expert en topologie** : le personnage bénéficie d'un bonus de 10% pour avoir des renseignements quant à l'endroit où il se trouve (à quelle hauteur il est, vers où est le nord, vers où aller pour trouver du froid / du chaud, ...).
+- **Naturaliste** : le personnage bénéficie d'un bonus de 10% pour trouver une ressource dans le milieu naturel.
+- **Météorologiste** : le personnage bénéficie d'un bonus de 10% pour prévoir la météo. 
 
 
 ### Talents d'Utilisation de l'Ether
