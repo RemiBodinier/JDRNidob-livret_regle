@@ -16,12 +16,13 @@ book:
       - j03talent.qmd
       - j04magie.qmd
       - j05equipement.qmd
-      - j06archetype.qmd
-      - j07jet_combat.qmd
+      - j06artisanat.qmd
+      - j07archetype.qmd
+      - j08jet_combat.qmd
     - part : ednom.qmd
       chapters :
-      - j04Ednom.qmd
-      - j05nature.qmd
+      - j01Ednom.qmd
+      - j02nature.qmd
 
 
 #bibliography: references.bib
