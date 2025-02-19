@@ -7,6 +7,8 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 ### Talents d'Artisanat
 
 - **Alchimiste** : le personnage bénéficie d'un bonus de 10% quand il fabrique une potion
+- **Alchimiste d'exception** : les potions que vous faites avec des ressources de qualité médiocre ne sont pas affligés des malus habituels. Appliqué les effets de potions comme si la qualité des ressources utilisées était neutre. 
+- **Armes équilibrées** (nécessite le talent *Forgeron d'armes*): un personnage qui utilise les armes que vous fabriquez bénéficie d'un bonus de 5% lors de leur utilisation. 
 - **Armurier** : le personnage bénéficie d'un bonus  de 10% quand il forge une armure. 
 - **Artificier** : le personnage bénéficie d'un bonus de 10% quand il fabrique une bombe.
 - **Cuisinier** : le personnage bénéficie d'un bonus de 10% quad il cuisine.
@@ -66,8 +68,9 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 ### Talents de Discrétion
 
 - **Discret** : le personnage bénéficie d'un bonus de 10% lorsqu'il tente de passer inaperçu ou se cache.
+- **Invisibilité Naturelle** (nécessite les talents *Ombre rapide* et *Pas feutrés*, et être vêtu de noir): le personnage devient complètement invisible lorsqu'il est dans les ombres. 
 - **Ombre rapide** : vous pouvez vous déplacer à pleine vitesse sans vous faire remarquer si vous réussissez un jet de *Discrétion*.
-- **Pas de loup** : vos pas ne font aucun bruit et un personnage ne peut pas vous surprendre en utilisant son ouïe.
+- **Pas feutrés** : vos pas ne font aucun bruit et un personnage ne peut pas vous surprendre en utilisant son ouïe.
 - **Voleur à la tire** : le personnage bénéficie d'un bonus de 10% pour voler des objets dans les poches. 
 
 ### Talents d'Estimation
@@ -87,7 +90,7 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 
 ### Talents d'Influence
 
-- **Chef d'équipe** : si vous stimuler os coéquipiers pour qu'il réalise une action synchronisée, chacun aura un bonus de 5% sur ses jets lors de cette action. 
+- **Chef d'équipe** : si vous stimulez vos coéquipiers pour qu'ils réalisent une action synchronisée, chacun aura un bonus de 5% sur ses jets lors de cette action. 
 - **Commandant** : en combat, un test d'*Influence* réussit peut donner un bonus de 10% au prochain jet d'un allié.
 - **Diplomate** : le personnage bénéficie d'un bonus de 10% lorsqu'il doit calmer les tensions entre des personnes.
 - **Dresseur** : le personnage bénéficie d'un bonus de 10% lorsqu'il amadoue une bête.
@@ -123,7 +126,9 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 - **Bousculade** : le personnage peut faire un test de *Puissance* pour infliger la moitié des dégâts qu'il occasionnerait à main nue et faire tomber son adversaire. Celui-ci doit prendre une *action pleine* pour se lever et ses attaquants bénéficie d'un bonus de 10% pour le toucher tant qu'il est au sol, et d'une attaque d'opportunité au moment où il se lève.
 - **Boxeur** : le personnage inflige de base 20 dégâts quand il attaque à main nue.
 - **Briseur** : le personnage bénéficie d'un bonus de 10% pour enfoncer une porte ou un autre obstacle physique.
+- **Coup de [armes ne possédant pas le trait *Distance* ni *Lancer*] puissant** : le personnage bénéficie d'un bonus de 10 au dégâts quand il frappe avec une [armes ne possédant pas le trait *Distance* ni *Lancer*]
 - **Enragé** : le personnage peut rentrer en état de rage pendant 3 tours. Durant ce laps de temps, le personnage obtient +X% à ces jets de combat et occasionne +Y dégâts. Cependant, ses ennemis bénéficie d'un bonus de Z% pour les jets de combat contre lui. Tant qu'il est enragé, le personnage ne peut pas utilisé de bloquage ou de parade, ni esquiver.
+- **Expert des [armes ne possédant pas le trait *Distance* ni *Lancer*]** (nécessite les talents *Coup de [arme] puissant et *Maître des [armes], et 70% en *Puissance*) : l possibilité de faire un coup critique augmente de 5% quand le personnage utilise une [arme].
 - **Force intimidante** : le personnage peut utiliser un jet de *Puissance* plutôt qu'un jet d'*Influence* pour intimider une cible.
 - **Implacable** : si vous portez un coup fatal à l'ennemi vous pouvez enchaîner directement une attaque sur un autre ennemi à portée.
 - **Maîtrise des [armes ne possédant pas le trait *Distance* ni *Lancer*]** : le personnage bénéficie d'un bonus de 10% quand il utilise des [armes ne possédant pas le trait *Distance* ni *Lancer*].
@@ -150,20 +155,21 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 
 ## Talents de familier
 
-- **Piqué** : l'animal pique sur sa cible (jet d'*Athlétisme*) pour le griffer et remonte immédiatement en l'air. Le piqué donne un bonus de 15 au dégâts.
-- **Limier** : l'animal bénéficie d'un bonus de 10% quand il fait des jets d'*Investigation* pour suivre une piste olfactive, auditive ou visuelle. 
-- **Fouisseur** : l'animal bénéficie d'un bonus de 10% quand il fait des jets d'*Athlétisme* pour creuser un trou.
-- **Maître des crocs** (nécessite d'avoir des dents ou des crocs): votre familier sait très bien utiliser ses crocs. Il augmente la valeur de *Combat au corps à corps* de 10% quand il attaque en utilisant ses crocs.
-- **Maître des griffes** (nécessite d'avoir des griffes ou des serres): votre familier sait très bien utiliser ses griffes ou ses serres. Il augmente la valeur de *Combat au corps à corps* de 10% quand il attaque en utilisant ses griffes ou ses serres.
-- **Crocs aiguisés** (nécessite d'avoir des dents ou des crocs) : l'animal possède des crocs aiguisés ayant un bonus de 10 points de dégâts.
-- **Griffes aiguisées** (nécessite d'avoir des dents ou des crocs) : l'animal possède des griffes ou des serres aiguisées ayant un bonus de 10 points de dégâts.
-- **Armure naturelle** : l'animal possède un corps robuste et réduit de 10 les dégâts reçus. 
-- **Robuste** : l'animal gagne 20 points de vie supplémentaire.
-- **Grimpeur** : l'animal bénéficie d'un bonus de 10% quand il escalade.
-- **Nageur** : l'animal bénéficie d'un bonus de 10% quand il nage.
+- **Armure naturelle** : l'animal possède un corps robuste et réduit de 10 les dégâts reçus.
 - **Attaque en finesse** : l'animal' utilise sa valeur d'*Athlétisme* plutôt que celle de *Combat au corps à corps* pour attaquer avec ses griffes/serres ou ses crocs/dents. 
+- **Bousculade** : l'animal peut faire un test de *Combat au corps à corps* pour infliger la moitié des dégâts et faire tomber son adversaire. Celui-ci doit prendre une *action pleine* pour se lever, il subit un malus de 10% à tous ses jets et ses attaquants bénéficie d'un bonus de 10% pour le toucher.
+- **Crocs aiguisés** (nécessite d'avoir des dents ou des crocs) : l'animal possède des crocs aiguisés ayant un bonus de 10 points de dégâts.
 - **Discret** : l'animal bénéficie d'un bonus de 10% lorsqu'il tente de passer inaperçu ou se cache.
 - **Esquive** : lorsqu'il est attaqué, l'animal peut faire un jet d'*Athlétisme* avec un malus de 25% pour éviter d'être touché.
 - **Force intimidante** : l'animal peut utiliser un jet de *Combat au corps à corps* plutôt qu'un jet d'*Influence* pour intimider une cible.
-- **Bousculade** : l'animal peut faire un test de *Combat au corps à corps* pour infliger la moitié des dégâts et faire tomber son adversaire. Celui-ci doit prendre une *action pleine* pour se lever, il subit un malus de 10% à tous ses jets et ses attaquants bénéficie d'un bonus de 10% pour le toucher.
+- **Fouisseur** : l'animal bénéficie d'un bonus de 10% quand il fait des jets d'*Athlétisme* pour creuser un trou.
+- **Griffes aiguisées** (nécessite d'avoir des dents ou des crocs) : l'animal possède des griffes ou des serres aiguisées ayant un bonus de 10 points de dégâts.
+- **Grimpeur** : l'animal bénéficie d'un bonus de 10% quand il escalade.
+- **Limier** : l'animal bénéficie d'un bonus de 10% quand il fait des jets d'*Investigation* pour suivre une piste olfactive, auditive ou visuelle. 
+- **Maître des crocs** (nécessite d'avoir des dents ou des crocs): votre familier sait très bien utiliser ses crocs. Il augmente la valeur de *Combat au corps à corps* de 10% quand il attaque en utilisant ses crocs.
+- **Maître des griffes** (nécessite d'avoir des griffes ou des serres): votre familier sait très bien utiliser ses griffes ou ses serres. Il augmente la valeur de *Combat au corps à corps* de 10% quand il attaque en utilisant ses griffes ou ses serres.
+- **Nageur** : l'animal bénéficie d'un bonus de 10% quand il nage.
+- **Piqué** : l'animal pique sur sa cible (jet d'*Athlétisme*) pour le griffer et remonte immédiatement en l'air. Le piqué donne un bonus de 15 au dégâts.
 - **Réflexe de combat** : le personnage possède 2 points de vitesse supplémentaire.
+- **Robuste** : l'animal gagne 20 points de vie supplémentaire.
+
