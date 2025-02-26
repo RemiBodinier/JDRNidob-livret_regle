@@ -255,7 +255,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-number="3.1.1" class="anchored" data-anchor-id="talents-dartisanat"><span class="header-section-number">3.1.1</span> Talents d’Artisanat</h3>
 <ul>
 <li><strong>Alchimiste</strong> : le personnage bénéficie d’un bonus de 10% quand il fabrique une potion</li>
-<li><strong>Alchimiste d’exception</strong> : les potions que vous faites avec des ressources de qualité médiocre ne sont pas affligés des malus habituels. Appliqué les effets de potions comme si la qualité des ressources utilisées était neutre.</li>
+<li><strong>Alchimiste d’exception</strong> : vous utilisez les ressources comme si elles étaient d’une qualité une fois supérieure (médiocre -&gt; neutre, neutre -&gt; bonne,…) lorsque vous créez une potion.</li>
 <li><strong>Armes équilibrées</strong> (nécessite le talent <em>Forgeron d’armes</em>): un personnage qui utilise les armes que vous fabriquez bénéficie d’un bonus de 5% lors de leur utilisation.</li>
 <li><strong>Armurier</strong> : le personnage bénéficie d’un bonus de 10% quand il forge une armure.</li>
 <li><strong>Artificier</strong> : le personnage bénéficie d’un bonus de 10% quand il fabrique une bombe.</li>
@@ -264,7 +264,7 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Ingénieur</strong> : le personnage bénéicie d’un bonus de 10% pour construire une invention.</li>
 <li><strong>Joaillier</strong> : le personnage bénéficie d’un bonus de 10% quand il cisèle un talisman.</li>
 <li><strong>Maître des runes</strong> (nécessite un enseignement par un tiers + 45% en <em>Utilisation de l’Ether</em>) : le personnage peut graver une rune de pouvoir sur n’importe quel objet, lui donnant une capcité spéciale.</li>
-<li><strong>Recycleur</strong> : vous pouvez démonter un objet et en récolter les différents composants pour créer un nouvelle objet. Ne fonctionne pas pour les potions.</li>
+<li><strong>Recycleur</strong> : vous pouvez démonter un objet et en récolter les différents composants pour créer un nouvel objet. Ne fonctionne pas pour les potions.</li>
 </ul>
 </section>
 <section id="talents-darts" class="level3" data-number="3.1.2">
@@ -277,7 +277,9 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Faussaire</strong> : le personnage peut imiter parfaitement le style d’un autre artiste. La copie est alors presque indiscernable de l’originale.</li>
 <li><strong>Musicien</strong> : le personnage bénéficie d’un bonus de 10% quand il joue ou compose de la musique.</li>
 <li><strong>Oeil d’Artiste</strong> : le personnage bénéficie d’un bonus de 10% lors d’un jet de <em>Culture générale</em> lorsqu’il étudie une oeuvre.</li>
+<li><strong>Partition magique</strong> (nécessite le talent <em>Musicien</em> et 70 en <em>Utilisation de l’Ether</em>): vous pouvez créer votre propre partition avec son effet original.</li>
 <li><strong>Peintre</strong> : le personnage bénéficie d’un bonus de 10% quand il dessine ou peint.</li>
+<li><strong>Performance inspirante</strong> : lorsque vous réussissez un jet d’<em>Arts</em> accompagné d’un discours motivant, vous conférez à vos alliés un bonus de +5 à leur trois prochains jets.</li>
 <li><strong>Sculpteur</strong> : le personnage bénéficie d’un bonus de 10% quand il sculpte une matière.</li>
 </ul>
 </section>
@@ -294,6 +296,7 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Initiateur de combat</strong> : au début d’un combat, la vitesse du personnage est augmentée virtuellement de 2 points pour définir l’ordre dans lequel il va jouer.</li>
 <li><strong>Nageur</strong> : le personnage bénéficie d’un bonus de 10% quand il nage.</li>
 <li><strong>Plongeur</strong> : le personnage peut retenir sa respiration deux fois plus longtemps dans l’eau.</li>
+<li><strong>Saut prodigieux</strong> : le personnage bénéficie d’un bonus de 10% pour des jets liés à des sauts en hauteur ou en longueur, ou pour des jets pour se rattraper après une chute.</li>
 <li><strong>Sprinteur</strong> : le personnage peut faire un jet d’<em>Atthlétisme</em> durant son action de mouvement pour se déplacer 1,5 fois plus que ce dont il est normalement capable.</li>
 </ul>
 </section>
@@ -318,16 +321,23 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-number="3.1.5" class="anchored" data-anchor-id="talents-de-déguisement"><span class="header-section-number">3.1.5</span> Talents de Déguisement</h3>
 <ul>
 <li><strong>Affabulateur</strong> : le personnage bénéficie d’un bonus de 10% lorsqu’il ment.</li>
+<li><strong>Double imaginaire</strong> (nécessite le talent <em>Identité alternative</em>) : votre deuxième identité est connu à grande échelle et vous pouvez avoir des faveurs en tant que célébrité.</li>
+<li><strong>Faux documents</strong> : le personnage bénéficie d’un bonus de 10% pour falisifier un document ou bien en écrire un qui semble vrai.</li>
+<li><strong>Identité alternative</strong> : Vous avez développé une identité alternative crédible que vous pouvez utilisé à votre place.</li>
 <li><strong>Imitateur</strong> : le personnage bénéficie d’un bonus de 10% lorsqu’il se fait passer pour quelqu’un d’autre.</li>
+<li><strong>Maquilleur</strong> : le personnage bénéficie d’un bonus de 10% pour modifier son apparence physiques.</li>
 <li><strong>Professionnel du camouflage</strong> : le personnage bénéficie d’un bonus de 10% lorsqu’il utilise des éléments de l’environnement pour se camoufler.</li>
 </ul>
 </section>
 <section id="talents-de-discrétion" class="level3" data-number="3.1.6">
 <h3 data-number="3.1.6" class="anchored" data-anchor-id="talents-de-discrétion"><span class="header-section-number">3.1.6</span> Talents de Discrétion</h3>
 <ul>
-<li><strong>Discret</strong> : le personnage bénéficie d’un bonus de 10% lorsqu’il tente de passer inaperçu ou se cache.</li>
-<li><strong>Invisibilité Naturelle</strong> (nécessite les talents <em>Ombre rapide</em> et <em>Pas feutrés</em>, et être vêtu de noir): le personnage devient complètement invisible lorsqu’il est dans les ombres.</li>
+<li><strong>Absence d’empreintes</strong> : vous avez appris à ne laisser aucune trace derrière vous, ce qui confère un malus de 10% à vos poursuivants pour vous pister.</li>
+<li><strong>Chasseur invisible</strong> (nécessite le talent <em>Maître du cache-cache</em>): vous pouvez rester dissimulé tout en attaquant une cible.</li>
+<li><strong>Invisibilité Naturelle</strong> (nécessite les talents <em>Ombre nacturne</em> et <em>Pas feutrés</em>, et être vêtu de noir): le personnage devient complètement invisible lorsqu’il est dans les ombres.</li>
+<li><strong>Maître du cache-cache</strong> : le personnage bénéficie d’un bonus de 10% lorsqu’il tente de se cacher.</li>
 <li><strong>Ombre rapide</strong> : vous pouvez vous déplacer à pleine vitesse sans vous faire remarquer si vous réussissez un jet de <em>Discrétion</em>.</li>
+<li><strong>Ombre nocturne</strong> : le personnage bénéficié d’un bonus de 10% dans les environnements faiblement éclairés ou la nuit.</li>
 <li><strong>Pas feutrés</strong> : vos pas ne font aucun bruit et un personnage ne peut pas vous surprendre en utilisant son ouïe.</li>
 <li><strong>Voleur à la tire</strong> : le personnage bénéficie d’un bonus de 10% pour voler des objets dans les poches.</li>
 </ul>
@@ -397,6 +407,7 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Bousculade</strong> : le personnage peut faire un test de <em>Puissance</em> pour infliger la moitié des dégâts qu’il occasionnerait à main nue et faire tomber son adversaire. Celui-ci doit prendre une <em>action pleine</em> pour se lever et ses attaquants bénéficie d’un bonus de 10% pour le toucher tant qu’il est au sol, et d’une attaque d’opportunité au moment où il se lève.</li>
 <li><strong>Boxeur</strong> : le personnage inflige de base 20 dégâts quand il attaque à main nue.</li>
 <li><strong>Briseur</strong> : le personnage bénéficie d’un bonus de 10% pour enfoncer une porte ou un autre obstacle physique.</li>
+<li><strong>Charge</strong> : en prenant au moins 3m d’élan et après un jet d’<em>Athlétisme</em> réussi, le personnage peut faire un jet de <em>Puissance</em> avec un bonus de 10% pour bousculer un adversaire tout en lui infligeant tous les dégâts possibles.</li>
 <li><strong>Coup de [armes ne possédant pas le trait <em>Distance</em> ni <em>Lancer</em>] puissant</strong> : le personnage bénéficie d’un bonus de 10 au dégâts quand il frappe avec une [armes ne possédant pas le trait <em>Distance</em> ni <em>Lancer</em>]</li>
 <li><strong>Enragé</strong> : le personnage peut rentrer en état de rage pendant 3 tours. Durant ce laps de temps, le personnage obtient +X% à ces jets de combat et occasionne +Y dégâts. Cependant, ses ennemis bénéficie d’un bonus de Z% pour les jets de combat contre lui. Tant qu’il est enragé, le personnage ne peut pas utilisé de bloquage ou de parade, ni esquiver.</li>
 <li><strong>Expert des [armes ne possédant pas le trait <em>Distance</em> ni <em>Lancer</em>]</strong> (nécessite les talents <em>Coup de [arme] puissant et </em>Maître des [armes], et 70% en <em>Puissance</em>) : l possibilité de faire un coup critique augmente de 5% quand le personnage utilise une [arme].</li>

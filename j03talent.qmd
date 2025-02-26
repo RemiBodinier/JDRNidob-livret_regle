@@ -7,7 +7,7 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 ### Talents d'Artisanat
 
 - **Alchimiste** : le personnage bénéficie d'un bonus de 10% quand il fabrique une potion
-- **Alchimiste d'exception** : les potions que vous faites avec des ressources de qualité médiocre ne sont pas affligés des malus habituels. Appliqué les effets de potions comme si la qualité des ressources utilisées était neutre. 
+- **Alchimiste d'exception** : vous utilisez les ressources comme si elles étaient d'une qualité une fois supérieure (médiocre -> neutre, neutre -> bonne,...) lorsque vous créez une potion. 
 - **Armes équilibrées** (nécessite le talent *Forgeron d'armes*): un personnage qui utilise les armes que vous fabriquez bénéficie d'un bonus de 5% lors de leur utilisation. 
 - **Armurier** : le personnage bénéficie d'un bonus  de 10% quand il forge une armure. 
 - **Artificier** : le personnage bénéficie d'un bonus de 10% quand il fabrique une bombe.
@@ -16,7 +16,7 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 - **Ingénieur** : le personnage bénéicie d'un bonus de 10% pour construire une invention. 
 - **Joaillier** : le personnage bénéficie d'un bonus de 10% quand il cisèle un talisman.
 - **Maître des runes** (nécessite un enseignement par un tiers + 45% en *Utilisation de l'Ether*) : le personnage peut graver une rune de pouvoir sur n'importe quel objet, lui donnant une capcité spéciale.
-- **Recycleur** : vous pouvez démonter un objet et en récolter les différents composants pour créer un nouvelle objet. Ne fonctionne pas pour les potions.
+- **Recycleur** : vous pouvez démonter un objet et en récolter les différents composants pour créer un nouvel objet. Ne fonctionne pas pour les potions.
 
 ### Talents d'Arts
 
@@ -27,7 +27,9 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 - **Faussaire** : le personnage peut imiter parfaitement le style d'un autre artiste. La copie est alors presque indiscernable de l'originale.
 - **Musicien** : le personnage bénéficie d'un bonus de 10% quand il joue ou compose de la musique.
 - **Oeil d'Artiste** : le personnage bénéficie d'un bonus de 10% lors d'un jet de *Culture générale* lorsqu'il étudie une oeuvre.
+- **Partition magique** (nécessite le talent *Musicien* et 70 en *Utilisation de l'Ether*): vous pouvez créer votre propre partition avec son effet original.
 - **Peintre** : le personnage bénéficie d'un bonus de 10% quand il dessine ou peint. 
+- **Performance inspirante** : lorsque vous réussissez un jet d'*Arts* accompagné d'un discours motivant, vous conférez à vos alliés un bonus de +5 à leur trois prochains jets.
 - **Sculpteur** : le personnage bénéficie d'un bonus de 10% quand il sculpte une matière.  
 
 ### Talents d'Athlétisme
@@ -42,6 +44,7 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 - **Initiateur de combat** : au début d'un combat, la vitesse du personnage est augmentée virtuellement de 2 points pour définir l'ordre dans lequel il va jouer.
 - **Nageur** : le personnage bénéficie d'un bonus de 10% quand il nage.
 - **Plongeur** : le personnage peut retenir sa respiration deux fois plus longtemps dans l'eau.
+- **Saut prodigieux** : le personnage bénéficie d'un bonus de 10% pour des jets liés à des sauts en hauteur ou en longueur, ou pour des jets pour se rattraper après une chute. 
 - **Sprinteur** : le personnage peut faire un jet d'*Atthlétisme* durant son action de mouvement pour se déplacer 1,5 fois plus que ce dont il est normalement capable.
  
 ### Talents de Culture générale
@@ -62,14 +65,21 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 ### Talents de Déguisement
 
 - **Affabulateur** : le personnage bénéficie d'un bonus de 10% lorsqu'il ment.
+- **Double imaginaire** (nécessite le talent *Identité alternative*) : votre deuxième identité est connu à grande échelle et vous pouvez avoir des faveurs en tant que célébrité. 
+- **Faux documents** : le personnage bénéficie d'un bonus de 10% pour falisifier un document ou bien en écrire un qui semble vrai.
+- **Identité alternative** : Vous avez développé une identité alternative crédible que vous pouvez utilisé à votre place.
 - **Imitateur** : le personnage bénéficie d'un bonus de 10% lorsqu'il se fait passer pour quelqu'un d'autre.
+- **Maquilleur** : le personnage bénéficie d'un bonus de 10% pour modifier son apparence physiques. 
 - **Professionnel du camouflage** : le personnage bénéficie d'un bonus de 10% lorsqu'il utilise des éléments de l'environnement pour se camoufler.
 
 ### Talents de Discrétion
 
-- **Discret** : le personnage bénéficie d'un bonus de 10% lorsqu'il tente de passer inaperçu ou se cache.
-- **Invisibilité Naturelle** (nécessite les talents *Ombre rapide* et *Pas feutrés*, et être vêtu de noir): le personnage devient complètement invisible lorsqu'il est dans les ombres. 
+- **Absence d'empreintes** : vous avez appris à ne laisser aucune trace derrière vous, ce qui confère un malus de 10% à vos poursuivants pour vous pister.
+- **Chasseur invisible** (nécessite le talent *Maître du cache-cache*): vous pouvez rester dissimulé tout en attaquant une cible. 
+- **Invisibilité Naturelle** (nécessite les talents *Ombre nacturne* et *Pas feutrés*, et être vêtu de noir): le personnage devient complètement invisible lorsqu'il est dans les ombres. 
+- **Maître du cache-cache** : le personnage bénéficie d'un bonus de 10% lorsqu'il tente de se cacher.
 - **Ombre rapide** : vous pouvez vous déplacer à pleine vitesse sans vous faire remarquer si vous réussissez un jet de *Discrétion*.
+- **Ombre nocturne** : le personnage bénéficié d'un bonus de 10% dans les environnements faiblement éclairés ou la nuit.
 - **Pas feutrés** : vos pas ne font aucun bruit et un personnage ne peut pas vous surprendre en utilisant son ouïe.
 - **Voleur à la tire** : le personnage bénéficie d'un bonus de 10% pour voler des objets dans les poches. 
 
@@ -126,6 +136,7 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 - **Bousculade** : le personnage peut faire un test de *Puissance* pour infliger la moitié des dégâts qu'il occasionnerait à main nue et faire tomber son adversaire. Celui-ci doit prendre une *action pleine* pour se lever et ses attaquants bénéficie d'un bonus de 10% pour le toucher tant qu'il est au sol, et d'une attaque d'opportunité au moment où il se lève.
 - **Boxeur** : le personnage inflige de base 20 dégâts quand il attaque à main nue.
 - **Briseur** : le personnage bénéficie d'un bonus de 10% pour enfoncer une porte ou un autre obstacle physique.
+- **Charge** : en prenant au moins 3m d'élan et après un jet d'*Athlétisme* réussi, le personnage peut faire un jet de *Puissance* avec un bonus de 10% pour bousculer un adversaire tout en lui infligeant tous les dégâts possibles.
 - **Coup de [armes ne possédant pas le trait *Distance* ni *Lancer*] puissant** : le personnage bénéficie d'un bonus de 10 au dégâts quand il frappe avec une [armes ne possédant pas le trait *Distance* ni *Lancer*]
 - **Enragé** : le personnage peut rentrer en état de rage pendant 3 tours. Durant ce laps de temps, le personnage obtient +X% à ces jets de combat et occasionne +Y dégâts. Cependant, ses ennemis bénéficie d'un bonus de Z% pour les jets de combat contre lui. Tant qu'il est enragé, le personnage ne peut pas utilisé de bloquage ou de parade, ni esquiver.
 - **Expert des [armes ne possédant pas le trait *Distance* ni *Lancer*]** (nécessite les talents *Coup de [arme] puissant et *Maître des [armes], et 70% en *Puissance*) : l possibilité de faire un coup critique augmente de 5% quand le personnage utilise une [arme].
