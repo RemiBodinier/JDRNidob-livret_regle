@@ -6,125 +6,137 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 
 ### Talents d'Artisanat
 
-- **Alchimiste** : le personnage bénéficie d'un bonus de 10% quand il fabrique une potion
+- **Alchimiste** : le joueur bénéficie d'un bonus de 10% quand il fabrique une potion
 - **Alchimiste d'exception** : vous utilisez les ressources comme si elles étaient d'une qualité une fois supérieure (médiocre -> neutre, neutre -> bonne,...) lorsque vous créez une potion. 
 - **Armes équilibrées** (nécessite le talent *Forgeron d'armes*): un personnage qui utilise les armes que vous fabriquez bénéficie d'un bonus de 5% lors de leur utilisation. 
-- **Armurier** : le personnage bénéficie d'un bonus  de 10% quand il forge une armure. 
-- **Artificier** : le personnage bénéficie d'un bonus de 10% quand il fabrique une bombe.
-- **Cuisinier** : le personnage bénéficie d'un bonus de 10% quad il cuisine.
-- **Forgeron d'armes** : le personnage bénéficie d'un bonus de 10% quand il forge une arme.
-- **Ingénieur** : le personnage bénéicie d'un bonus de 10% pour construire une invention. 
-- **Joaillier** : le personnage bénéficie d'un bonus de 10% quand il cisèle un talisman.
-- **Maître des runes** (nécessite un enseignement par un tiers + 45% en *Utilisation de l'Ether*) : le personnage peut graver une rune de pouvoir sur n'importe quel objet, lui donnant une capcité spéciale.
+- **Armurier** : le joueur bénéficie d'un bonus  de 10% quand il forge une armure. 
+- **Artificier** : le joueur bénéficie d'un bonus de 10% quand il fabrique une bombe.
+- **Cuisinier** : le joueur bénéficie d'un bonus de 10% quad il cuisine.
+- **Forgeron d'armes** : le joueur bénéficie d'un bonus de 10% quand il forge une arme.
+- **Ingénieur** : le joueur bénéicie d'un bonus de 10% pour construire une invention. 
+- **Joaillier** : le joueur bénéficie d'un bonus de 10% quand il cisèle un talisman.
+- **Maître des runes** (nécessite un enseignement par un tiers + 45% en *Utilisation de l'Ether*) : le joueur peut graver une rune de pouvoir sur n'importe quel objet, lui donnant une capcité spéciale.
 - **Recycleur** : vous pouvez démonter un objet et en récolter les différents composants pour créer un nouvel objet. Ne fonctionne pas pour les potions.
 
 ### Talents d'Arts
 
-- **Chanteur** : le personnage bénéficie d'un bonus de 10% quand il chante.
+- **Chanteur** : le joueur bénéficie d'un bonus de 10% quand il chante.
 - **Charmeur de foules** : Si un jet d'*Arts* est réussi pour charmer un groupe de personne, vous bénéficiez d'un bonus de 10% en *Influence* pour influencer la foule.
-- **Danseur** : le personnage bénéficie d'un bonus de 10% quand il danse.
-- **Danse Hypnotique** (nécessite le talent *Danseur*): Sur un jet d'*Arts* réussi, vous pouvez hypnotiser toutes les personnes vous regardant pendant un tour. Ce personnes ne peuvent rien faire d'autres que vous regarder.
-- **Faussaire** : le personnage peut imiter parfaitement le style d'un autre artiste. La copie est alors presque indiscernable de l'originale.
-- **Musicien** : le personnage bénéficie d'un bonus de 10% quand il joue ou compose de la musique.
-- **Oeil d'Artiste** : le personnage bénéficie d'un bonus de 10% lors d'un jet de *Culture générale* lorsqu'il étudie une oeuvre.
+- **Danseur** : le joueur bénéficie d'un bonus de 10% quand il danse.
+- **Danse Hypnotique** (nécessite le talent *Danseur*): Sur un jet d'*Arts* réussi, vous pouvez hypnotiser toutes les personnes vous regardant pendant un tour. Ces personnes ne peuvent rien faire d'autres que vous regarder.
+- **Faussaire** : le joueur peut imiter parfaitement le style d'un autre artiste. La copie est alors presque indiscernable de l'originale.
+- **Musicien** : le joueur bénéficie d'un bonus de 10% quand il joue ou compose de la musique.
+- **Oeil d'Artiste** : le joueur bénéficie d'un bonus de 10% lors d'un jet de *Culture générale* lorsqu'il étudie une oeuvre.
 - **Partition magique** (nécessite le talent *Musicien* et 70 en *Utilisation de l'Ether*): vous pouvez créer votre propre partition avec son effet original.
-- **Peintre** : le personnage bénéficie d'un bonus de 10% quand il dessine ou peint. 
+- **Peintre** : le joueur bénéficie d'un bonus de 10% quand il dessine ou peint. 
 - **Performance inspirante** : lorsque vous réussissez un jet d'*Arts* accompagné d'un discours motivant, vous conférez à vos alliés un bonus de +5 à leur trois prochains jets.
-- **Sculpteur** : le personnage bénéficie d'un bonus de 10% quand il sculpte une matière.  
+- **Sculpteur** : le joueur bénéficie d'un bonus de 10% quand il sculpte une matière.  
 
 ### Talents d'Athlétisme
 
-- **Assaut acrobatique** (nécessite le talent *Attaque en finesse*) : pendant son action de mouvement, le personnage peut faire un jet d'*Athlétisme* avec un malus de 10% pour effectuer une attaque lorsqu'il se déplace.
-- **Attaque en finesse** : le personnage utilise sa valeur d'*Athlétisme* plutôt que celle de *Puissance* pour attaquer avec des armes intermédiaires ne possédant pas la particularité *Distance*. 
+- **Assaut acrobatique** (nécessite le talent *Attaque en finesse*) : pendant son action de mouvement, le joueur peut faire un jet d'*Athlétisme* avec un malus de 10% pour effectuer une attaque lorsqu'il se déplace.
+- **Attaque en finesse** : le joueur utilise sa valeur d'*Athlétisme* plutôt que celle de *Puissance* pour attaquer avec des armes intermédiaires ne possédant pas la particularité *Distance*. 
 - **Bonne réception** : vous pouvez tomber de X mètres de plus que la normale sans vous blesser.
-- **Coureur** : le personnage bénéficie d'un bonus de 10% pour rattraper une cible ou pour fuir un combat.
-- **Esquive** : Le personnage peut décider d'échanger son action de mouvement par une esquive. Le personnage peut, une fois par tour quand il se fait attaquer, faire un jet d'*Athlétisme* pour éviter complètement d'être touché. S'il rate son jet d'esquive, le personnnage subit un quart de dégâts supplémentaires.
+- **Coureur** : le joueur bénéficie d'un bonus de 10% pour rattraper une cible ou pour fuir un combat.
+- **Esquive** : Le joueur peut décider d'échanger son action de mouvement par une esquive. Le joueur peut, une fois par tour quand il se fait attaquer, faire un jet d'*Athlétisme* pour éviter complètement d'être touché. S'il rate son jet d'esquive, le joueur subit un quart de dégâts supplémentaires.
 - **Esquive réactive** (nécessite le talent *Esquive*) : Fonctionne comme le talent *Esquive* mais avec une action bonus au lieu d'une action de mouvement.
-- **Grimpeur** : le personnage bénéficie d'un bonus de 10% quand il escalade.
-- **Initiateur de combat** : au début d'un combat, la vitesse du personnage est augmentée virtuellement de 2 points pour définir l'ordre dans lequel il va jouer.
-- **Nageur** : le personnage bénéficie d'un bonus de 10% quand il nage.
-- **Plongeur** : le personnage peut retenir sa respiration deux fois plus longtemps dans l'eau.
-- **Saut prodigieux** : le personnage bénéficie d'un bonus de 10% pour des jets liés à des sauts en hauteur ou en longueur, ou pour des jets pour se rattraper après une chute. 
-- **Sprinteur** : le personnage peut faire un jet d'*Atthlétisme* durant son action de mouvement pour se déplacer 1,5 fois plus que ce dont il est normalement capable.
+- **Grimpeur** : le joueur bénéficie d'un bonus de 10% quand il escalade.
+- **Initiateur de combat** : au début d'un combat, la vitesse du joueur est augmentée virtuellement de 2 points pour définir l'ordre dans lequel il va jouer.
+- **Nageur** : le joueur bénéficie d'un bonus de 10% quand il nage.
+- **Plongeur** : le joueur peut retenir sa respiration deux fois plus longtemps dans l'eau.
+- **Saut prodigieux** : le joueur bénéficie d'un bonus de 10% pour des jets liés à des sauts en hauteur ou en longueur, ou pour des jets pour se rattraper après une chute. 
+- **Sprinteur** : le joueur peut faire un jet d'*Atthlétisme* durant son action de mouvement pour se déplacer 1,5 fois plus que ce dont il est normalement capable.
  
 ### Talents de Culture générale
 
-- **Cryptographe** (nécessite le talent *Linguiste*): le personnage bénficie d'un bonus de 10% pour craquer des langages cryptés. 
-- **Généalogiste** : le personnage bénéficie d'un bonus de 10% en ce qui concerne les lignées de la noblesse.
-- **Géographe** : le personnage bénéficie d'un bonus de 10% pour savoir dans quelle ville, région ou quel pays il se trouve et identifier ainsi des directions. 
-- **Guide local** (nécessite le talent *Géographe*) : le personnage sait comment sont organisées les villes et peut trouver sans faire de jet les principaux bâtiments (auberge, temple, mairie, ...).
-- **Historien** : le personnage bénéficie d'un bonus de 10% en ce qui concerne les connaissances sur l'histoire.
+- **Cryptographe** (nécessite le talent *Linguiste*): le joueur bénficie d'un bonus de 10% pour craquer des langages cryptés. 
+- **Généalogiste** : le joueur bénéficie d'un bonus de 10% en ce qui concerne les lignées de la noblesse.
+- **Géographe** : le joueur bénéficie d'un bonus de 10% pour savoir dans quelle ville, région ou quel pays il se trouve et identifier ainsi des directions. 
+- **Guide local** (nécessite le talent *Géographe*) : le joueur sait comment sont organisées les villes et peut trouver sans faire de jet les principaux bâtiments (auberge, temple, mairie, ...).
+- **Historien** : le joueur bénéficie d'un bonus de 10% en ce qui concerne les connaissances sur l'histoire.
 - **Lien culturel** : un jet de *Culture général* réussit permet d'identifier d'où une personne provient (selon son acoutrement et sa façon de parler) et ainsi, les jets d'*Influence* vers cette personne ont un bonus de 10%.
-- **Linguiste** : le personnage bénéficie d'un bonus de 10% quand il doit lire ou comprendre une langue autre que la sienne.
-- **Mémoire encyclopédique** : une fois par session, le personnage peut demander au MJ des informations sur un sujet précis de son choix. Le MJ détermine la précision des informations.
+- **Linguiste** : le joueur bénéficie d'un bonus de 10% quand il doit lire ou comprendre une langue autre que la sienne.
+- **Mémoire encyclopédique** : une fois par session, le joueur peut demander au MJ des informations sur un sujet précis de son choix. Le MJ détermine la précision des informations.
 - **Sage itinérant** : votre culture est reconnue au sein d'un territoire défini. Au sein de ce territoire, les gens cultivés vous donneront des informations sans avoir besoin de faire de jet. 
-- **Sociologue** : le personnage bénéficie d'un bonus de 10% pour identifier les coutumes et traditions d'un peuple.
-- **Théologiste** : le personnage bénéficie d'un bonus de 10% en ce qui concerne les connaissances sur les religions.
+- **Sociologue** : le joueur bénéficie d'un bonus de 10% pour identifier les coutumes et traditions d'un peuple.
+- **Théologiste** : le joueur bénéficie d'un bonus de 10% en ce qui concerne les connaissances sur les religions.
 - **Visionnaire** : une fois par session, vous pouvez faire un jet de *Culture général* pour recouper toutes les informations que vous avez et anticipé ainsi un futur possible.
 
 ### Talents de Déguisement
 
-- **Affabulateur** : le personnage bénéficie d'un bonus de 10% lorsqu'il ment.
+- **Affabulateur** : le joueur bénéficie d'un bonus de 10% lorsqu'il ment.
 - **Double imaginaire** (nécessite le talent *Identité alternative*) : votre deuxième identité est connu à grande échelle et vous pouvez avoir des faveurs en tant que célébrité. 
-- **Faux documents** : le personnage bénéficie d'un bonus de 10% pour falisifier un document ou bien en écrire un qui semble vrai.
+- **Faux documents** : le joueur bénéficie d'un bonus de 10% pour falisifier un document ou bien en écrire un qui semble vrai.
 - **Identité alternative** : Vous avez développé une identité alternative crédible que vous pouvez utilisé à votre place.
-- **Imitateur** : le personnage bénéficie d'un bonus de 10% lorsqu'il se fait passer pour quelqu'un d'autre.
-- **Maquilleur** : le personnage bénéficie d'un bonus de 10% pour modifier son apparence physiques. 
-- **Professionnel du camouflage** : le personnage bénéficie d'un bonus de 10% lorsqu'il utilise des éléments de l'environnement pour se camoufler.
+- **Imitateur** : le joueur bénéficie d'un bonus de 10% lorsqu'il se fait passer pour quelqu'un d'autre.
+- **Maquilleur** : le joueur bénéficie d'un bonus de 10% pour modifier son apparence physiques. 
+- **Professionnel du camouflage** : le joueur bénéficie d'un bonus de 10% lorsqu'il utilise des éléments de l'environnement pour se camoufler.
 
 ### Talents de Discrétion
 
 - **Absence d'empreintes** : vous avez appris à ne laisser aucune trace derrière vous, ce qui confère un malus de 10% à vos poursuivants pour vous pister.
 - **Chasseur invisible** (nécessite le talent *Maître du cache-cache*): vous pouvez rester dissimulé tout en attaquant une cible. 
-- **Invisibilité Naturelle** (nécessite les talents *Ombre nacturne* et *Pas feutrés*, et être vêtu de noir): le personnage devient complètement invisible lorsqu'il est dans les ombres. 
-- **Maître du cache-cache** : le personnage bénéficie d'un bonus de 10% lorsqu'il tente de se cacher.
+- **Invisibilité Naturelle** (nécessite les talents *Ombre nacturne* et *Pas feutrés*, et être vêtu de noir): le joueur devient complètement invisible lorsqu'il est dans les ombres. 
+- **Maître du cache-cache** : le joueur bénéficie d'un bonus de 10% lorsqu'il tente de se cacher.
 - **Ombre rapide** : vous pouvez vous déplacer à pleine vitesse sans vous faire remarquer si vous réussissez un jet de *Discrétion*.
-- **Ombre nocturne** : le personnage bénéficié d'un bonus de 10% dans les environnements faiblement éclairés ou la nuit.
+- **Ombre nocturne** : le joueur bénéficié d'un bonus de 10% dans les environnements faiblement éclairés ou la nuit.
 - **Pas feutrés** : vos pas ne font aucun bruit et un personnage ne peut pas vous surprendre en utilisant son ouïe.
-- **Voleur à la tire** : le personnage bénéficie d'un bonus de 10% pour voler des objets dans les poches. 
+- **Voleur à la tire** : le joueur bénéficie d'un bonus de 10% pour voler des objets dans les poches. 
 
 ### Talents d'Estimation
 
-- **Fin gourmet** : le personnage bénéficie d'un bonus de 10% lorsqu'il identifie si un aliment est comestible ou non.
-- **Herboriste** : le personnage bénéficie d'un bonus de 10% lorsqu'il identifie une plante et ses propriétés.
-- **Marchand** : le personnage bénéficie d'un bonus de 10% lorsqu'il estime le prix d'un objet.
-- **Minéralogiste** : le personnage bénéficie d'un bonus de 10% lorsuq'il identifie un minerai, ainsi que ses propriétés. 
+- **Détecteur de faux** : le joueur bénéficie d'un bonus de 10% pour repérer une contrefaçon ou un objet falsifié.
+- **Détection de la magie** : vous bénéficiez d'un bonus de 10% lors d'un jet d'*Utilisation de l'Ether* pour savoir si un objet est magique si ce jet est précédé d'un jet d'*Estimation* réussit.
+- **Fin gourmet** : le joueur bénéficie d'un bonus de 10% lorsqu'il identifie si un aliment est comestible ou non.
+- **Herboriste** : le joueur bénéficie d'un bonus de 10% lorsqu'il identifie une plante et ses propriétés.
+- **Marchand** : le joueur bénéficie d'un bonus de 10% lorsqu'il estime le prix d'un objet.
+- **Minéralogiste** : le joueur bénéficie d'un bonus de 10% lorsqu'il identifie un minerai, ainsi que ses propriétés. 
 - **Négociateur** : si vous réussissez un jet d'*Estimation* pour le prix d'un objet, vous bénéficiez d'un bonus de 10% sur un jet d'*Influence* pour faire diminuer le prix de l'objet.
-- **Zoologue** : le personnage bénéficie d'un bonus de 10% quand il identifie une partie d'un animal, ainsi que ses propriétés.
+- **Zoologue** : le joueur bénéficie d'un bonus de 10% quand il identifie une partie d'un animal, ainsi que ses propriétés.
 
 ### Talents d'Habileté
 
-- **Crocheteur** : le personnage bénéficie d'un bonus de 10% lorsqu'il crochète une serrure. 
-- **Piégeur** : le personnage bénéficie d'un bonus de 10% lorsqu'il amorce ou désamorce un piège.
+- **Crocheteur** : le joueur bénéficie d'un bonus de 10% lorsqu'il crochète une serrure. 
+- **Piégeur** : le joueur bénéficie d'un bonus de 10% lorsqu'il amorce ou désamorce un piège.
 - **Professionnel de l'évasion** : vous pouvez vous défaire automatiquement de liens au bout d'une minute.
+- **Sens des mécanismes** : le joueur bénéficie d'un bonus de 10% lorsqu'il veut analyser un mécanisme et le manipuler.
 
 ### Talents d'Influence
 
+- **Avenant** (nécessite 65% en *Influence* et le talent *Personne de confiance*): les personnages avec lesquels interagit le joueur sont automatiquement plus enclins à le croire ou à coopérer.
 - **Chef d'équipe** : si vous stimulez vos coéquipiers pour qu'ils réalisent une action synchronisée, chacun aura un bonus de 5% sur ses jets lors de cette action. 
 - **Commandant** : en combat, un test d'*Influence* réussit peut donner un bonus de 10% au prochain jet d'un allié.
-- **Diplomate** : le personnage bénéficie d'un bonus de 10% lorsqu'il doit calmer les tensions entre des personnes.
-- **Dresseur** : le personnage bénéficie d'un bonus de 10% lorsqu'il amadoue une bête.
-- **Envoûteur** : Vous pouvez donner un ordre qui ne peut pas être contredit une fois par jour sur un jet d'*Influence* réussit.
-- **Intimidant** : le personnage bénéficie d'un bonus de 10% lorsqu'il intimide.
+- **Diplomate** : le joueur bénéficie d'un bonus de 10% lorsqu'il doit calmer les tensions entre des personnes.
+- **Dresseur** : le joueur bénéficie d'un bonus de 10% lorsqu'il amadoue une bête.
+- **Envoûteur** (nécessite 65% en *Influence* et le talent *Manipulateur*): Vous pouvez donner un ordre qui ne peut pas être contredit une fois par jour sur un jet d'*Influence* réussit.
+- **Intimidant** : le joueur bénéficie d'un bonus de 10% lorsqu'il intimide.
+- **Manipulateur** : le joueur bénéficie d'un bonus de 10% lorsqu'il essaye de convaincre quelqu'un de faire quelque chose. 
+- **Personne de confiance** : le joueur bénéficie d'un bonus de 10% lorsqu'il essaye de transformer une personne méfiante en allié potentiel. 
+- **Séducteur** : le joueur bénéficie d'un bonus de 10% lorsuq'il tente de séduire ou charmer quelqu'un.
 
 ### Talents d'Investigation
 
-- **Détective** : le personnage bénéficie d'un bonus de 10% pour fouiller une pièce.
-- **Récolteur** : le personnage bénéficie d'un bonus de 10% pour chercher des ressources voulues dans la nature. 
-- **Traqueur** : le personnage bénéficie d'un bonus de 10% pour suivre des traces ou une piste.
+- **Analyste** : le joueur bénéficie d'un bonus de 10% pour comprendre des événements passés à partir d'indices.
+- **Détective** : le joueur bénéficie d'un bonus de 10% pour fouiller une pièce.
+- **Intuition brillante** : Sur un jet d'*Investigation* affublé d'un malus réussit, le joueur peut demander au MJ de préciser des indices afin de faciliter la résolution d'une situation.
+- **Récolteur** : le joueur bénéficie d'un bonus de 10% pour chercher des ressources voulues dans la nature. 
+- **Traqueur** : le joueur bénéficie d'un bonus de 10% pour suivre des traces ou une piste.
 
 ### Talents de Perception
 
 - **Communicateur non verbal** :  vous êtes capable de comprendre une personne sans qu'elle ne parle, sans malus. 
-- **Empathe** : le personnage bénéficie d'un bonus de 10% pour savoir si son interlocuteur ment ou non.
-- **Guetteur** : le personnage bénéficie d'un bonus de 10% pour repérer des mouvements. 
-- **Ouïe fine** : le personnage bénéficie d'un bonus de 10% lorsqu'il écoute son environnement.
-- **Vue perçante** : le personnage bénéficie d'un bonus de 10% lorsqu'il observe son environnement.
+- **Empathe** : le joueur bénéficie d'un bonus de 10% pour savoir si son interlocuteur ment ou non.
+- **Empreintes sensorielles** : le joueur bénéficie d'un bonus de 10% pour savoir si l'odeur, le bruit ou l'apparence d'une personne ou dun objet lui sont familiers.
+- **Guetteur** : le joueur bénéficie d'un bonus de 10% pour repérer des mouvements. 
+- **Odorat aiguisé** : le joueur bénéficie d'un bonus de 10% pour identifier des odeurs spécifiques ou repérer la provenance d'une odeur inhabituelle.
+- **Ouïe fine** : le joueur bénéficie d'un bonus de 10% lorsqu'il écoute son environnement.
+- **Vision nocturne** : Vous pouvez voir dans des conditions de faible luminosité comme si c'était le jour, sans malus.
+- **Vue perçante** : le joueur bénéficie d'un bonus de 10% lorsqu'il observe son environnement.
 
 ### Talents de Précision
 
-- **Lanceur** : le personnage bénéficie d'un bonus de 10% pour lancer un petit objet avec précision. 
-- **Maîtrise des [armes possédant le trait *Distance* ou *Lancer*]** : le personnage bénéficie d'un bonus de 10% quand il utilise des [armes possédant le trait *Distance* ou *Lancer*]. 
+- **Lanceur** : le joueur bénéficie d'un bonus de 10% pour lancer un petit objet avec précision. 
+- **Maîtrise des [armes possédant le trait *Distance* ou *Lancer*]** : le joueur bénéficie d'un bonus de 10% quand il utilise des [armes possédant le trait *Distance* ou *Lancer*]. 
 - **Ricochet** : vous pouvez viser une surface pour faire ricocher un projectile et atteindre une cible impossible à toucher autrement.
 - **Sniper** : Le malus dû à la distance diminue de 10%.
 - **Tireur de cibles en mouvement** : Vous n'avez pas de malus quand vous tirez sur une cible en mouvement.
@@ -132,37 +144,37 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 
 ### Talents de Puissance
 
-- **Bloquage** : Le personnage peut décider d'échanger son action de mouvement par un bloquage. Le personnage peut alors faire un test de *Puissance* en réaction à **UN** jet d'attaque ennemi par tour. Si le jet est réussi, les dégâts sont tous évités. L'objet qui sert à bloquer augmente de 2 son usure à chaque fois que le talent est utilisé (même si le bloquage échoue).
-- **Bousculade** : le personnage peut faire un test de *Puissance* pour infliger la moitié des dégâts qu'il occasionnerait à main nue et faire tomber son adversaire. Celui-ci doit prendre une *action pleine* pour se lever et ses attaquants bénéficie d'un bonus de 10% pour le toucher tant qu'il est au sol, et d'une attaque d'opportunité au moment où il se lève.
-- **Boxeur** : le personnage inflige de base 20 dégâts quand il attaque à main nue.
-- **Briseur** : le personnage bénéficie d'un bonus de 10% pour enfoncer une porte ou un autre obstacle physique.
-- **Charge** : en prenant au moins 3m d'élan et après un jet d'*Athlétisme* réussi, le personnage peut faire un jet de *Puissance* avec un bonus de 10% pour bousculer un adversaire tout en lui infligeant tous les dégâts possibles.
-- **Coup de [armes ne possédant pas le trait *Distance* ni *Lancer*] puissant** : le personnage bénéficie d'un bonus de 10 au dégâts quand il frappe avec une [armes ne possédant pas le trait *Distance* ni *Lancer*]
-- **Enragé** : le personnage peut rentrer en état de rage pendant 3 tours. Durant ce laps de temps, le personnage obtient +X% à ces jets de combat et occasionne +Y dégâts. Cependant, ses ennemis bénéficie d'un bonus de Z% pour les jets de combat contre lui. Tant qu'il est enragé, le personnage ne peut pas utilisé de bloquage ou de parade, ni esquiver.
-- **Expert des [armes ne possédant pas le trait *Distance* ni *Lancer*]** (nécessite les talents *Coup de [arme] puissant et *Maître des [armes], et 70% en *Puissance*) : l possibilité de faire un coup critique augmente de 5% quand le personnage utilise une [arme].
-- **Force intimidante** : le personnage peut utiliser un jet de *Puissance* plutôt qu'un jet d'*Influence* pour intimider une cible.
+- **Bloquage** : Le joueur peut décider d'échanger son action de mouvement par un bloquage. Le joueur peut alors faire un test de *Puissance* en réaction à **UN** jet d'attaque ennemi par tour. Si le jet est réussi, les dégâts sont tous évités. L'objet qui sert à bloquer augmente de 2 son usure à chaque fois que le talent est utilisé (même si le bloquage échoue).
+- **Bousculade** : le joueur peut faire un test de *Puissance* pour infliger la moitié des dégâts qu'il occasionnerait à main nue et faire tomber son adversaire. Celui-ci doit prendre une *action pleine* pour se lever et ses attaquants bénéficie d'un bonus de 10% pour le toucher tant qu'il est au sol, et d'une attaque d'opportunité au moment où il se lève.
+- **Boxeur** : le joueur inflige de base 20 dégâts quand il attaque à main nue.
+- **Briseur** : le joueur bénéficie d'un bonus de 10% pour enfoncer une porte ou un autre obstacle physique.
+- **Charge** : en prenant au moins 3m d'élan et après un jet d'*Athlétisme* réussi, le joueur peut faire un jet de *Puissance* avec un bonus de 10% pour bousculer un adversaire tout en lui infligeant tous les dégâts possibles.
+- **Coup de [armes ne possédant pas le trait *Distance* ni *Lancer*] puissant** : le joueur bénéficie d'un bonus de 10 au dégâts quand il frappe avec une [armes ne possédant pas le trait *Distance* ni *Lancer*]
+- **Enragé** : le joueur peut rentrer en état de rage pendant 3 tours. Durant ce laps de temps, le joueur obtient +X% à ces jets de combat et occasionne +Y dégâts. Cependant, ses ennemis bénéficie d'un bonus de Z% pour les jets de combat contre lui. Tant qu'il est enragé, le joueur ne peut pas utilisé de bloquage ou de parade, ni esquiver.
+- **Expert des [armes ne possédant pas le trait *Distance* ni *Lancer*]** (nécessite les talents *Coup de [arme] puissant et *Maître des [armes], et 70% en *Puissance*) : la possibilité de faire un coup critique augmente de 5% quand le personnage utilise une [arme].
+- **Force intimidante** : le joueur peut utiliser un jet de *Puissance* plutôt qu'un jet d'*Influence* pour intimider une cible.
 - **Implacable** : si vous portez un coup fatal à l'ennemi vous pouvez enchaîner directement une attaque sur un autre ennemi à portée.
-- **Maîtrise des [armes ne possédant pas le trait *Distance* ni *Lancer*]** : le personnage bénéficie d'un bonus de 10% quand il utilise des [armes ne possédant pas le trait *Distance* ni *Lancer*].
-- **Parade**  : La parade est une posture : il faut utiliser une action de mouvement pour l'activer (et une pour le désactiver). Quand cete posture est active, le personnage bénéficie d'un malus de 10% pour toucher ses adversaires mais ses adversaires, au contact, ont également 10% de malus pour le toucher. Tous les dégâts reçus sont de plus réduits d'un quart.
+- **Maîtrise des [armes ne possédant pas le trait *Distance* ni *Lancer*]** : le joueur bénéficie d'un bonus de 10% quand il utilise des [armes ne possédant pas le trait *Distance* ni *Lancer*].
+- **Parade**  : La parade est une posture : il faut utiliser une action de mouvement pour l'activer (et une pour le désactiver). Quand cete posture est active, le joueur bénéficie d'un malus de 10% pour toucher ses adversaires mais ses adversaires, au contact, ont également 10% de malus pour le toucher. Tous les dégâts reçus sont de plus réduits d'un quart.
 - **Robuste** : le personnage gagne 20 points de vie supplémentaire.
 
 ### Talents de Science
 
-- **Expert en topologie** : le personnage bénéficie d'un bonus de 10% pour avoir des renseignements quant à l'endroit où il se trouve (à quelle hauteur il est, vers où est le nord, vers où aller pour trouver du froid / du chaud, ...).
-- **Médecin** : le personnage bénéficie d'un bonus de 10% lorsqu'il soigne quelqu'un.
-- **Météorologiste** : le personnage bénéficie d'un bonus de 10% pour prévoir la météo.
-- **Naturaliste** : le personnage bénéficie d'un bonus de 10% pour trouver une ressource dans le milieu naturel.
+- **Expert en topologie** : le joueur bénéficie d'un bonus de 10% pour avoir des renseignements quant à l'endroit où il se trouve (à quelle hauteur il est, vers où est le nord, vers où aller pour trouver du froid / du chaud, ...).
+- **Médecin** : le joueur bénéficie d'un bonus de 10% lorsqu'il soigne quelqu'un.
+- **Météorologiste** : le joueur bénéficie d'un bonus de 10% pour prévoir la météo.
+- **Naturaliste** : le joueur bénéficie d'un bonus de 10% pour trouver une ressource dans le milieu naturel.
 
 ### Talents d'Utilisation de l'Ether
 
-- **Aéromancien** : le personnage bénéficie d'un bonus de 10% quand il utilise des sorts de vent.
+- **Aéromancien** : le joueur bénéficie d'un bonus de 10% quand il utilise des sorts de vent.
 - **Canalisation d'énergie** : vous pouvez augmenter de 10 les dégâts occasionnés par un sort en échange d'un malus de 10% au jet d'*Utilisation de l'Ether*.
-- **Connaisseur de sort** : le personnage connaît un sort d'une des écoles de magie.
-- **Etudiant d'une école de magie** (nécessite le talent *Initié à la magie*): le personnage a étudié une des quatre grandes écoles de magie et peut lancer trois sorts parmi la liste proposé dans l'école à laquelle il appartient.
-- **Géomancien** : le personnage bénéficie d'un bonus de 10% quand il utilise des sorts de terre.
+- **Connaisseur de sort** : le joueur connaît un sort d'une des écoles de magie.
+- **Etudiant d'une école de magie** (nécessite le talent *Initié à la magie*): le joueur a étudié une des quatre grandes écoles de magie et peut lancer trois sorts parmi la liste proposé dans l'école à laquelle il appartient.
+- **Géomancien** : le joueurbénéficie d'un bonus de 10% quand il utilise des sorts de terre.
 - **Hydromancien** : le joueur bénéficie d'un bonus de 10% quand il utilise des sorts d'eau
-- **Initié à la magie** (nécessite 50% en *Utilisation de l'Ether*) : le personnage a suivi un cursus lui permettant d'utiliser des sorts mineurs. Il peut choisir trois sorts mineurs dans la liste présente dans la partie sur la magie.
-- **Pyromancien** : le personnage bénéficie d'un bonus de 10% quand il utilise des sorts de feu.
+- **Initié à la magie** (nécessite 50% en *Utilisation de l'Ether*) : le joueur a suivi un cursus lui permettant d'utiliser des sorts mineurs. Il peut choisir trois sorts mineurs dans la liste présente dans la partie sur la magie.
+- **Pyromancien** : le joueur bénéficie d'un bonus de 10% quand il utilise des sorts de feu.
 
 ## Talents de familier
 
