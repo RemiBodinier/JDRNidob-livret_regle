@@ -1,5 +1,0 @@
----
-title: "Le monde d'Ednom"
-format: html
----
-

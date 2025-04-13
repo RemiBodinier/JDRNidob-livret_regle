@@ -5,7 +5,7 @@ Bien que vos compétences donnent une première vision des actions dans lesquell
 ## Talents de Compétences
 
 ### Talents d'Artisanat
-
+ 
 - **Alchimiste** : le joueur bénéficie d'un bonus de 10% quand il fabrique une potion
 - **Alchimiste d'exception** : vous utilisez les ressources comme si elles étaient d'une qualité une fois supérieure (médiocre -> neutre, neutre -> bonne,...) lorsque vous créez une potion. 
 - **Armes équilibrées** (nécessite le talent *Forgeron d'armes*): un personnage qui utilise les armes que vous fabriquez bénéficie d'un bonus de 5% lors de leur utilisation. 

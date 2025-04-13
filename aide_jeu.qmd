@@ -3,3 +3,20 @@ title: "Aide de jeu"
 format: html
 ---
 
+# Comment jouer
+
+Une partie de ce jeu de rôle suit le schéma suivant :
+
+1. Le Maître du Jeu (MJ) décrit l'environnement. Il dit aux joueurs où ils sont placés, ce qui les entoure et les options qui s'offrent à eux. 
+
+2. Les joueurs décrivent ce qu'ils souhaitent faire selon la situation qu'a décrit le MJ. Dans la majorité des cas, les joueurs vont alors jeter les dés et le MJ va alors décrire ce qu'il se passe, les résultats des actions des joueurs.
+
+3. Une fois les résultats des actions décrits, les joueurs vont alors prendre de nouvelles décisions, lancer les dés, et le MJ décrira ce qu'il se passe. Finalement, le déroulement d'un jeu de rôle alterne entre les descriptions du MJ et les actions des joueurs. Le MJ est seulement l'interprète de ce que les joueurs choisissent de faire. 
+
+## Les jets de dés
+
+La réalisation des actions dans ce jeu de rôle se fait avec un dé à cent faces qu'on abrègera d100.
+
+Les actions dépendant d'une des quinze compétences que possèdent chaque personnage (joueur ou non joueur), qui elles-mêmes dépendent de six caractéristiques. 
+
+Lorsque le joueur décide de faire une action, il jette donc un d100 et compare le résultat du jet avec la valeur que le joueur possède dans la compétence correspondante. Si le résultat du jet est inférieur, l'action est réussit, sinon elle est échouée. De plus, si la valeur du jet de dé estcomprise entre 1 et 5, la réussite est **critique** : le personnage a particulièrement bien réussit son action. Toutefois attention, si la valeur du jet est comprise entre 96 et 100, l'échec est également **critique**, et les conséquences désastreuses.
