@@ -12,7 +12,7 @@ book:
     - index.qmd
 
     - part: "Aide de jeu"
-      chapters:
+      chapters: 
       - aide_jeu.qmd
       - j02caretcomp.qmd
       - j03talent.qmd
