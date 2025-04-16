@@ -11,16 +11,43 @@ book:
   chapters:
     - index.qmd
 
-    - part: "Aide de jeu"
+    - part: "Règles du jeu"
       chapters: 
       - aide_jeu.qmd
+      - j08jet_combat.qmd
+
+    - part: "Caractéristiques et compétence"
+      chapters:  
       - j02caretcomp.qmd
-      - j03talent.qmd
+      - artisanat.qmd
+      - arts.qmd
+      - athletisme.qmd
+      - culture_generale.qmd
+      - deguisement.qmd
+      - discretion.qmd
+      - estimation.qmd
+      - habilete.qmd
+      - influence.qmd
+      - investigation.qmd
+      - perception.qmd
+      - precision.qmd
+      - puissance.qmd
+      - science.qmd
+      - utilisation_ether.qmd
+
+    - part: "Magie"
+      chapters:
       - j04magie.qmd
+
+    - part: "Equipement et Artisanat"
+      chapters: 
       - j05equipement.qmd
       - j06artisanat.qmd
+
+    - part: "Personnages précréés"
+      chapters : 
       - j07archetype.qmd
-      - j08jet_combat.qmd
+      
 
     - part: "Le Monde d'Ednom"
       chapters:

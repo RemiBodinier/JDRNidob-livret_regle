@@ -1,0 +1,18 @@
+# Culture Générale
+
+La Culture générale est une compétence très polyvalente pour les érudits. Elle permet en effet d'être à l'aise sur des sujets comme l'histoire d'une nation, les us et coutumes d'un peuple, les divinités d'une religion, l'organisation d'une ville, et bien d'autres encore. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents de Culture Générale
+
+- **Cryptographe** (nécessite le talent *Linguiste*): le joueur bénficie d'un bonus de 10% pour craquer des langages cryptés. 
+- **Généalogiste** : le joueur bénéficie d'un bonus de 10% en ce qui concerne les lignées de la noblesse.
+- **Géographe** : le joueur bénéficie d'un bonus de 10% pour savoir dans quelle ville, région ou quel pays il se trouve et identifier ainsi des directions. 
+- **Guide local** (nécessite le talent *Géographe*) : le joueur sait comment sont organisées les villes et peut trouver sans faire de jet les principaux bâtiments (auberge, temple, mairie, ...).
+- **Historien** : le joueur bénéficie d'un bonus de 10% en ce qui concerne les connaissances sur l'histoire.
+- **Lien culturel** : un jet de *Culture général* réussit permet d'identifier d'où une personne provient (selon son acoutrement et sa façon de parler) et ainsi, les jets d'*Influence* vers cette personne ont un bonus de 10%.
+- **Linguiste** : le joueur bénéficie d'un bonus de 10% quand il doit lire ou comprendre une langue autre que la sienne.
+- **Mémoire encyclopédique** : une fois par session, le joueur peut demander au MJ des informations sur un sujet précis de son choix. Le MJ détermine la précision des informations.
+- **Sage itinérant** : votre culture est reconnue au sein d'un territoire défini. Au sein de ce territoire, les gens cultivés vous donneront des informations sans avoir besoin de faire de jet. 
+- **Sociologue** : le joueur bénéficie d'un bonus de 10% pour identifier les coutumes et traditions d'un peuple.
+- **Théologiste** : le joueur bénéficie d'un bonus de 10% en ce qui concerne les connaissances sur les religions.
+- **Visionnaire** : une fois par session, vous pouvez faire un jet de *Culture général* pour recouper toutes les informations que vous avez et anticipé ainsi un futur possible.

@@ -8,19 +8,41 @@ Les animaux dans ce jeu de rôle sont des personnages comme les autres. Sont don
 
 Les familiers disponibles à la création du personnage sont l'Oryctongue, le Custal, la Capcèle et la Lingue.
 
-### L'Oryctongue
+### Les quatres familiers possibles
+
+#### L'Oryctongue
 
 l'Oryctongue est un animal fouisseur de la taille d'un sanglier et ayant une apparence physique à la jonction entre une taupe et un blaireau. Il possède un corps trapu et six grosses pattes robustes munies de griffes. Il a un pelage noir avec quelques zébrures un peu plus claires. Il mange surtout des petits animaux mais une partie de son terrier est aussi conçu pour l'agriculture de champignons. 
 
-### Le Custal
+#### Le Custal
 
-Le Custal est une espèce domestiquée qui sert à garder les troupeaux. De la taille d'un loup, il a cependant une gueule plus épaisse et aplatie, avec les canines sortant légèrement sur la lèvre inférieure. Il possède six pattes plus proches de celles des panthères et autres félins de moyenne taille, une queue également similaire à celle des félins mais plus pointue au bout, et des oreilles similaires à celles des chauves-souris  du genre oreillard.
+Le Custal est une espèce domestiquée qui sert à garder les troupeaux. Mesurant une quarantaine de centimètres au garot, et pesant un vingtaine de kilo, sa morphologie se rapproche de celle d'un bulldog. Il a une gueule épaisse et aplatie, avec les canines sortant légèrement sur la lèvre inférieure. Il possède six pattes plus proches de celles des panthères et autres félins de moyenne taille, une queue également similaire à celle des félins mais plus pointue au bout, et des oreilles similaires à celles des chauves-souris du genre oreillard. Il possède un sac vocal au niveau de la gorge lui permettant de produire des ondes de choc sonores. 
 
-### La Capcèle
+#### La Capcèle
 
-La Capcèle est un oiseau de proie de taille moyenne, avec ces deux paries d'ailes étroites et longues et le bec recourbé et acéré. Il a un plumage châtain sur le dos, lui permettant de se fondre dans les hautes herbes de la savane où on le retrouve, et blanc moucheté de beige sur le ventre. 
+La Capcèle est un oiseau de proie de taille moyenne, avec ces deux paires d'ailes étroites et longues et le bec recourbé et acéré. Il a un plumage châtain sur le dos, lui permettant de se fondre dans les hautes herbes de la savane où on le retrouve, et blanc moucheté de beige sur le ventre. 
 
-### La Lingue
+#### La Lingue
 
 La Lingue est une sorte de croisement entre un gecko et un macaque. Il possède un corps écailleux et six pattes se terminant par des membres avec pouce opposable. Les écailles lamellaires au niveau des doigt lui permettent d'adhérer à un grand nombre de surface. Sa longue queue préhensile lui permet de s'accroche aux branches et lui sert également de balancier. Enfin la Lingue possède une langue protactile, à la manière des caméléons. 
+
+### Talents de familier
+
+- **Armure naturelle** : l'animal possède un corps robuste et réduit de 10 les dégâts reçus.
+- **Attaque en finesse** : l'animal' utilise sa valeur d'*Athlétisme* plutôt que celle de *Combat au corps à corps* pour attaquer avec ses griffes/serres ou ses crocs/dents. 
+- **Bousculade** : l'animal peut faire un test de *Combat au corps à corps* pour infliger la moitié des dégâts et faire tomber son adversaire. Celui-ci doit prendre une *action pleine* pour se lever, il subit un malus de 10% à tous ses jets et ses attaquants bénéficie d'un bonus de 10% pour le toucher.
+- **Crocs aiguisés** (nécessite d'avoir des dents ou des crocs) : l'animal possède des crocs aiguisés ayant un bonus de 10 points de dégâts.
+- **Discret** : l'animal bénéficie d'un bonus de 10% lorsqu'il tente de passer inaperçu ou se cache.
+- **Esquive** : lorsqu'il est attaqué, l'animal peut faire un jet d'*Athlétisme* avec un malus de 25% pour éviter d'être touché.
+- **Force intimidante** : l'animal peut utiliser un jet de *Combat au corps à corps* plutôt qu'un jet d'*Influence* pour intimider une cible.
+- **Fouisseur** : l'animal bénéficie d'un bonus de 10% quand il fait des jets d'*Athlétisme* pour creuser un trou.
+- **Griffes aiguisées** (nécessite d'avoir des dents ou des crocs) : l'animal possède des griffes ou des serres aiguisées ayant un bonus de 10 points de dégâts.
+- **Grimpeur** : l'animal bénéficie d'un bonus de 10% quand il escalade.
+- **Limier** : l'animal bénéficie d'un bonus de 10% quand il fait des jets d'*Investigation* pour suivre une piste olfactive, auditive ou visuelle. 
+- **Maître des crocs** (nécessite d'avoir des dents ou des crocs): votre familier sait très bien utiliser ses crocs. Il augmente la valeur de *Combat au corps à corps* de 10% quand il attaque en utilisant ses crocs.
+- **Maître des griffes** (nécessite d'avoir des griffes ou des serres): votre familier sait très bien utiliser ses griffes ou ses serres. Il augmente la valeur de *Combat au corps à corps* de 10% quand il attaque en utilisant ses griffes ou ses serres.
+- **Nageur** : l'animal bénéficie d'un bonus de 10% quand il nage.
+- **Piqué** : l'animal pique sur sa cible (jet d'*Athlétisme*) pour le griffer et remonte immédiatement en l'air. Le piqué donne un bonus de 15 au dégâts.
+- **Réflexe de combat** : le personnage possède 2 points de vitesse supplémentaire.
+- **Robuste** : l'animal gagne 20 points de vie supplémentaire.
 

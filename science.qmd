@@ -1,0 +1,16 @@
+# Science
+La Science est une compétence qui témoigne de l'intérêt du joueur pour l'acquisition d'informations à partir d'expérience. Le personnage s'est intéressé intrinséquemment aux choses et en a tiré des conclusions et un savoir-faire dans des domaines variés. Ainsi, un scientifique est tout à fait capable de remettre une épaule en place ou recoudre une estafilade. Il peut également savor se diriger en milieu hostile et reconnaître certaines plantes ou bâtes qu'il aurait déjà croisé. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents de Science
+
+- **Anatomie du combat** (nécessite le talent *Chirurgien*): le joueur peut faire un jet de *Science* avant un jet de combat. Si le jet est réussit, l'attaque occasionnera 10 points de dégâts supplémentaires. 
+- **Chirurgien** : le joueur bénéficie d'un bonus de 10% pour soigner les blessures de quelqu'un.
+- **Lecture du terrain** : le joueur bénéficie d'un bonus de 10% pour avoir des renseignements quant à l'endroit où il se trouve (à quelle hauteur il est, vers où est le nord, vers où aller pour trouver du froid / du chaud, ...).
+- **Maître des toxines** : le joueur bénéficie de 10% pour détecter ou neutraliser un poison ou les symptômes d'un empoisonnement.
+- **Médecin** : le joueur bénéficie d'un bonus de 10% pour identifier ou soigner une maladie.
+- **Météorologiste** : le joueur bénéficie d'un bonus de 10% pour prévoir la météo.
+- **Naturaliste** : le joueur bénéficie d'un bonus de 10% pour trouver une ressource dans le milieu naturel.
+- **Scientifique multidisciplinaire** : le joueur peut lancer un jet de *Science* et obtenir un bonus de 10% à son prochain jet d'*Estimation* ou d'*Investigation* dans le cas d'une réussite. 
+- **Soins rapides** : le joueur est capable de soigner une blessure à une vitesse surprenante. Le joueur peut utiliser une action bonus en plein combat pour apporter des soins à qulqu'un. Cependant faire ainsi octroie une attaque d'opportunité.
+- **Soins avancés** : le joueur restaure 10 points de vie supplémentaire lors de soins. 
+

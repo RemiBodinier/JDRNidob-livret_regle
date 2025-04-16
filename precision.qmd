@@ -1,0 +1,15 @@
+# Précision
+La Précision est la compétence la plus importante pour toute personne voulant se battre avec des armes de jet et donc à distance. Donner des coups de masse à tout va et en prendre tout autant, protéger par une armure de métal ne vous fait pas rêver. Par contre, attendre patiemment que sa cible soit à porter, et décocher un trait qui vous donnera la victoire est un style qui vous semble certainement plus intéressant. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents de Précision
+
+- **Concentration** : le joueur peut dépensé une action pour se concentrer. Au prochain tour, il bénéficiera d'un bonus de 20% à son jet de *Précision*. 
+- **Flèche perçante** : le joueur peut tenter une jet de *Précision* avec un malus de 20% pour qu'un seul projectile touche deux cibles alignées. 
+- **Lanceur** : le joueur bénéficie d'un bonus de 10% pour lancer un petit objet avec précision. 
+- **Maîtrise des [armes possédant le trait *Distance* ou *Lancer*]** : le joueur bénéficie d'un bonus de 10% quand il utilise des [armes possédant le trait *Distance* ou *Lancer*]. 
+- **Recharge rapide** : recharger un arme rapide demande une action bonus plutôt qu'une action complète. 
+- **Ricochet** : le joueur peut viser une surface pour faire ricocher un projectile et atteindre une cible impossible à toucher autrement.
+- **Sniper** : Le malus dû à la distance diminue de 10%.
+- **Tir à travers les obstacles** : le joueur peut tenter un jet de *Précision* avec un malus de 30% pour tirer sur une cible qui est normalement protégée par un obstacle partiel. 
+
+

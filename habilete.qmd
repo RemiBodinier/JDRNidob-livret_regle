@@ -1,0 +1,10 @@
+# Habileté
+
+L'Habileté est une compétence procurant un doigté formidable. Et être habile peut permettre de se sortir d'un tas de mauvaises situations ou provoquer de bonnes situations pour soi et ses alliés. Ainsi, aucun lien ne pourra vous entraver et aucune serrure vous résister. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents d'Habileté
+
+- **Crocheteur** : le joueur bénéficie d'un bonus de 10% lorsqu'il crochète une serrure. 
+- **Piégeur** : le joueur bénéficie d'un bonus de 10% lorsqu'il amorce ou désamorce un piège.
+- **Professionnel de l'évasion** : vous pouvez vous défaire automatiquement de liens au bout d'une minute.
+- **Sens des mécanismes** : le joueur bénéficie d'un bonus de 10% lorsqu'il veut analyser un mécanisme et le manipuler.

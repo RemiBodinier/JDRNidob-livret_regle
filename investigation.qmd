@@ -1,0 +1,12 @@
+# Investigation
+
+L'Investigation est une compétence utile pour qui se sent détective dans l'âme. Suivre une piste, récolter des indices, démêler le vrai du faux dans le discours de quelqu'un, ou encore être capable de subvenir aux besoins alimentaires de son groupe en pleine nature sont autant de situations étant améliorées par cette compétence. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents d'Investigation
+
+- **Analyste** : le joueur bénéficie d'un bonus de 10% pour comprendre des événements passés à partir d'indices.
+- **Détective** : le joueur bénéficie d'un bonus de 10% pour fouiller une pièce.
+- **Intuition brillante** : Sur un jet d'*Investigation* affublé d'un malus réussit, le joueur peut demander au MJ de préciser des indices afin de faciliter la résolution d'une situation.
+- **Récolteur** : le joueur bénéficie d'un bonus de 10% pour chercher des ressources voulues dans la nature. 
+- **Traqueur** : le joueur bénéficie d'un bonus de 10% pour suivre des traces ou une piste.
+

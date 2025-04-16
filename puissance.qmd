@@ -1,0 +1,21 @@
+# Puissance
+La Puissance est la compétence qui ravira tous les férus du combat au corps à corps. Sentir l'haleine de son adversaire et l'envoyer balader est beaucoup plus excitant que toute autre forme de combat. Hors combat, cette compétence pourrait également vous permettre de soulever des montagnes. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents de Puissance
+
+- **Berserker infatigable** (nécessite le talent *Enragé*): l'état de rage peut être maintenu 5 tours au lieu de 3. 
+- **Bloquage** : Le joueur peut décider d'échanger son action de mouvement par un bloquage. Le joueur peut alors faire un test de *Puissance* en réaction à **UN** jet d'attaque ennemi par tour. Si le jet est réussi, les dégâts sont tous évités. L'objet qui sert à bloquer augmente de 2 son usure à chaque fois que le talent est utilisé (même si le bloquage échoue).
+- **Bousculade** : le joueur peut faire un test de *Puissance* pour infliger la moitié des dégâts qu'il occasionnerait à main nue et faire tomber son adversaire. Celui-ci doit prendre une *action pleine* pour se lever et ses attaquants bénéficie d'un bonus de 10% pour le toucher tant qu'il est au sol, et d'une attaque d'opportunité au moment où il se lève.
+- **Boxeur** : le joueur inflige de base 20 dégâts quand il attaque à main nue.
+- **Briseur** : le joueur bénéficie d'un bonus de 10% pour enfoncer une porte ou un autre obstacle physique.
+- **Charge** : en prenant au moins 3m d'élan et après un jet d'*Athlétisme* réussi, le joueur peut faire un jet de *Puissance* avec un bonus de 10% pour bousculer un adversaire tout en lui infligeant tous les dégâts possibles. Un adversaire bousculé tombe à terre. Le joueur ayant chargé se retrouve automatiquement une case derrière la cible. 
+- **Coup de [armes ne possédant pas le trait *Distance* ni *Lancer*] puissant** : le joueur bénéficie d'un bonus de 10 au dégâts quand il frappe avec une [armes ne possédant pas le trait *Distance* ni *Lancer*]
+- **Enragé** : le joueur peut rentrer en état de rage pendant 3 tours. Durant ce laps de temps, le joueur obtient +10% à ces jets de combat et occasionne +10 dégâts. Cependant, ses ennemis bénéficie d'un bonus de 10% pour les jets de combat contre lui. Tant qu'il est enragé, le joueur ne peut pas utilisé de bloquage ou de parade, ni esquiver.
+- **Expert des [armes ne possédant pas le trait *Distance* ni *Lancer*]** (nécessite les talents *Coup de [arme] puissant et *Maître des [armes], et 70% en *Puissance*) : la possibilité de faire un coup critique augmente de 5% quand le personnage utilise une [arme].
+- **Force intimidante** : le joueur peut utiliser un jet de *Puissance* plutôt qu'un jet d'*Influence* pour intimider une cible.
+- **Implacable** : si le joueur porte un coup fatal à l'ennemi, il peut utiliser une action bonus pour enchaîner directement une attaque sur un autre ennemi à portée.
+- **Maîtrise des [armes ne possédant pas le trait *Distance* ni *Lancer*]** : le joueur bénéficie d'un bonus de 10% quand il utilise des [armes ne possédant pas le trait *Distance* ni *Lancer*].
+- **Parade**  : La parade est une posture : il faut utiliser une action de mouvement pour l'activer (et une pour le désactiver). Quand cete posture est active, le joueur bénéficie d'un malus de 10% pour toucher ses adversaires mais ses adversaires, au contact, ont également 10% de malus pour le toucher. Tous les dégâts reçus sont de plus réduits d'un quart.
+- **Revers repoussant** : le joueur peut faire un jet de *Puissance* pour occasionner la moitié des dégâts et faire reculer sa cible de 3m. Si la cible ne peut pas reculer, elle prend automatiquement 10 points de dégâts supplémentaires. 
+- **Robuste** : le personnage gagne 20 points de vie supplémentaire.
+

@@ -34,4 +34,7 @@ Voici les différentes compétences :
 - **Science** (INT/END) : cette compétence représente vos connaissances en science naturels ainsi que la pratique qui en découle. Cette compétence représente par exemple vos compétences en anatomie et donc à soigner une plaie ou une maladie. Egalement cette compétence vous permet de savoir s'il va pleuvoir ou de déduire de la topographie du terrain où il peut y avoir de l'eau ou un abri.
 - **Utilisation de l'Ether** (SAG/INT) : l'Ether dans le monde d'Ednom correspond à la force produisant la magie. Cette compétence correspond donc à votre capacité à apprendre, comprendre et utiliser la magie. Vous pourrez par exemple apprendre à produire de la lumière, jeter une boule de feu ou identifier la présence d'une protection magique sur un objet. 
 
+## Les Talents
+
+Bien que vos compétences donnent une première vision des actions dans lesquelles vous allez exceller et celles qui vous donneront du fil à retordre, les talents sont un autre aspect de votre personnage lui apportant de la nuance. Vous allez pouvoir en choisir deux en tout et pour tout, à la création de votre personnage. 
 

@@ -1,0 +1,17 @@
+# Arts
+
+L'Arts est une compétence qui pourrait sembler futile. Cependant, outre vous octroyer un charme certain devant votre public, cette compétence pourrait également s'avérer utile lors de combats. En effet cette compétence peut être utilisée pour chanter des chants de guerre motivant vos alliés, effectuer des danses envoûtantes perturbant vos ennemis, et surtout vous permettre d'utiliser des instruments enchantés, ayant de multiples applications. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents d'Arts
+
+- **Chanteur** : le joueur bénéficie d'un bonus de 10% quand il chante.
+- **Charmeur de foules** : Si un jet d'*Arts* est réussi pour charmer un groupe de personne, vous bénéficiez d'un bonus de 10% en *Influence* pour influencer la foule.
+- **Danseur** : le joueur bénéficie d'un bonus de 10% quand il danse.
+- **Danse Hypnotique** (nécessite le talent *Danseur*): Sur un jet d'*Arts* réussi, vous pouvez hypnotiser toutes les personnes vous regardant pendant un tour. Ces personnes ne peuvent rien faire d'autres que vous regarder.
+- **Faussaire** : le joueur peut imiter parfaitement le style d'un autre artiste. La copie est alors presque indiscernable de l'originale.
+- **Musicien** : le joueur bénéficie d'un bonus de 10% quand il joue ou compose de la musique.
+- **Oeil d'Artiste** : le joueur bénéficie d'un bonus de 10% lors d'un jet de *Culture générale* lorsqu'il étudie une oeuvre.
+- **Partition magique** (nécessite le talent *Musicien* et 70 en *Utilisation de l'Ether*): vous pouvez créer votre propre partition avec son effet original.
+- **Peintre** : le joueur bénéficie d'un bonus de 10% quand il dessine ou peint. 
+- **Performance inspirante** : lorsque vous réussissez un jet d'*Arts* accompagné d'un discours motivant, vous conférez à vos alliés un bonus de +5 à leur trois prochains jets.
+- **Sculpteur** : le joueur bénéficie d'un bonus de 10% quand il sculpte une matière. 

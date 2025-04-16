@@ -1,0 +1,18 @@
+# Athlétisme
+
+L'Athlétisme est une compétence qui permet principalement de pouvoir mieux se déplacer dans son environnement. Sauter, grimper, nager, tout devient alors plus facile. Cependant, cette compétence pourrait également devenir cruciale lors de combat au corps à corps, si jamais vous optez pour un style fluide et svelte, et non pas puissant comme la plupart des combattants. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents d'Athlétisme
+
+- **Assaut acrobatique** (nécessite le talent *Attaque en finesse*) : pendant son action de mouvement, le joueur peut faire un jet d'*Athlétisme* avec un malus de 10% pour effectuer une attaque lorsqu'il se déplace.
+- **Attaque en finesse** : le joueur utilise sa valeur d'*Athlétisme* plutôt que celle de *Puissance* pour attaquer avec des armes intermédiaires ne possédant pas la particularité *Distance*. 
+- **Bonne réception** : vous pouvez tomber de X mètres de plus que la normale sans vous blesser.
+- **Coureur** : le joueur bénéficie d'un bonus de 10% pour rattraper une cible ou pour fuir un combat.
+- **Esquive** : Le joueur peut décider d'échanger son action de mouvement par une esquive. Le joueur peut, une fois par tour quand il se fait attaquer, faire un jet d'*Athlétisme* pour éviter complètement d'être touché. S'il rate son jet d'esquive, le joueur subit un quart de dégâts supplémentaires.
+- **Esquive réactive** (nécessite le talent *Esquive*) : Fonctionne comme le talent *Esquive* mais avec une action bonus au lieu d'une action de mouvement.
+- **Grimpeur** : le joueur bénéficie d'un bonus de 10% quand il escalade.
+- **Initiateur de combat** : au début d'un combat, la vitesse du joueur est augmentée virtuellement de 2 points pour définir l'ordre dans lequel il va jouer.
+- **Nageur** : le joueur bénéficie d'un bonus de 10% quand il nage.
+- **Plongeur** : le joueur peut retenir sa respiration deux fois plus longtemps dans l'eau.
+- **Saut prodigieux** : le joueur bénéficie d'un bonus de 10% pour des jets liés à des sauts en hauteur ou en longueur, ou pour des jets pour se rattraper après une chute. 
+- **Sprinteur** : le joueur peut faire un jet d'*Atthlétisme* durant son action de mouvement pour se déplacer 1,5 fois plus que ce dont il est normalement capable.

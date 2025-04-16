@@ -1,0 +1,14 @@
+# Déguisement
+
+Le Déguisement est une compétence faites pour se fondre dans tous les décors possible et inimaginable. Mentir, se cacher, se faire passer pour quelqu'un d'uatre, devient alors comme une seconde nature. Et quand cette seconde nature devient très importante, cette compétence pourrait même vous permettre d'obtenir une deuxième personnalité. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents de Déguisement
+
+- **Affabulateur** : le joueur bénéficie d'un bonus de 10% lorsqu'il ment.
+- **Double imaginaire** (nécessite le talent *Identité alternative*) : votre deuxième identité est connu à grande échelle et vous pouvez avoir des faveurs en tant que célébrité. 
+- **Faux documents** : le joueur bénéficie d'un bonus de 10% pour falisifier un document ou bien en écrire un qui semble vrai.
+- **Identité alternative** : Vous avez développé une identité alternative crédible que vous pouvez utilisé à votre place.
+- **Imitateur** : le joueur bénéficie d'un bonus de 10% lorsqu'il se fait passer pour quelqu'un d'autre.
+- **Maquilleur** : le joueur bénéficie d'un bonus de 10% pour modifier son apparence physiques. 
+- **Professionnel du camouflage** : le joueur bénéficie d'un bonus de 10% lorsqu'il utilise des éléments de l'environnement pour se camoufler.
+

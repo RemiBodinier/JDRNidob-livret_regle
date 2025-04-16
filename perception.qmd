@@ -1,0 +1,16 @@
+# Perception
+
+La Perception est une compétence qui se base sur l'acuité de ses cinq sens pour lire l'environnement. Ainsi, un danger ne pourra plus apparaître sans que vous ne l'ayez entendu, senti ou vu arriver. Qui plus est, s'ouvrir complètement à ses cinq sens pourrait permettre d'en développer un sixième. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents de Perception
+
+- **Communicateur non verbal** :  vous êtes capable de comprendre une personne sans qu'elle ne parle, sans malus. 
+- **Empathe** : le joueur bénéficie d'un bonus de 10% pour savoir si son interlocuteur ment ou non.
+- **Empreintes sensorielles** : le joueur bénéficie d'un bonus de 10% pour savoir si l'odeur, le bruit ou l'apparence d'une personne ou d'un objet lui sont familiers.
+- **Guetteur** : le joueur bénéficie d'un bonus de 10% pour repérer des mouvements. 
+- **Odorat aiguisé** : le joueur bénéficie d'un bonus de 10% pour identifier des odeurs spécifiques ou repérer la provenance d'une odeur inhabituelle.
+- **Ouïe fine** : le joueur bénéficie d'un bonus de 10% lorsqu'il écoute son environnement.
+- **Sixième sens** : le joueur ressent instinctivement les dangers et anomalie autour de soi. Une fois par session, le joueur peut demander au MJ de lui indiquer s'il court un danger immédiat et la nature de ce danger. 
+- **Vision nocturne** : Le joueur peut voir dans des conditions de faible luminosité comme si c'était le jour, sans malus.
+- **Vue perçante** : le joueur bénéficie d'un bonus de 10% lorsqu'il observe son environnement.
+

@@ -1,0 +1,15 @@
+# Discrétion
+
+Le Discrétion est une compétence faites pour les joueurs qui souhaiteraient dissimuler le plus de choses. Cela pourrait concerner des objets évidemment, mais pourquoi pas vous ou vos intentions ? De plus, une attaque qui n'est pas vu ne peut pas être anticipée, et par conséquent sera souvent très efficace. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents de Discrétion
+
+- **Absence d'empreintes** : vous avez appris à ne laisser aucune trace derrière vous, ce qui confère un malus de 10% à vos poursuivants pour vous pister.
+- **Chasseur invisible** (nécessite le talent *Maître du cache-cache*): vous pouvez rester dissimulé tout en attaquant une cible. 
+- **Invisibilité Naturelle** (nécessite les talents *Ombre nacturne* et *Pas feutrés*, et être vêtu de noir): le joueur devient complètement invisible lorsqu'il est dans les ombres. 
+- **Maître du cache-cache** : le joueur bénéficie d'un bonus de 10% lorsqu'il tente de se cacher.
+- **Ombre rapide** : vous pouvez vous déplacer à pleine vitesse sans vous faire remarquer si vous réussissez un jet de *Discrétion*.
+- **Ombre nocturne** : le joueur bénéficié d'un bonus de 10% dans les environnements faiblement éclairés ou la nuit.
+- **Pas feutrés** : vos pas ne font aucun bruit et un personnage ne peut pas vous surprendre en utilisant son ouïe.
+- **Voleur à la tire** : le joueur bénéficie d'un bonus de 10% pour voler des objets dans les poches. 
+

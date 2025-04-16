@@ -1,0 +1,13 @@
+# Utilisation de l'Ether
+L'Utilisation de l'Ether est la seule et unique compétence qui permet de lancer des sorts. Invoquer des tornades, jeter des boules de jeu, emprisonner un ennemi dans une bulle d'eau ou créer des êtres de boue sont parmi les prouesses que cette compétence permet de faire.Savoir faire de la magie c'est également connaître la magie, et ainsi pouvoir reconnaître un rituel ou un objet magique quand on en croise un. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents d'Utilisation de l'Ether
+
+- **Aéromancien** : le joueur bénéficie d'un bonus de 10% quand il utilise des sorts de vent.
+- **Canalisation d'énergie** : le joueur augmente de 10 les dégâts occasionnés par ses sorts.
+- **Elementaliste** (nécessite le talent *Initié à la magie*): le joueur a étudié la Magie des Humains : la magie élémentaire. Il choisit trois des quatre écoles élémentaires et les classe. Il choisit trois sorts de son école de prédilection, deux sorts de son école médium et un sort de son école faible. Les sorts de son école de prédilection sont lancés normalement, les sorts de son école médium avec un malus de 5% et les sorts de son école faible avec un malus de 15%.
+- **Géomancien** : le joueurbénéficie d'un bonus de 10% quand il utilise des sorts de terre.
+- **Hydromancien** : le joueur bénéficie d'un bonus de 10% quand il utilise des sorts d'eau
+- **Initié à la magie** (nécessite 50% en *Utilisation de l'Ether*) : le joueur a suivi un cursus lui permettant d'utiliser des sorts mineurs. Il peut choisir trois sorts mineurs dans la liste présente dans la partie sur la magie.
+- **Pyromancien** : le joueur bénéficie d'un bonus de 10% quand il utilise des sorts de feu.
+- **Sort connu suplémentaire** : le joueur connaît un sort d'une des écoles élémentaires de magie.

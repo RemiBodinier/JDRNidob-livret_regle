@@ -1,0 +1,16 @@
+# Estimation
+
+L'Estimation est une compétence polyvalent qui se trouve utile lorsqu'il s'agit d'évaluer et d'identifier les propriétés d'un objet ou d'une matière. Cela peut se révéler fort utile pour savoir si un met est comestible, si une substance est empoisonnée, ou si une gemme vaut son pesant d'or. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents d'Estimation
+
+- **Détecteur de faux** : le joueur bénéficie d'un bonus de 10% pour repérer une contrefaçon ou un objet falsifié.
+- **Estimation de la magie** : vous bénéficiez d'un bonus de 10% lors d'un jet d'*Utilisation de l'Ether* pour savoir si un objet est magique si ce jet est précédé d'un jet d'*Estimation* réussit.
+- **Fin gourmet** : le joueur bénéficie d'un bonus de 10% lorsqu'il identifie si un aliment est comestible ou non.
+- **Herboriste** : le joueur bénéficie d'un bonus de 10% lorsqu'il identifie une plante et ses propriétés.
+- **Marchand** : le joueur bénéficie d'un bonus de 10% lorsqu'il estime le prix d'un objet.
+- **Minéralogiste** : le joueur bénéficie d'un bonus de 10% lorsqu'il identifie un minerai, ainsi que ses propriétés. 
+- **Négociateur** : si vous réussissez un jet d'*Estimation* pour le prix d'un objet, vous bénéficiez d'un bonus de 10% sur un jet d'*Influence* pour faire diminuer le prix de l'objet.
+- **Zoologue** : le joueur bénéficie d'un bonus de 10% quand il identifie une partie d'un animal, ainsi que ses propriétés.
+
+ 

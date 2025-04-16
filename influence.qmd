@@ -1,0 +1,18 @@
+# Influence
+
+L'Influence est une compétence correspondant à l'effet que vous faites aux autres. Un personnage influent pourra paraître plus amical à ses interlocuteurs, et obtenir d'eux tout ce qu'il pourrait vouloir. De plus, un personnage influent pourrait aussi faire regagner confiance à ses alliés et leur permettre de réaliser des miracles. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents d'Influence
+
+- **Avenant** (nécessite 65% en *Influence* et le talent *Personne de confiance*): les personnages avec lesquels interagit le joueur sont automatiquement plus enclins à le croire ou à coopérer.
+- **Chef d'équipe** : si vous stimulez vos coéquipiers pour qu'ils réalisent une action synchronisée, chacun aura un bonus de 5% sur ses jets lors de cette action. 
+- **Commandant** : en combat, un test d'*Influence* réussit peut donner un bonus de 10% au prochain jet d'un allié.
+- **Diplomate** : le joueur bénéficie d'un bonus de 10% lorsqu'il doit calmer les tensions entre des personnes.
+- **Dresseur** : le joueur bénéficie d'un bonus de 10% lorsqu'il amadoue une bête.
+- **Envoûteur** (nécessite 65% en *Influence* et le talent *Manipulateur*): Vous pouvez donner un ordre qui ne peut pas être contredit une fois par jour sur un jet d'*Influence* réussit.
+- **Intimidant** : le joueur bénéficie d'un bonus de 10% lorsqu'il intimide.
+- **Manipulateur** : le joueur bénéficie d'un bonus de 10% lorsqu'il essaye de convaincre quelqu'un de faire quelque chose. 
+- **Personne de confiance** : le joueur bénéficie d'un bonus de 10% lorsqu'il essaye de transformer une personne méfiante en allié potentiel. 
+- **Séducteur** : le joueur bénéficie d'un bonus de 10% lorsuq'il tente de séduire ou charmer quelqu'un.
+
+

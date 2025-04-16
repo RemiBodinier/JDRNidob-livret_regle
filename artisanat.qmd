@@ -1,0 +1,17 @@
+# Artisanat
+
+L'Artisanat est une compétence très polyvalente qui peut servir pour de nombreux types de personnages. Cette compétence sera utilisée pour construire des armes et des armures, dans le cas d'un personnage qui souhaite pouvoir créer les outils utilent en combat. Cette compétence peut également permettre de construire des potions, infligeant des dégâts ou donnant des améliorations à celui qui la boit. Si cette compétence vous intéresse, ci-dessous se trouve une liste de talents qu'il pourrait être judicieux de choisir.
+
+## Talents d'Artisanat
+ 
+- **Alchimiste** : le joueur bénéficie d'un bonus de 10% quand il fabrique une potion
+- **Alchimiste d'exception** : vous utilisez les ressources comme si elles étaient d'une qualité une fois supérieure (médiocre -> neutre, neutre -> bonne,...) lorsque vous créez une potion. 
+- **Armes équilibrées** (nécessite le talent *Forgeron d'armes*): un personnage qui utilise les armes que vous fabriquez bénéficie d'un bonus de 5% lors de leur utilisation. 
+- **Armurier** : le joueur bénéficie d'un bonus  de 10% quand il forge une armure. 
+- **Artificier** : le joueur bénéficie d'un bonus de 10% quand il fabrique une bombe.
+- **Cuisinier** : le joueur bénéficie d'un bonus de 10% quad il cuisine.
+- **Forgeron d'armes** : le joueur bénéficie d'un bonus de 10% quand il forge une arme.
+- **Ingénieur** : le joueur bénéicie d'un bonus de 10% pour construire une invention. 
+- **Joaillier** : le joueur bénéficie d'un bonus de 10% quand il cisèle un talisman.
+- **Maître des runes** (nécessite un enseignement par un tiers + 45% en *Utilisation de l'Ether*) : le joueur peut graver une rune de pouvoir sur n'importe quel objet, lui donnant une capcité spéciale.
+- **Recycleur** : vous pouvez démonter un objet et en récolter les différents composants pour créer un nouvel objet. Ne fonctionne pas pour les potions.
